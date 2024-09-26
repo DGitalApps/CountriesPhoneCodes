@@ -20,5 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "CountryPhonePrefixes"
-include(":app")
 include(":CountriesPhoneCode")

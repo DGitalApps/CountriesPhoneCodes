@@ -36,6 +36,7 @@ android {
 dependencies {
     implementation(libs.androidx.annotation.jvm)
 }
+
 afterEvaluate {
     publishing {
         publications {
