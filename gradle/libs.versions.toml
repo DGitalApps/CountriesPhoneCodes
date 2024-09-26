@@ -3,10 +3,16 @@ agp = "8.5.1"
 kotlin = "1.9.0"
 coreKtx = "1.13.1"
 annotationJvm = "1.8.2"
+testng = "6.9.6"
+monitor = "1.7.2"
+junitKtx = "1.2.1"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
 androidx-annotation-jvm = { group = "androidx.annotation", name = "annotation-jvm", version.ref = "annotationJvm" }
+testng = { group = "org.testng", name = "testng", version.ref = "testng" }
+androidx-monitor = { group = "androidx.test", name = "monitor", version.ref = "monitor" }
+androidx-junit-ktx = { group = "androidx.test.ext", name = "junit-ktx", version.ref = "junitKtx" }
 
 [plugins]
 jetbrains-kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
