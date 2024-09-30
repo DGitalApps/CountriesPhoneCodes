@@ -1,4 +1,4 @@
-package com.example.easyphoneprefixes
+package com.dgital.app.countriesphonecode
 
 object CountryCallingUtil {
     /**

@@ -1,5 +1,6 @@
-package com.example.easyphoneprefixes
+package com.dgital.app.countriesphonecode
 
+import com.dgital.app.countriesphonecode.CountryCallingData
 import com.dgital.app.countriesphonecode.R
 
 val countries = listOf(

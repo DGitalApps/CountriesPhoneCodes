@@ -1,4 +1,4 @@
-package com.example.easyphoneprefixes
+package com.dgital.app.countriesphonecode
 
 import android.util.Log
 import androidx.annotation.DrawableRes
