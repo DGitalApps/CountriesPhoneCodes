@@ -3,9 +3,12 @@ package com.example.easyphoneprefixes
 import android.util.Log
 import androidx.annotation.DrawableRes
 
-data class CountryPhoneData(
+data class CountryCallingData(
     var name: String,
     val prefix: String,
+    val countryCode: String,
+    val minPhoneLength: Int,
+    val maxPhoneLength: Int,
     @DrawableRes val flag: Int,
     val translatedNames: List<Pair<String, String>>,
 ) {
