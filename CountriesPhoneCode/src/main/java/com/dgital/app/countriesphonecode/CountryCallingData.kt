@@ -1,6 +1,5 @@
 package com.dgital.app.countriesphonecode
 
-import android.util.Log
 import androidx.annotation.DrawableRes
 
 data class CountryCallingData(
@@ -9,14 +8,14 @@ data class CountryCallingData(
     val countryCode: String,
     val minPhoneLength: Int,
     val maxPhoneLength: Int,
+    val flagEmoji: String,
     @DrawableRes val flag: Int,
     val translatedNames: List<Pair<String, String>>,
 ) {
     fun getNameInProperLanguage(countryCode: String): String {
-        if (!translatedNames.map { it.first }.contains(countryCode)) {
-            Log.i("CountryPhoneData", "${countryCode} is not supported yet or used wrong country code")
+        if (translatedNames.isEmpty() || !translatedNames.map { it.first }.contains(countryCode)) {
             return name
         }
-        return translatedNames.first { it.first == countryCode }.second
+        return translatedNames.first { it.first == countryCode }.second.takeIf { it.isNotEmpty() }?:name
     }
 }

@@ -5,6 +5,7 @@ val countries = listOf(
         name = "Afghanistan",
         prefix = "+93",
         flag = R.drawable.af,
+        flagEmoji = "🇦🇫",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "AF",
@@ -13,11 +14,11 @@ val countries = listOf(
             Pair("pl", "Afganistan"),
             Pair("ua", "Афганістан")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Albania",
         prefix = "+355",
         flag = R.drawable.al,
+        flagEmoji = "🇦🇱",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "AL",
@@ -26,11 +27,11 @@ val countries = listOf(
             Pair("pl", "Albania"),
             Pair("ua", "Албанія")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Algeria",
         prefix = "+213",
         flag = R.drawable.dz,
+        flagEmoji = "🇩🇿",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "DZ",
@@ -39,11 +40,24 @@ val countries = listOf(
             Pair("pl", "Algieria"),
             Pair("ua", "Алжир")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
+        name = "American Samoa",
+        prefix = "+1684",
+        flag = R.drawable.`as`,
+        flagEmoji = "🇦🇸",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "AS",
+        translatedNames = listOf(
+            Pair("en", "American Samoa"),
+            Pair("pl", "Samoa Amerykańskie"),
+            Pair("ua", "Американське Самоа")
+        )
+    ),CountryCallingData(
         name = "Andorra",
         prefix = "+376",
         flag = R.drawable.ad,
+        flagEmoji = "🇦🇩",
         minPhoneLength = 6,
         maxPhoneLength = 6,
         countryCode = "AD",
@@ -52,11 +66,11 @@ val countries = listOf(
             Pair("pl", "Andora"),
             Pair("ua", "Андорра")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Angola",
         prefix = "+244",
         flag = R.drawable.ao,
+        flagEmoji = "🇦🇴",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "AO",
@@ -65,11 +79,24 @@ val countries = listOf(
             Pair("pl", "Angola"),
             Pair("ua", "Ангола")
         )
-    ),
-    CountryCallingData(
-        name = "Antigua and Barbuda",
-        prefix = "+1-268",
+    ),CountryCallingData(
+        name = "Anguilla",
+        prefix = "+1264",
+        flag = R.drawable.ai,
+        flagEmoji = "🇦🇮",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "AI",
+        translatedNames = listOf(
+            Pair("en", "Anguilla"),
+            Pair("pl", "Anguilla"),
+            Pair("ua", "Ангілья")
+        )
+    ),CountryCallingData(
+        name = "Antigua & Barbuda",
+        prefix = "+1268",
         flag = R.drawable.ag,
+        flagEmoji = "🇦🇬",
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "AG",
@@ -78,11 +105,11 @@ val countries = listOf(
             Pair("pl", "Antigua i Barbuda"),
             Pair("ua", "Антигуа і Барбуда")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Argentina",
         prefix = "+54",
         flag = R.drawable.ar,
+        flagEmoji = "🇦🇷",
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "AR",
@@ -91,11 +118,11 @@ val countries = listOf(
             Pair("pl", "Argentyna"),
             Pair("ua", "Аргентина")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Armenia",
         prefix = "+374",
         flag = R.drawable.am,
+        flagEmoji = "🇦🇲",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "AM",
@@ -104,11 +131,24 @@ val countries = listOf(
             Pair("pl", "Armenia"),
             Pair("ua", "Вірменія")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
+        name = "Aruba",
+        prefix = "+297",
+        flag = R.drawable.aw,
+        flagEmoji = "🇦🇼",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "AW",
+        translatedNames = listOf(
+            Pair("en", "Aruba"),
+            Pair("pl", "Aruba"),
+            Pair("ua", "Аруба")
+        )
+    ),CountryCallingData(
         name = "Australia",
         prefix = "+61",
         flag = R.drawable.au,
+        flagEmoji = "🇦🇺",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "AU",
@@ -117,11 +157,11 @@ val countries = listOf(
             Pair("pl", "Australia"),
             Pair("ua", "Австралія")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Austria",
         prefix = "+43",
         flag = R.drawable.at,
+        flagEmoji = "🇦🇹",
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "AT",
@@ -130,11 +170,11 @@ val countries = listOf(
             Pair("pl", "Austria"),
             Pair("ua", "Австрія")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Azerbaijan",
         prefix = "+994",
         flag = R.drawable.az,
+        flagEmoji = "🇦🇿",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "AZ",
@@ -143,11 +183,11 @@ val countries = listOf(
             Pair("pl", "Azerbejdżan"),
             Pair("ua", "Азербайджан")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Bahamas",
-        prefix = "+1-242",
+        prefix = "+1242",
         flag = R.drawable.bs,
+        flagEmoji = "🇧🇸",
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "BS",
@@ -156,11 +196,11 @@ val countries = listOf(
             Pair("pl", "Bahamy"),
             Pair("ua", "Багамські Острови")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Bahrain",
         prefix = "+973",
         flag = R.drawable.bh,
+        flagEmoji = "🇧🇭",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "BH",
@@ -169,11 +209,11 @@ val countries = listOf(
             Pair("pl", "Bahrajn"),
             Pair("ua", "Бахрейн")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Bangladesh",
         prefix = "+880",
         flag = R.drawable.bd,
+        flagEmoji = "🇧🇩",
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "BD",
@@ -182,11 +222,11 @@ val countries = listOf(
             Pair("pl", "Bangladesz"),
             Pair("ua", "Бангладеш")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Barbados",
-        prefix = "+1-246",
+        prefix = "+1246",
         flag = R.drawable.bb,
+        flagEmoji = "🇧🇧",
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "BB",
@@ -195,11 +235,11 @@ val countries = listOf(
             Pair("pl", "Barbados"),
             Pair("ua", "Барбадос")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Belarus",
         prefix = "+375",
         flag = R.drawable.by,
+        flagEmoji = "🇧🇾",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "BY",
@@ -208,11 +248,11 @@ val countries = listOf(
             Pair("pl", "Białoruś"),
             Pair("ua", "Білорусь")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Belgium",
         prefix = "+32",
         flag = R.drawable.be,
+        flagEmoji = "🇧🇪",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "BE",
@@ -221,11 +261,11 @@ val countries = listOf(
             Pair("pl", "Belgia"),
             Pair("ua", "Бельгія")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Belize",
         prefix = "+501",
         flag = R.drawable.bz,
+        flagEmoji = "🇧🇿",
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "BZ",
@@ -234,11 +274,11 @@ val countries = listOf(
             Pair("pl", "Belize"),
             Pair("ua", "Беліз")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Benin",
         prefix = "+229",
         flag = R.drawable.bj,
+        flagEmoji = "🇧🇯",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "BJ",
@@ -247,11 +287,24 @@ val countries = listOf(
             Pair("pl", "Benin"),
             Pair("ua", "Бенін")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
+        name = "Bermuda",
+        prefix = "+1441",
+        flag = R.drawable.bm,
+        flagEmoji = "🇧🇲",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "BM",
+        translatedNames = listOf(
+            Pair("en", "Bermuda"),
+            Pair("pl", "Bermudy"),
+            Pair("ua", "Бермуди")
+        )
+    ),CountryCallingData(
         name = "Bhutan",
         prefix = "+975",
         flag = R.drawable.bt,
+        flagEmoji = "🇧🇹",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "BT",
@@ -260,11 +313,11 @@ val countries = listOf(
             Pair("pl", "Bhutan"),
             Pair("ua", "Бутан")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Bolivia",
         prefix = "+591",
         flag = R.drawable.bo,
+        flagEmoji = "🇧🇴",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "BO",
@@ -273,11 +326,11 @@ val countries = listOf(
             Pair("pl", "Boliwia"),
             Pair("ua", "Болівія")
         )
-    ),
-    CountryCallingData(
-        name = "Bosnia and Herzegovina",
+    ),CountryCallingData(
+        name = "Bosnia & Herzegovina",
         prefix = "+387",
         flag = R.drawable.ba,
+        flagEmoji = "🇧🇦",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "BA",
@@ -286,11 +339,11 @@ val countries = listOf(
             Pair("pl", "Bośnia i Hercegowina"),
             Pair("ua", "Боснія і Герцеговина")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Botswana",
         prefix = "+267",
         flag = R.drawable.bw,
+        flagEmoji = "🇧🇼",
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "BW",
@@ -299,11 +352,11 @@ val countries = listOf(
             Pair("pl", "Botswana"),
             Pair("ua", "Ботсвана")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Brazil",
         prefix = "+55",
         flag = R.drawable.br,
+        flagEmoji = "🇧🇷",
         minPhoneLength = 10,
         maxPhoneLength = 11,
         countryCode = "BR",
@@ -312,11 +365,24 @@ val countries = listOf(
             Pair("pl", "Brazylia"),
             Pair("ua", "Бразилія")
         )
-    ),
-    CountryCallingData(
-        name = "Brunei",
+    ),CountryCallingData(
+        name = "British Virgin Islands",
+        prefix = "+1284",
+        flag = R.drawable.io,
+        flagEmoji = "🇻🇬",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "IO",
+        translatedNames = listOf(
+            Pair("en", "British Virgin Islands"),
+            Pair("pl", "Brytyjskie Wyspy Dziewicze"),
+            Pair("ua", "Британські Віргінські Острови")
+        )
+    ),CountryCallingData(
+        name = "Brunei Darussalam",
         prefix = "+673",
         flag = R.drawable.bn,
+        flagEmoji = "🇧🇳",
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "BN",
@@ -325,11 +391,11 @@ val countries = listOf(
             Pair("pl", "Brunei"),
             Pair("ua", "Бруней")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Bulgaria",
         prefix = "+359",
         flag = R.drawable.bg,
+        flagEmoji = "🇧🇬",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "BG",
@@ -338,11 +404,11 @@ val countries = listOf(
             Pair("pl", "Bułgaria"),
             Pair("ua", "Болгарія")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Burkina Faso",
         prefix = "+226",
         flag = R.drawable.bf,
+        flagEmoji = "🇧🇫",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "BF",
@@ -351,11 +417,11 @@ val countries = listOf(
             Pair("pl", "Burkina Faso"),
             Pair("ua", "Буркіна-Фасо")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Burundi",
         prefix = "+257",
         flag = R.drawable.bi,
+        flagEmoji = "🇧🇮",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "BI",
@@ -364,24 +430,11 @@ val countries = listOf(
             Pair("pl", "Burundi"),
             Pair("ua", "Бурунді")
         )
-    ),
-    CountryCallingData(
-        name = "Cabo Verde",
-        prefix = "+238",
-        flag = R.drawable.cv,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "CV",
-        translatedNames = listOf(
-            Pair("en", "Cabo Verde"),
-            Pair("pl", "Cabo Verde"),
-            Pair("ua", "Кабо-Верде")
-        )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Cambodia",
         prefix = "+855",
         flag = R.drawable.kh,
+        flagEmoji = "🇰🇭",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "KH",
@@ -390,11 +443,11 @@ val countries = listOf(
             Pair("pl", "Kambodża"),
             Pair("ua", "Камбоджа")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Cameroon",
         prefix = "+237",
         flag = R.drawable.cm,
+        flagEmoji = "🇨🇲",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "CM",
@@ -403,11 +456,11 @@ val countries = listOf(
             Pair("pl", "Kamerun"),
             Pair("ua", "Камерун")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Canada",
         prefix = "+1",
         flag = R.drawable.ca,
+        flagEmoji = "🇨🇦",
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "CA",
@@ -416,11 +469,37 @@ val countries = listOf(
             Pair("pl", "Kanada"),
             Pair("ua", "Канада")
         )
-    ),
-    CountryCallingData(
-        name = "Central African Republic",
+    ),CountryCallingData(
+        name = "Cape Verde",
+        prefix = "+238",
+        flag = R.drawable.cv,
+        flagEmoji = "🇨🇻",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "CV",
+        translatedNames = listOf(
+            Pair("en", "Cabo Verde"),
+            Pair("pl", "Cabo Verde"),
+            Pair("ua", "Кабо-Верде")
+        )
+    ),CountryCallingData(
+        name = "Cayman Islands",
+        prefix = "+1345",
+        flag = R.drawable.ky,
+        flagEmoji = "🇰🇾",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "KY",
+        translatedNames = listOf(
+            Pair("en", "Cayman Islands"),
+            Pair("pl", "Kajmany"),
+            Pair("ua", "Острови Кайман")
+        )
+    ),CountryCallingData(
+        name = "Central African Rep.",
         prefix = "+236",
         flag = R.drawable.cf,
+        flagEmoji = "🇨🇫",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "CF",
@@ -429,11 +508,11 @@ val countries = listOf(
             Pair("pl", "Republika Środkowoafrykańska"),
             Pair("ua", "Центральноафриканська Республіка")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Chad",
         prefix = "+235",
         flag = R.drawable.td,
+        flagEmoji = "🇹🇩",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "TD",
@@ -442,11 +521,11 @@ val countries = listOf(
             Pair("pl", "Czad"),
             Pair("ua", "Чад")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Chile",
         prefix = "+56",
         flag = R.drawable.cl,
+        flagEmoji = "🇨🇱",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "CL",
@@ -455,11 +534,11 @@ val countries = listOf(
             Pair("pl", "Chile"),
             Pair("ua", "Чилі")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "China",
         prefix = "+86",
         flag = R.drawable.cn,
+        flagEmoji = "🇨🇳",
         minPhoneLength = 11,
         maxPhoneLength = 11,
         countryCode = "CN",
@@ -468,11 +547,11 @@ val countries = listOf(
             Pair("pl", "Chiny"),
             Pair("ua", "Китай")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Colombia",
         prefix = "+57",
         flag = R.drawable.co,
+        flagEmoji = "🇨🇴",
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "CO",
@@ -481,11 +560,11 @@ val countries = listOf(
             Pair("pl", "Kolumbia"),
             Pair("ua", "Колумбія")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Comoros",
         prefix = "+269",
         flag = R.drawable.km,
+        flagEmoji = "🇰🇲",
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "KM",
@@ -494,24 +573,11 @@ val countries = listOf(
             Pair("pl", "Komory"),
             Pair("ua", "Коморські Острови")
         )
-    ),
-    CountryCallingData(
-        name = "Congo, Democratic Republic of the",
-        prefix = "+243",
-        flag = R.drawable.cd,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "CD",
-        translatedNames = listOf(
-            Pair("en", "Congo, Democratic Republic of the"),
-            Pair("pl", "Demokratyczna Republika Konga"),
-            Pair("ua", "Демократична Республіка Конго")
-        )
-    ),
-    CountryCallingData(
-        name = "Congo, Republic of the",
+    ),CountryCallingData(
+        name = "Congo (Rep.)",
         prefix = "+242",
         flag = R.drawable.cg,
+        flagEmoji = "🇨🇬",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "CG",
@@ -520,11 +586,37 @@ val countries = listOf(
             Pair("pl", "Republika Konga"),
             Pair("ua", "Республіка Конго")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
+        name = "Congo (Dem. Rep.)",
+        prefix = "+243",
+        flag = R.drawable.cd,
+        flagEmoji = "🇨🇩",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "CD",
+        translatedNames = listOf(
+            Pair("en", "Congo, Democratic Republic of the"),
+            Pair("pl", "Demokratyczna Republika Konga"),
+            Pair("ua", "Демократична Республіка Конго")
+        )
+    ),CountryCallingData(
+        name = "Cook Islands",
+        prefix = "+682",
+        flag = R.drawable.ck,
+        flagEmoji = "🇨🇰",
+        minPhoneLength = 5,
+        maxPhoneLength = 5,
+        countryCode = "CK",
+        translatedNames = listOf(
+            Pair("en", "Cook Islands"),
+            Pair("pl", "Wyspy Cooka"),
+            Pair("ua", "Острови Кука")
+        )
+    ),CountryCallingData(
         name = "Costa Rica",
         prefix = "+506",
         flag = R.drawable.cr,
+        flagEmoji = "🇨🇷",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "CR",
@@ -533,531 +625,11 @@ val countries = listOf(
             Pair("pl", "Kostaryka"),
             Pair("ua", "Коста-Рика")
         )
-    ),
-    CountryCallingData(
-        name = "Croatia",
-        prefix = "+385",
-        flag = R.drawable.hr,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "HR",
-        translatedNames = listOf(
-            Pair("en", "Croatia"),
-            Pair("pl", "Chorwacja"),
-            Pair("ua", "Хорватія")
-        )
-    ),
-    CountryCallingData(
-        name = "Cuba",
-        prefix = "+53",
-        flag = R.drawable.cu,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "CU",
-        translatedNames = listOf(
-            Pair("en", "Cuba"),
-            Pair("pl", "Kuba"),
-            Pair("ua", "Куба")
-        )
-    ),
-    CountryCallingData(
-        name = "Cyprus",
-        prefix = "+357",
-        flag = R.drawable.cy,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "CY",
-        translatedNames = listOf(
-            Pair("en", "Cyprus"),
-            Pair("pl", "Cypr"),
-            Pair("ua", "Кіпр")
-        )
-    ),
-    CountryCallingData(
-        name = "Czech Republic",
-        prefix = "+420",
-        flag = R.drawable.cz,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "CZ",
-        translatedNames = listOf(
-            Pair("en", "Czech Republic"),
-            Pair("pl", "Czechy"),
-            Pair("ua", "Чехія")
-        )
-    ),
-    CountryCallingData(
-        name = "Denmark",
-        prefix = "+45",
-        flag = R.drawable.dk,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "DK",
-        translatedNames = listOf(
-            Pair("en", "Denmark"),
-            Pair("pl", "Dania"),
-            Pair("ua", "Данія")
-        )
-    ),
-    CountryCallingData(
-        name = "Djibouti",
-        prefix = "+253",
-        flag = R.drawable.dj,
-        minPhoneLength = 6,
-        maxPhoneLength = 6,
-        countryCode = "DJ",
-        translatedNames = listOf(
-            Pair("en", "Djibouti"),
-            Pair("pl", "Dżibuti"),
-            Pair("ua", "Джибуті")
-        )
-    ),
-    CountryCallingData(
-        name = "Dominica",
-        prefix = "+1-767",
-        flag = R.drawable.dm,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "DM",
-        translatedNames = listOf(
-            Pair("en", "Dominica"),
-            Pair("pl", "Dominika"),
-            Pair("ua", "Домініка")
-        )
-    ),
-    CountryCallingData(
-        name = "Dominican Republic",
-        prefix = "+1-809",
-        flag = R.drawable.dom,
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
-        countryCode = "DO",
-        translatedNames = listOf(
-            Pair("en", "Dominican Republic"),
-            Pair("pl", "Republika Dominikańska"),
-            Pair("ua", "Домініканська Республіка")
-        )
-    ),
-    CountryCallingData(
-        name = "Ecuador",
-        prefix = "+593",
-        flag = R.drawable.ec,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "EC",
-        translatedNames = listOf(
-            Pair("en", "Ecuador"),
-            Pair("pl", "Ekwador"),
-            Pair("ua", "Еквадор")
-        )
-    ),
-    CountryCallingData(
-        name = "Egypt",
-        prefix = "+20",
-        flag = R.drawable.eg,
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
-        countryCode = "EG",
-        translatedNames = listOf(
-            Pair("en", "Egypt"),
-            Pair("pl", "Egipt"),
-            Pair("ua", "Єгипет")
-        )
-    ),
-    CountryCallingData(
-        name = "El Salvador",
-        prefix = "+503",
-        flag = R.drawable.sv,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "SV",
-        translatedNames = listOf(
-            Pair("en", "El Salvador"),
-            Pair("pl", "Salwador"),
-            Pair("ua", "Сальвадор")
-        )
-    ),
-    CountryCallingData(
-        name = "Equatorial Guinea",
-        prefix = "+240",
-        flag = R.drawable.gq,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "GQ",
-        translatedNames = listOf(
-            Pair("en", "Equatorial Guinea"),
-            Pair("pl", "Gwinea Równikowa"),
-            Pair("ua", "Екваторіальна Гвінея")
-        )
-    ),
-    CountryCallingData(
-        name = "Eritrea",
-        prefix = "+291",
-        flag = R.drawable.er,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "ER",
-        translatedNames = listOf(
-            Pair("en", "Eritrea"),
-            Pair("pl", "Erytrea"),
-            Pair("ua", "Еритрея")
-        )
-    ),
-    CountryCallingData(
-        name = "Estonia",
-        prefix = "+372",
-        flag = R.drawable.ee,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "EE",
-        translatedNames = listOf(
-            Pair("en", "Estonia"),
-            Pair("pl", "Estonia"),
-            Pair("ua", "Естонія")
-        )
-    ),
-    CountryCallingData(
-        name = "Eswatini",
-        prefix = "+268",
-        flag = R.drawable.sz,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "SZ",
-        translatedNames = listOf(
-            Pair("en", "Eswatini"),
-            Pair("pl", "Eswatini"),
-            Pair("ua", "Есватіні")
-        )
-    ),
-    CountryCallingData(
-        name = "Ethiopia",
-        prefix = "+251",
-        flag = R.drawable.et,
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
-        countryCode = "ET",
-        translatedNames = listOf(
-            Pair("en", "Ethiopia"),
-            Pair("pl", "Etiopia"),
-            Pair("ua", "Ефіопія")
-        )
-    ),
-    CountryCallingData(
-        name = "Fiji",
-        prefix = "+679",
-        flag = R.drawable.fj,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "FJ",
-        translatedNames = listOf(
-            Pair("en", "Fiji"),
-            Pair("pl", "Fidżi"),
-            Pair("ua", "Фіджі")
-        )
-    ),
-    CountryCallingData(
-        name = "Finland",
-        prefix = "+358",
-        flag = R.drawable.fi,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "FI",
-        translatedNames = listOf(
-            Pair("en", "Finland"),
-            Pair("pl", "Finlandia"),
-            Pair("ua", "Фінляндія")
-        )
-    ),
-    CountryCallingData(
-        name = "France",
-        prefix = "+33",
-        flag = R.drawable.fr,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "FR",
-        translatedNames = listOf(
-            Pair("en", "France"),
-            Pair("pl", "Francja"),
-            Pair("ua", "Франція")
-        )
-    ),
-    CountryCallingData(
-        name = "Gabon",
-        prefix = "+241",
-        flag = R.drawable.ga,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "GA",
-        translatedNames = listOf(
-            Pair("en", "Gabon"),
-            Pair("pl", "Gabon"),
-            Pair("ua", "Габон")
-        )
-    ),
-    CountryCallingData(
-        name = "Gambia",
-        prefix = "+220",
-        flag = R.drawable.gm,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "GM",
-        translatedNames = listOf(
-            Pair("en", "Gambia"),
-            Pair("pl", "Gambia"),
-            Pair("ua", "Гамбія")
-        )
-    ),
-    CountryCallingData(
-        name = "Georgia",
-        prefix = "+995",
-        flag = R.drawable.ge,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "GE",
-        translatedNames = listOf(
-            Pair("en", "Georgia"),
-            Pair("pl", "Gruzja"),
-            Pair("ua", "Грузія")
-        )
-    ),
-    CountryCallingData(
-        name = "Germany",
-        prefix = "+49",
-        flag = R.drawable.de,
-        minPhoneLength = 11,
-        maxPhoneLength = 11,
-        countryCode = "DE",
-        translatedNames = listOf(
-            Pair("en", "Germany"),
-            Pair("pl", "Niemcy"),
-            Pair("ua", "Німеччина")
-        )
-    ),
-    CountryCallingData(
-        name = "Ghana",
-        prefix = "+233",
-        flag = R.drawable.gh,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "GH",
-        translatedNames = listOf(
-            Pair("en", "Ghana"),
-            Pair("pl", "Ghana"),
-            Pair("ua", "Гана")
-        )
-    ),
-    CountryCallingData(
-        name = "Greece",
-        prefix = "+30",
-        flag = R.drawable.gr,
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
-        countryCode = "GR",
-        translatedNames = listOf(
-            Pair("en", "Greece"),
-            Pair("pl", "Grecja"),
-            Pair("ua", "Греція")
-        )
-    ),
-    CountryCallingData(
-        name = "Grenada",
-        prefix = "+1-473",
-        flag = R.drawable.gd,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "GD",
-        translatedNames = listOf(
-            Pair("en", "Grenada"),
-            Pair("pl", "Grenada"),
-            Pair("ua", "Гренада")
-        )
-    ),
-    CountryCallingData(
-        name = "Guatemala",
-        prefix = "+502",
-        flag = R.drawable.gt,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "GT",
-        translatedNames = listOf(
-            Pair("en", "Guatemala"),
-            Pair("pl", "Gwatemala"),
-            Pair("ua", "Гватемала")
-        )
-    ),
-    CountryCallingData(
-        name = "Guinea",
-        prefix = "+224",
-        flag = R.drawable.gn,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "GN",
-        translatedNames = listOf(
-            Pair("en", "Guinea"),
-            Pair("pl", "Gwinea"),
-            Pair("ua", "Гвінея")
-        )
-    ),
-    CountryCallingData(
-        name = "Guinea-Bissau",
-        prefix = "+245",
-        flag = R.drawable.gw,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "GW",
-        translatedNames = listOf(
-            Pair("en", "Guinea-Bissau"),
-            Pair("pl", "Gwinea-Bissau"),
-            Pair("ua", "Гвінея-Біссау")
-        )
-    ),
-    CountryCallingData(
-        name = "Guyana",
-        prefix = "+592",
-        flag = R.drawable.gy,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "GY",
-        translatedNames = listOf(
-            Pair("en", "Guyana"),
-            Pair("pl", "Gujana"),
-            Pair("ua", "Гаяна")
-        )
-    ),
-    CountryCallingData(
-        name = "Haiti",
-        prefix = "+509",
-        flag = R.drawable.ht,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "HT",
-        translatedNames = listOf(
-            Pair("en", "Haiti"),
-            Pair("pl", "Haiti"),
-            Pair("ua", "Гаїті")
-        )
-    ),
-    CountryCallingData(
-        name = "Honduras",
-        prefix = "+504",
-        flag = R.drawable.hn,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "HN",
-        translatedNames = listOf(
-            Pair("en", "Honduras"),
-            Pair("pl", "Honduras"),
-            Pair("ua", "Гондурас")
-        )
-    ),
-    CountryCallingData(
-        name = "Hungary",
-        prefix = "+36",
-        flag = R.drawable.hu,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "HU",
-        translatedNames = listOf(
-            Pair("en", "Hungary"),
-            Pair("pl", "Węgry"),
-            Pair("ua", "Угорщина")
-        )
-    ),
-    CountryCallingData(
-        name = "Iceland",
-        prefix = "+354",
-        flag = R.drawable.`is`,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "IS",
-        translatedNames = listOf(
-            Pair("en", "Iceland"),
-            Pair("pl", "Islandia"),
-            Pair("ua", "Ісландія")
-        )
-    ),
-    CountryCallingData(
-        name = "India",
-        prefix = "+91",
-        flag = R.drawable.`in`,
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
-        countryCode = "IN",
-        translatedNames = listOf(
-            Pair("en", "India"),
-            Pair("pl", "Indie"),
-            Pair("ua", "Індія")
-        )
-    ),
-    CountryCallingData(
-        name = "Indonesia",
-        prefix = "+62",
-        flag = R.drawable.id,
-        minPhoneLength = 10,
-        maxPhoneLength = 11,
-        countryCode = "ID",
-        translatedNames = listOf(
-            Pair("en", "Indonesia"),
-            Pair("pl", "Indonezja"),
-            Pair("ua", "Індонезія")
-        )
-    ),
-    CountryCallingData(
-        name = "Iran",
-        prefix = "+98",
-        flag = R.drawable.ir,
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
-        countryCode = "IR",
-        translatedNames = listOf(
-            Pair("en", "Iran"),
-            Pair("pl", "Iran"),
-            Pair("ua", "Іран")
-        )
-    ),
-    CountryCallingData(
-        name = "Iraq",
-        prefix = "+964",
-        flag = R.drawable.iq,
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
-        countryCode = "IQ",
-        translatedNames = listOf(
-            Pair("en", "Iraq"),
-            Pair("pl", "Irak"),
-            Pair("ua", "Ірак")
-        )
-    ),
-    CountryCallingData(
-        name = "Ireland",
-        prefix = "+353",
-        flag = R.drawable.ie,
-        minPhoneLength = 7,
-        maxPhoneLength = 9,
-        countryCode = "IE",
-        translatedNames = listOf(
-            Pair("en", "Ireland"),
-            Pair("pl", "Irlandia"),
-            Pair("ua", "Ірландія")
-        )
-    ),
-    CountryCallingData(
-        name = "Israel",
-        prefix = "+972",
-        flag = R.drawable.il,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "IL",
-        translatedNames = listOf(
-            Pair("en", "Israel"),
-            Pair("pl", "Izrael"),
-            Pair("ua", "Ізраїль")
-        )
-    ),
-    CountryCallingData(
-        name = "Ivory Coast",
+    ),CountryCallingData(
+        name = "Cote d'Ivoire",
         prefix = "+225",
         flag = R.drawable.ci,
+        flagEmoji = "🇨🇮",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "CI",
@@ -1066,11 +638,635 @@ val countries = listOf(
             Pair("pl", "Wybrzeże Kości Słoniowej"),
             Pair("ua", "Берег Слонової Кості")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
+        name = "Croatia",
+        prefix = "+385",
+        flag = R.drawable.hr,
+        flagEmoji = "🇭🇷",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "HR",
+        translatedNames = listOf(
+            Pair("en", "Croatia"),
+            Pair("pl", "Chorwacja"),
+            Pair("ua", "Хорватія")
+        )
+    ),CountryCallingData(
+        name = "Cuba",
+        prefix = "+53",
+        flag = R.drawable.cu,
+        flagEmoji = "🇨🇺",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "CU",
+        translatedNames = listOf(
+            Pair("en", "Cuba"),
+            Pair("pl", "Kuba"),
+            Pair("ua", "Куба")
+        )
+    ),CountryCallingData(
+        name = "Cyprus",
+        prefix = "+357",
+        flag = R.drawable.cy,
+        flagEmoji = "🇨🇾",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "CY",
+        translatedNames = listOf(
+            Pair("en", "Cyprus"),
+            Pair("pl", "Cypr"),
+            Pair("ua", "Кіпр")
+        )
+    ),CountryCallingData(
+        name = "Czech Republic",
+        prefix = "+420",
+        flag = R.drawable.cz,
+        flagEmoji = "🇨🇿",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "CZ",
+        translatedNames = listOf(
+            Pair("en", "Czech Republic"),
+            Pair("pl", "Czechy"),
+            Pair("ua", "Чехія")
+        )
+    ),CountryCallingData(
+        name = "Denmark",
+        prefix = "+45",
+        flag = R.drawable.dk,
+        flagEmoji = "🇩🇰",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "DK",
+        translatedNames = listOf(
+            Pair("en", "Denmark"),
+            Pair("pl", "Dania"),
+            Pair("ua", "Данія")
+        )
+    ),CountryCallingData(
+        name = "Djibouti",
+        prefix = "+253",
+        flag = R.drawable.dj,
+        flagEmoji = "🇩🇯",
+        minPhoneLength = 6,
+        maxPhoneLength = 6,
+        countryCode = "DJ",
+        translatedNames = listOf(
+            Pair("en", "Djibouti"),
+            Pair("pl", "Dżibuti"),
+            Pair("ua", "Джибуті")
+        )
+    ),CountryCallingData(
+        name = "Dominica",
+        prefix = "+1767",
+        flag = R.drawable.dm,
+        flagEmoji = "🇩🇲",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "DM",
+        translatedNames = listOf(
+            Pair("en", "Dominica"),
+            Pair("pl", "Dominika"),
+            Pair("ua", "Домініка")
+        )
+    ),CountryCallingData(
+        name = "Dominican Republic",
+        prefix = "+1809",
+        flag = R.drawable.dom,
+        flagEmoji = "🇩🇴",
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
+        countryCode = "DO",
+        translatedNames = listOf(
+            Pair("en", "Dominican Republic"),
+            Pair("pl", "Republika Dominikańska"),
+            Pair("ua", "Домініканська Республіка")
+        )
+    ),CountryCallingData(
+        name = "Ecuador",
+        prefix = "+593",
+        flag = R.drawable.ec,
+        flagEmoji = "🇪🇨",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "EC",
+        translatedNames = listOf(
+            Pair("en", "Ecuador"),
+            Pair("pl", "Ekwador"),
+            Pair("ua", "Еквадор")
+        )
+    ),CountryCallingData(
+        name = "Egypt",
+        prefix = "+20",
+        flag = R.drawable.eg,
+        flagEmoji = "🇪🇬",
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
+        countryCode = "EG",
+        translatedNames = listOf(
+            Pair("en", "Egypt"),
+            Pair("pl", "Egipt"),
+            Pair("ua", "Єгипет")
+        )
+    ),CountryCallingData(
+        name = "El Salvador",
+        prefix = "+503",
+        flag = R.drawable.sv,
+        flagEmoji = "🇸🇻",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "SV",
+        translatedNames = listOf(
+            Pair("en", "El Salvador"),
+            Pair("pl", "Salwador"),
+            Pair("ua", "Сальвадор")
+        )
+    ),CountryCallingData(
+        name = "Equatorial Guinea",
+        prefix = "+240",
+        flag = R.drawable.gq,
+        flagEmoji = "🇬🇶",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "GQ",
+        translatedNames = listOf(
+            Pair("en", "Equatorial Guinea"),
+            Pair("pl", "Gwinea Równikowa"),
+            Pair("ua", "Екваторіальна Гвінея")
+        )
+    ),CountryCallingData(
+        name = "Eritrea",
+        prefix = "+291",
+        flag = R.drawable.er,
+        flagEmoji = "🇪🇷",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "ER",
+        translatedNames = listOf(
+            Pair("en", "Eritrea"),
+            Pair("pl", "Erytrea"),
+            Pair("ua", "Еритрея")
+        )
+    ),CountryCallingData(
+        name = "Estonia",
+        prefix = "+372",
+        flag = R.drawable.ee,
+        flagEmoji = "🇪🇪",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "EE",
+        translatedNames = listOf(
+            Pair("en", "Estonia"),
+            Pair("pl", "Estonia"),
+            Pair("ua", "Естонія")
+        )
+    ),CountryCallingData(
+        name = "Eswatini",
+        prefix = "+268",
+        flag = R.drawable.sz,
+        flagEmoji = "🇸🇿",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "SZ",
+        translatedNames = listOf(
+            Pair("en", "Eswatini"),
+            Pair("pl", "Eswatini"),
+            Pair("ua", "Есватіні")
+        )
+    ),CountryCallingData(
+        name = "Ethiopia",
+        prefix = "+251",
+        flag = R.drawable.et,
+        flagEmoji = "🇪🇹",
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
+        countryCode = "ET",
+        translatedNames = listOf(
+            Pair("en", "Ethiopia"),
+            Pair("pl", "Etiopia"),
+            Pair("ua", "Ефіопія")
+        )
+    ),CountryCallingData(
+        name = "Faroe Islands",
+        prefix = "+298",
+        flag = R.drawable.fo,
+        flagEmoji = "🇫🇴",
+        minPhoneLength = 6,
+        maxPhoneLength = 6,
+        countryCode = "FO",
+        translatedNames = listOf(
+            Pair("en", "Faroe Islands"),
+            Pair("pl", "Wyspy Owcze"),
+            Pair("ua", "Фарерські острови")
+        )
+    ),CountryCallingData(
+        name = "Fiji",
+        prefix = "+679",
+        flag = R.drawable.fj,
+        flagEmoji = "🇫🇯",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "FJ",
+        translatedNames = listOf(
+            Pair("en", "Fiji"),
+            Pair("pl", "Fidżi"),
+            Pair("ua", "Фіджі")
+        )
+    ),CountryCallingData(
+        name = "Finland",
+        prefix = "+358",
+        flag = R.drawable.fi,
+        flagEmoji = "🇫🇮",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "FI",
+        translatedNames = listOf(
+            Pair("en", "Finland"),
+            Pair("pl", "Finlandia"),
+            Pair("ua", "Фінляндія")
+        )
+    ),CountryCallingData(
+        name = "France",
+        prefix = "+33",
+        flag = R.drawable.fr,
+        flagEmoji = "🇫🇷",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "FR",
+        translatedNames = listOf(
+            Pair("en", "France"),
+            Pair("pl", "Francja"),
+            Pair("ua", "Франція")
+        )
+    ),CountryCallingData(
+        name = "French Guiana",
+        prefix = "+594",
+        flag = R.drawable.gf,
+        flagEmoji = "🇬🇫",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "GF",
+        translatedNames = listOf(
+            Pair("en", "French Guiana"),
+            Pair("pl", "Gujana Francuska"),
+            Pair("ua", "Французька Гвіана")
+        )
+    ),CountryCallingData(
+        name = "French Polynesia",
+        prefix = "+689",
+        flag = R.drawable.pf,
+        flagEmoji = "🇵🇫",
+        minPhoneLength = 6,
+        maxPhoneLength = 6,
+        countryCode = "PF",
+        translatedNames = listOf(
+            Pair("en", "French Polynesia"),
+            Pair("pl", "Polinezja Francuska"),
+            Pair("ua", "Французька Полінезія")
+        )
+    ),CountryCallingData(
+        name = "Gabon",
+        prefix = "+241",
+        flag = R.drawable.ga,
+        flagEmoji = "🇬🇦",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "GA",
+        translatedNames = listOf(
+            Pair("en", "Gabon"),
+            Pair("pl", "Gabon"),
+            Pair("ua", "Габон")
+        )
+    ),CountryCallingData(
+        name = "Gambia",
+        prefix = "+220",
+        flag = R.drawable.gm,
+        flagEmoji = "🇬🇲",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "GM",
+        translatedNames = listOf(
+            Pair("en", "Gambia"),
+            Pair("pl", "Gambia"),
+            Pair("ua", "Гамбія")
+        )
+    ),CountryCallingData(
+        name = "Georgia",
+        prefix = "+995",
+        flag = R.drawable.ge,
+        flagEmoji = "🇬🇪",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "GE",
+        translatedNames = listOf(
+            Pair("en", "Georgia"),
+            Pair("pl", "Gruzja"),
+            Pair("ua", "Грузія")
+        )
+    ),CountryCallingData(
+        name = "Germany",
+        prefix = "+49",
+        flag = R.drawable.de,
+        flagEmoji = "🇩🇪",
+        minPhoneLength = 11,
+        maxPhoneLength = 11,
+        countryCode = "DE",
+        translatedNames = listOf(
+            Pair("en", "Germany"),
+            Pair("pl", "Niemcy"),
+            Pair("ua", "Німеччина")
+        )
+    ),CountryCallingData(
+        name = "Ghana",
+        prefix = "+233",
+        flag = R.drawable.gh,
+        flagEmoji = "🇬🇭",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "GH",
+        translatedNames = listOf(
+            Pair("en", "Ghana"),
+            Pair("pl", "Ghana"),
+            Pair("ua", "Гана")
+        )
+    ),CountryCallingData(
+        name = "Gibraltar",
+        prefix = "+350",
+        flag = R.drawable.gi,
+        flagEmoji = "🇬🇮",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "GI",
+        translatedNames = listOf(
+            Pair("en", "Gibraltar"),
+            Pair("pl", "Gibraltar"),
+            Pair("ua", "Гібралтар")
+        )
+    ),CountryCallingData(
+        name = "Greece",
+        prefix = "+30",
+        flag = R.drawable.gr,
+        flagEmoji = "🇬🇷",
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
+        countryCode = "GR",
+        translatedNames = listOf(
+            Pair("en", "Greece"),
+            Pair("pl", "Grecja"),
+            Pair("ua", "Греція")
+        )
+    ),CountryCallingData(
+        name = "Greenland",
+        prefix = "+299",
+        flag = R.drawable.gl,
+        flagEmoji = "🇬🇱",
+        minPhoneLength = 6,
+        maxPhoneLength = 6,
+        countryCode = "GL",
+        translatedNames = listOf(
+            Pair("en", "Greenland"),
+            Pair("pl", "Grenlandia"),
+            Pair("ua", "Гренландія")
+        )
+    ),CountryCallingData(
+        name = "Grenada",
+        prefix = "+1473",
+        flag = R.drawable.gd,
+        flagEmoji = "🇬🇩",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "GD",
+        translatedNames = listOf(
+            Pair("en", "Grenada"),
+            Pair("pl", "Grenada"),
+            Pair("ua", "Гренада")
+        )
+    ),CountryCallingData(
+        name = "Guadeloupe",
+        prefix = "+590",
+        flag = R.drawable.gp,
+        flagEmoji = "🇬🇵",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "GP",
+        translatedNames = listOf(
+            Pair("en", "Guadeloupe"),
+            Pair("pl", "Gwadelupa"),
+            Pair("ua", "Гваделупа")
+        )
+    ),CountryCallingData(
+        name = "Guam",
+        prefix = "+1671",
+        flag = R.drawable.gu,
+        flagEmoji = "🇬🇺",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "GU",
+        translatedNames = listOf(
+            Pair("en", "Guam"),
+            Pair("pl", "Guam"),
+            Pair("ua", "Гуам")
+        )
+    ),CountryCallingData(
+        name = "Guatemala",
+        prefix = "+502",
+        flag = R.drawable.gt,
+        flagEmoji = "🇬🇹",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "GT",
+        translatedNames = listOf(
+            Pair("en", "Guatemala"),
+            Pair("pl", "Gwatemala"),
+            Pair("ua", "Гватемала")
+        )
+    ),CountryCallingData(
+        name = "Guinea",
+        prefix = "+224",
+        flag = R.drawable.gn,
+        flagEmoji = "🇬🇳",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "GN",
+        translatedNames = listOf(
+            Pair("en", "Guinea"),
+            Pair("pl", "Gwinea"),
+            Pair("ua", "Гвінея")
+        )
+    ),CountryCallingData(
+        name = "Guinea-Bissau",
+        prefix = "+245",
+        flag = R.drawable.gw,
+        flagEmoji = "🇬🇼",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "GW",
+        translatedNames = listOf(
+            Pair("en", "Guinea-Bissau"),
+            Pair("pl", "Gwinea-Bissau"),
+            Pair("ua", "Гвінея-Біссау")
+        )
+    ),CountryCallingData(
+        name = "Guyana",
+        prefix = "+592",
+        flag = R.drawable.gy,
+        flagEmoji = "🇬🇾",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "GY",
+        translatedNames = listOf(
+            Pair("en", "Guyana"),
+            Pair("pl", "Gujana"),
+            Pair("ua", "Гаяна")
+        )
+    ),CountryCallingData(
+        name = "Haiti",
+        prefix = "+509",
+        flag = R.drawable.ht,
+        flagEmoji = "🇭🇹",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "HT",
+        translatedNames = listOf(
+            Pair("en", "Haiti"),
+            Pair("pl", "Haiti"),
+            Pair("ua", "Гаїті")
+        )
+    ),CountryCallingData(
+        name = "Honduras",
+        prefix = "+504",
+        flag = R.drawable.hn,
+        flagEmoji = "🇭🇳",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "HN",
+        translatedNames = listOf(
+            Pair("en", "Honduras"),
+            Pair("pl", "Honduras"),
+            Pair("ua", "Гондурас")
+        )
+    ),CountryCallingData(
+        name = "Hong Kong",
+        prefix = "+852",
+        flag = R.drawable.hk,
+        flagEmoji = "🇭🇰",
+        minPhoneLength = 8,
+        maxPhoneLength = 9,
+        countryCode = "HK",
+        translatedNames = listOf(
+            Pair("en", "Hong Kong"),
+            Pair("pl", "Hongkong"),
+            Pair("ua", "Гонконг")
+        )
+    ),CountryCallingData(
+        name = "Hungary",
+        prefix = "+36",
+        flag = R.drawable.hu,
+        flagEmoji = "🇭🇺",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "HU",
+        translatedNames = listOf(
+            Pair("en", "Hungary"),
+            Pair("pl", "Węgry"),
+            Pair("ua", "Угорщина")
+        )
+    ),CountryCallingData(
+        name = "Iceland",
+        prefix = "+354",
+        flag = R.drawable.`is`,
+        flagEmoji = "🇮🇸",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "IS",
+        translatedNames = listOf(
+            Pair("en", "Iceland"),
+            Pair("pl", "Islandia"),
+            Pair("ua", "Ісландія")
+        )
+    ),CountryCallingData(
+        name = "India",
+        prefix = "+91",
+        flag = R.drawable.`in`,
+        flagEmoji = "🇮🇳",
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
+        countryCode = "IN",
+        translatedNames = listOf(
+            Pair("en", "India"),
+            Pair("pl", "Indie"),
+            Pair("ua", "Індія")
+        )
+    ),CountryCallingData(
+        name = "Indonesia",
+        prefix = "+62",
+        flag = R.drawable.id,
+        flagEmoji = "🇮🇩",
+        minPhoneLength = 10,
+        maxPhoneLength = 11,
+        countryCode = "ID",
+        translatedNames = listOf(
+            Pair("en", "Indonesia"),
+            Pair("pl", "Indonezja"),
+            Pair("ua", "Індонезія")
+        )
+    ),CountryCallingData(
+        name = "Iran",
+        prefix = "+98",
+        flag = R.drawable.ir,
+        flagEmoji = "🇮🇷",
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
+        countryCode = "IR",
+        translatedNames = listOf(
+            Pair("en", "Iran"),
+            Pair("pl", "Iran"),
+            Pair("ua", "Іран")
+        )
+    ),CountryCallingData(
+        name = "Iraq",
+        prefix = "+964",
+        flag = R.drawable.iq,
+        flagEmoji = "🇮🇶",
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
+        countryCode = "IQ",
+        translatedNames = listOf(
+            Pair("en", "Iraq"),
+            Pair("pl", "Irak"),
+            Pair("ua", "Ірак")
+        )
+    ),CountryCallingData(
+        name = "Ireland",
+        prefix = "+353",
+        flag = R.drawable.ie,
+        flagEmoji = "🇮🇪",
+        minPhoneLength = 7,
+        maxPhoneLength = 9,
+        countryCode = "IE",
+        translatedNames = listOf(
+            Pair("en", "Ireland"),
+            Pair("pl", "Irlandia"),
+            Pair("ua", "Ірландія")
+        )
+    ),CountryCallingData(
+        name = "Israel",
+        prefix = "+972",
+        flag = R.drawable.il,
+        flagEmoji = "🇮🇱",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "IL",
+        translatedNames = listOf(
+            Pair("en", "Israel"),
+            Pair("pl", "Izrael"),
+            Pair("ua", "Ізраїль")
+        )
+    ),CountryCallingData(
         name = "Italy",
         prefix = "+39",
         flag = R.drawable.it,
+        flagEmoji = "🇮🇹",
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "IT",
@@ -1079,11 +1275,11 @@ val countries = listOf(
             Pair("pl", "Włochy"),
             Pair("ua", "Італія")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Jamaica",
-        prefix = "+1-876",
+        prefix = "+1876",
         flag = R.drawable.jm,
+        flagEmoji = "🇯🇲",
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "JM",
@@ -1092,11 +1288,11 @@ val countries = listOf(
             Pair("pl", "Jamajka"),
             Pair("ua", "Ямайка")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Japan",
         prefix = "+81",
         flag = R.drawable.jp,
+        flagEmoji = "🇯🇵",
         minPhoneLength = 10,
         maxPhoneLength = 11,
         countryCode = "JP",
@@ -1105,11 +1301,11 @@ val countries = listOf(
             Pair("pl", "Japonia"),
             Pair("ua", "Японія")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Jordan",
         prefix = "+962",
         flag = R.drawable.jo,
+        flagEmoji = "🇯🇴",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "JO",
@@ -1118,11 +1314,11 @@ val countries = listOf(
             Pair("pl", "Jordania"),
             Pair("ua", "Йорданія")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Kazakhstan",
         prefix = "+7",
         flag = R.drawable.kz,
+        flagEmoji = "🇰🇿",
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "KZ",
@@ -1131,11 +1327,11 @@ val countries = listOf(
             Pair("pl", "Kazachstan"),
             Pair("ua", "Казахстан")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Kenya",
         prefix = "+254",
         flag = R.drawable.ke,
+        flagEmoji = "🇰🇪",
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "KE",
@@ -1144,11 +1340,11 @@ val countries = listOf(
             Pair("pl", "Kenia"),
             Pair("ua", "Кенія")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Kiribati",
         prefix = "+686",
         flag = R.drawable.ki,
+        flagEmoji = "🇰🇮",
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "KI",
@@ -1157,492 +1353,11 @@ val countries = listOf(
             Pair("pl", "Kiribati"),
             Pair("ua", "Кірибаті")
         )
-    ),
-    CountryCallingData(
-        name = "Kuwait",
-        prefix = "+965",
-        flag = R.drawable.kw,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "KW",
-        translatedNames = listOf(
-            Pair("en", "Kuwait"),
-            Pair("pl", "Kuwejt"),
-            Pair("ua", "Кувейт")
-        )
-    ),
-    CountryCallingData(
-        name = "Kyrgyzstan",
-        prefix = "+996",
-        flag = R.drawable.kg,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "KG",
-        translatedNames = listOf(
-            Pair("en", "Kyrgyzstan"),
-            Pair("pl", "Kirgistan"),
-            Pair("ua", "Киргизстан")
-        )
-    ),
-    CountryCallingData(
-        name = "Laos",
-        prefix = "+856",
-        flag = R.drawable.la,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "LA",
-        translatedNames = listOf(
-            Pair("en", "Laos"),
-            Pair("pl", "Laos"),
-            Pair("ua", "Лаос")
-        )
-    ),
-    CountryCallingData(
-        name = "Latvia",
-        prefix = "+371",
-        flag = R.drawable.lv,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "LV",
-        translatedNames = listOf(
-            Pair("en", "Latvia"),
-            Pair("pl", "Łotwa"),
-            Pair("ua", "Латвія")
-        )
-    ),
-    CountryCallingData(
-        name = "Lebanon",
-        prefix = "+961",
-        flag = R.drawable.lb,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "LB",
-        translatedNames = listOf(
-            Pair("en", "Lebanon"),
-            Pair("pl", "Liban"),
-            Pair("ua", "Ліван")
-        )
-    ),
-    CountryCallingData(
-        name = "Lesotho",
-        prefix = "+266",
-        flag = R.drawable.ls,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "LS",
-        translatedNames = listOf(
-            Pair("en", "Lesotho"),
-            Pair("pl", "Lesotho"),
-            Pair("ua", "Лесото")
-        )
-    ),
-    CountryCallingData(
-        name = "Liberia",
-        prefix = "+231",
-        flag = R.drawable.lr,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "LR",
-        translatedNames = listOf(
-            Pair("en", "Liberia"),
-            Pair("pl", "Liberia"),
-            Pair("ua", "Ліберія")
-        )
-    ),
-    CountryCallingData(
-        name = "Libya",
-        prefix = "+218",
-        flag = R.drawable.ly,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "LY",
-        translatedNames = listOf(
-            Pair("en", "Libya"),
-            Pair("pl", "Libia"),
-            Pair("ua", "Лівія")
-        )
-    ),
-    CountryCallingData(
-        name = "Liechtenstein",
-        prefix = "+423",
-        flag = R.drawable.li,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "LI",
-        translatedNames = listOf(
-            Pair("en", "Liechtenstein"),
-            Pair("pl", "Liechtenstein"),
-            Pair("ua", "Ліхтенштейн")
-        )
-    ),
-    CountryCallingData(
-        name = "Lithuania",
-        prefix = "+370",
-        flag = R.drawable.lt,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "LT",
-        translatedNames = listOf(
-            Pair("en", "Lithuania"),
-            Pair("pl", "Litwa"),
-            Pair("ua", "Литва")
-        )
-    ),
-    CountryCallingData(
-        name = "Luxembourg",
-        prefix = "+352",
-        flag = R.drawable.lu,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "LU",
-        translatedNames = listOf(
-            Pair("en", "Luxembourg"),
-            Pair("pl", "Luksemburg"),
-            Pair("ua", "Люксембург")
-        )
-    ),
-    CountryCallingData(
-        name = "Madagascar",
-        prefix = "+261",
-        flag = R.drawable.mg,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "MG",
-        translatedNames = listOf(
-            Pair("en", "Madagascar"),
-            Pair("pl", "Madagaskar"),
-            Pair("ua", "Мадагаскар")
-        )
-    ),
-    CountryCallingData(
-        name = "Malawi",
-        prefix = "+265",
-        flag = R.drawable.mw,
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
-        countryCode = "MW",
-        translatedNames = listOf(
-            Pair("en", "Malawi"),
-            Pair("pl", "Malawi"),
-            Pair("ua", "Малаві")
-        )
-    ),
-    CountryCallingData(
-        name = "Malaysia",
-        prefix = "+60",
-        flag = R.drawable.my,
-        minPhoneLength = 9,
-        maxPhoneLength = 10,
-        countryCode = "MY",
-        translatedNames = listOf(
-            Pair("en", "Malaysia"),
-            Pair("pl", "Malezja"),
-            Pair("ua", "Малайзія")
-        )
-    ),
-    CountryCallingData(
-        name = "Maldives",
-        prefix = "+960",
-        flag = R.drawable.mv,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "MV",
-        translatedNames = listOf(
-            Pair("en", "Maldives"),
-            Pair("pl", "Malediwy"),
-            Pair("ua", "Мальдіви")
-        )
-    ),
-    CountryCallingData(
-        name = "Mali",
-        prefix = "+223",
-        flag = R.drawable.ml,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "ML",
-        translatedNames = listOf(
-            Pair("en", "Mali"),
-            Pair("pl", "Mali"),
-            Pair("ua", "Малі")
-        )
-    ),
-    CountryCallingData(
-        name = "Malta",
-        prefix = "+356",
-        flag = R.drawable.mt,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "MT",
-        translatedNames = listOf(
-            Pair("en", "Malta"),
-            Pair("pl", "Malta"),
-            Pair("ua", "Мальта")
-        )
-    ),
-    CountryCallingData(
-        name = "Marshall Islands",
-        prefix = "+692",
-        flag = R.drawable.mh,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "MH",
-        translatedNames = listOf(
-            Pair("en", "Marshall Islands"),
-            Pair("pl", "Wyspy Marshalla"),
-            Pair("ua", "Маршаллові Острови")
-        )
-    ),
-    CountryCallingData(
-        name = "Mauritania",
-        prefix = "+222",
-        flag = R.drawable.mr,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "MR",
-        translatedNames = listOf(
-            Pair("en", "Mauritania"),
-            Pair("pl", "Mauretania"),
-            Pair("ua", "Мавританія")
-        )
-    ),
-    CountryCallingData(
-        name = "Mauritius",
-        prefix = "+230",
-        flag = R.drawable.mu,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "MU",
-        translatedNames = listOf(
-            Pair("en", "Mauritius"),
-            Pair("pl", "Mauritius"),
-            Pair("ua", "Маврикій")
-        )
-    ),
-    CountryCallingData(
-        name = "Mexico",
-        prefix = "+52",
-        flag = R.drawable.mx,
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
-        countryCode = "MX",
-        translatedNames = listOf(
-            Pair("en", "Mexico"),
-            Pair("pl", "Meksyk"),
-            Pair("ua", "Мексика")
-        )
-    ),
-    CountryCallingData(
-        name = "Micronesia",
-        prefix = "+691",
-        flag = R.drawable.fm,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "FM",
-        translatedNames = listOf(
-            Pair("en", "Micronesia"),
-            Pair("pl", "Mikronezja"),
-            Pair("ua", "Мікронезія")
-        )
-    ),
-    CountryCallingData(
-        name = "Moldova",
-        prefix = "+373",
-        flag = R.drawable.md,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "MD",
-        translatedNames = listOf(
-            Pair("en", "Moldova"),
-            Pair("pl", "Mołdawia"),
-            Pair("ua", "Молдова")
-        )
-    ),
-    CountryCallingData(
-        name = "Monaco",
-        prefix = "+377",
-        flag = R.drawable.mc,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "MC",
-        translatedNames = listOf(
-            Pair("en", "Monaco"),
-            Pair("pl", "Monako"),
-            Pair("ua", "Монако")
-        )
-    ),
-    CountryCallingData(
-        name = "Mongolia",
-        prefix = "+976",
-        flag = R.drawable.mn,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "MN",
-        translatedNames = listOf(
-            Pair("en", "Mongolia"),
-            Pair("pl", "Mongolia"),
-            Pair("ua", "Монголія")
-        )
-    ),
-    CountryCallingData(
-        name = "Montenegro",
-        prefix = "+382",
-        flag = R.drawable.me,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "ME",
-        translatedNames = listOf(
-            Pair("en", "Montenegro"),
-            Pair("pl", "Czarnogóra"),
-            Pair("ua", "Чорногорія")
-        )
-    ),
-    CountryCallingData(
-        name = "Morocco",
-        prefix = "+212",
-        flag = R.drawable.ma,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "MA",
-        translatedNames = listOf(
-            Pair("en", "Morocco"),
-            Pair("pl", "Maroko"),
-            Pair("ua", "Марокко")
-        )
-    ),
-    CountryCallingData(
-        name = "Mozambique",
-        prefix = "+258",
-        flag = R.drawable.mz,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "MZ",
-        translatedNames = listOf(
-            Pair("en", "Mozambique"),
-            Pair("pl", "Mozambik"),
-            Pair("ua", "Мозамбік")
-        )
-    ),
-    CountryCallingData(
-        name = "Myanmar",
-        prefix = "+95",
-        flag = R.drawable.mm,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "MM",
-        translatedNames = listOf(
-            Pair("en", "Myanmar"),
-            Pair("pl", "Mjanma"),
-            Pair("ua", "М'янма")
-        )
-    ),
-    CountryCallingData(
-        name = "Namibia",
-        prefix = "+264",
-        flag = R.drawable.na,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "NA",
-        translatedNames = listOf(
-            Pair("en", "Namibia"),
-            Pair("pl", "Namibia"),
-            Pair("ua", "Намібія")
-        )
-    ),
-    CountryCallingData(
-        name = "Nauru",
-        prefix = "+674",
-        flag = R.drawable.nr,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "NR",
-        translatedNames = listOf(
-            Pair("en", "Nauru"),
-            Pair("pl", "Nauru"),
-            Pair("ua", "Науру")
-        )
-    ),
-    CountryCallingData(
-        name = "Nepal",
-        prefix = "+977",
-        flag = R.drawable.np,
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
-        countryCode = "NP",
-        translatedNames = listOf(
-            Pair("en", "Nepal"),
-            Pair("pl", "Nepal"),
-            Pair("ua", "Непал")
-        )
-    ),
-    CountryCallingData(
-        name = "Netherlands",
-        prefix = "+31",
-        flag = R.drawable.nl,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "NL",
-        translatedNames = listOf(
-            Pair("en", "Netherlands"),
-            Pair("pl", "Holandia"),
-            Pair("ua", "Нідерланди")
-        )
-    ),
-    CountryCallingData(
-        name = "New Zealand",
-        prefix = "+64",
-        flag = R.drawable.nz,
-        minPhoneLength = 8,
-        maxPhoneLength = 9,
-        countryCode = "NZ",
-        translatedNames = listOf(
-            Pair("en", "New Zealand"),
-            Pair("pl", "Nowa Zelandia"),
-            Pair("ua", "Нова Зеландія")
-        )
-    ),
-    CountryCallingData(
-        name = "Nicaragua",
-        prefix = "+505",
-        flag = R.drawable.ni,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "NI",
-        translatedNames = listOf(
-            Pair("en", "Nicaragua"),
-            Pair("pl", "Nikaragua"),
-            Pair("ua", "Нікарагуа")
-        )
-    ),
-    CountryCallingData(
-        name = "Niger",
-        prefix = "+227",
-        flag = R.drawable.ne,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "NE",
-        translatedNames = listOf(
-            Pair("en", "Niger"),
-            Pair("pl", "Niger"),
-            Pair("ua", "Нігер")
-        )
-    ),
-    CountryCallingData(
-        name = "Nigeria",
-        prefix = "+234",
-        flag = R.drawable.ng,
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
-        countryCode = "NG",
-        translatedNames = listOf(
-            Pair("en", "Nigeria"),
-            Pair("pl", "Nigeria"),
-            Pair("ua", "Нігерія")
-        )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "North Korea",
         prefix = "+850",
         flag = R.drawable.kp,
+        flagEmoji = "🇰🇵",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "KP",
@@ -1651,453 +1366,11 @@ val countries = listOf(
             Pair("pl", "Korea Północna"),
             Pair("ua", "Північна Корея")
         )
-    ),
-    CountryCallingData(
-        name = "North Macedonia",
-        prefix = "+389",
-        flag = R.drawable.mk,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "MK",
-        translatedNames = listOf(
-            Pair("en", "North Macedonia"),
-            Pair("pl", "Północna Macedonia"),
-            Pair("ua", "Північна Македонія")
-        )
-    ),
-    CountryCallingData(
-        name = "Norway",
-        prefix = "+47",
-        flag = R.drawable.no,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "NO",
-        translatedNames = listOf(
-            Pair("en", "Norway"),
-            Pair("pl", "Norwegia"),
-            Pair("ua", "Норвегія")
-        )
-    ),
-    CountryCallingData(
-        name = "Oman",
-        prefix = "+968",
-        flag = R.drawable.om,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "OM",
-        translatedNames = listOf(
-            Pair("en", "Oman"),
-            Pair("pl", "Oman"),
-            Pair("ua", "Оман")
-        )
-    ),
-    CountryCallingData(
-        name = "Pakistan",
-        prefix = "+92",
-        flag = R.drawable.pk,
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
-        countryCode = "PK",
-        translatedNames = listOf(
-            Pair("en", "Pakistan"),
-            Pair("pl", "Pakistan"),
-            Pair("ua", "Пакистан")
-        )
-    ),
-    CountryCallingData(
-        name = "Palau",
-        prefix = "+680",
-        flag = R.drawable.ps,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "PW",
-        translatedNames = listOf(
-            Pair("en", "Palau"),
-            Pair("pl", "Palau"),
-            Pair("ua", "Палау")
-        )
-    ),
-    CountryCallingData(
-        name = "Palestine",
-        prefix = "+970",
-        flag = R.drawable.ps,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "PS",
-        translatedNames = listOf(
-            Pair("en", "Palestine"),
-            Pair("pl", "Palestyna"),
-            Pair("ua", "Палестина")
-        )
-    ),
-    CountryCallingData(
-        name = "Panama",
-        prefix = "+507",
-        flag = R.drawable.pa,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "PA",
-        translatedNames = listOf(
-            Pair("en", "Panama"),
-            Pair("pl", "Panama"),
-            Pair("ua", "Панама")
-        )
-    ),
-    CountryCallingData(
-        name = "Papua New Guinea",
-        prefix = "+675",
-        flag = R.drawable.pg,
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
-        countryCode = "PG",
-        translatedNames = listOf(
-            Pair("en", "Papua New Guinea"),
-            Pair("pl", "Papua-Nowa Gwinea"),
-            Pair("ua", "Папуа-Нова Гвінея")
-        )
-    ),
-    CountryCallingData(
-        name = "Paraguay",
-        prefix = "+595",
-        flag = R.drawable.py,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "PY",
-        translatedNames = listOf(
-            Pair("en", "Paraguay"),
-            Pair("pl", "Paragwaj"),
-            Pair("ua", "Парагвай")
-        )
-    ),
-    CountryCallingData(
-        name = "Peru",
-        prefix = "+51",
-        flag = R.drawable.pe,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "PE",
-        translatedNames = listOf(
-            Pair("en", "Peru"),
-            Pair("pl", "Peru"),
-            Pair("ua", "Перу")
-        )
-    ),
-    CountryCallingData(
-        name = "Philippines",
-        prefix = "+63",
-        flag = R.drawable.ph,
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
-        countryCode = "PH",
-        translatedNames = listOf(
-            Pair("en", "Philippines"),
-            Pair("pl", "Filipiny"),
-            Pair("ua", "Філіппіни")
-        )
-    ),
-    CountryCallingData(
-        name = "Poland",
-        prefix = "+48",
-        flag = R.drawable.pl,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "PL",
-        translatedNames = listOf(
-            Pair("en", "Poland"),
-            Pair("pl", "Polska"),
-            Pair("ua", "Польща")
-        )
-    ),
-    CountryCallingData(
-        name = "Portugal",
-        prefix = "+351",
-        flag = R.drawable.pt,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "PT",
-        translatedNames = listOf(
-            Pair("en", "Portugal"),
-            Pair("pl", "Portugalia"),
-            Pair("ua", "Португалія")
-        )
-    ),
-    CountryCallingData(
-        name = "Qatar",
-        prefix = "+974",
-        flag = R.drawable.qa,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "QA",
-        translatedNames = listOf(
-            Pair("en", "Qatar"),
-            Pair("pl", "Katar"),
-            Pair("ua", "Катар")
-        )
-    ),
-    CountryCallingData(
-        name = "Romania",
-        prefix = "+40",
-        flag = R.drawable.ro,
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
-        countryCode = "RO",
-        translatedNames = listOf(
-            Pair("en", "Romania"),
-            Pair("pl", "Rumunia"),
-            Pair("ua", "Румунія")
-        )
-    ),
-    CountryCallingData(
-        name = "Russia",
-        prefix = "+7",
-        flag = R.drawable.ru,
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
-        countryCode = "RU",
-        translatedNames = listOf(
-            Pair("en", "Russia"),
-            Pair("pl", "Rosja"),
-            Pair("ua", "Росія")
-        )
-    ),
-    CountryCallingData(
-        name = "Rwanda",
-        prefix = "+250",
-        flag = R.drawable.rw,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "RW",
-        translatedNames = listOf(
-            Pair("en", "Rwanda"),
-            Pair("pl", "Rwanda"),
-            Pair("ua", "Руанда")
-        )
-    ),
-    CountryCallingData(
-        name = "Saint Kitts and Nevis",
-        prefix = "+1 869",
-        flag = R.drawable.kn,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "KN",
-        translatedNames = listOf(
-            Pair("en", "Saint Kitts and Nevis"),
-            Pair("pl", "Saint Kitts i Nevis"),
-            Pair("ua", "Сент-Кітс і Невіс")
-        )
-    ),
-    CountryCallingData(
-        name = "Saint Lucia",
-        prefix = "+1 758",
-        flag = R.drawable.lc,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "LC",
-        translatedNames = listOf(
-            Pair("en", "Saint Lucia"),
-            Pair("pl", "Saint Lucia"),
-            Pair("ua", "Сент-Люсія")
-        )
-    ),
-    CountryCallingData(
-        name = "Saint Vincent and the Grenadines",
-        prefix = "+1 784",
-        flag = R.drawable.vc,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "VC",
-        translatedNames = listOf(
-            Pair("en", "Saint Vincent and the Grenadines"),
-            Pair("pl", "Saint Vincent i Grenadyny"),
-            Pair("ua", "Сент-Вінсент і Гренадини")
-        )
-    ),
-    CountryCallingData(
-        name = "Samoa",
-        prefix = "+685",
-        flag = R.drawable.ws,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "WS",
-        translatedNames = listOf(
-            Pair("en", "Samoa"),
-            Pair("pl", "Samoa"),
-            Pair("ua", "Самоа")
-        )
-    ),
-    CountryCallingData(
-        name = "San Marino",
-        prefix = "+378",
-        flag = R.drawable.sm,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "SM",
-        translatedNames = listOf(
-            Pair("en", "San Marino"),
-            Pair("pl", "San Marino"),
-            Pair("ua", "Сан-Марино")
-        )
-    ),
-    CountryCallingData(
-        name = "Sao Tome and Principe",
-        prefix = "+239",
-        flag = R.drawable.st,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "ST",
-        translatedNames = listOf(
-            Pair("en", "Sao Tome and Principe"),
-            Pair("pl", "Wyspy Świętego Tomasza i Książęca"),
-            Pair("ua", "Сент-Томе і Принсіпі")
-        )
-    ),
-    CountryCallingData(
-        name = "Saudi Arabia",
-        prefix = "+966",
-        flag = R.drawable.sa,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "SA",
-        translatedNames = listOf(
-            Pair("en", "Saudi Arabia"),
-            Pair("pl", "Arabia Saudyjska"),
-            Pair("ua", "Саудівська Аравія")
-        )
-    ),
-    CountryCallingData(
-        name = "Senegal",
-        prefix = "+221",
-        flag = R.drawable.sn,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "SN",
-        translatedNames = listOf(
-            Pair("en", "Senegal"),
-            Pair("pl", "Senegal"),
-            Pair("ua", "Сенегал")
-        )
-    ),
-    CountryCallingData(
-        name = "Serbia",
-        prefix = "+381",
-        flag = R.drawable.rs,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "RS",
-        translatedNames = listOf(
-            Pair("en", "Serbia"),
-            Pair("pl", "Serbia"),
-            Pair("ua", "Сербія")
-        )
-    ),
-    CountryCallingData(
-        name = "Seychelles",
-        prefix = "+248",
-        flag = R.drawable.sc,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "SC",
-        translatedNames = listOf(
-            Pair("en", "Seychelles"),
-            Pair("pl", "Seszele"),
-            Pair("ua", "Сейшельські Острови")
-        )
-    ),
-    CountryCallingData(
-        name = "Sierra Leone",
-        prefix = "+232",
-        flag = R.drawable.sl,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "SL",
-        translatedNames = listOf(
-            Pair("en", "Sierra Leone"),
-            Pair("pl", "Sierra Leone"),
-            Pair("ua", "Сьєрра-Леоне")
-        )
-    ),
-    CountryCallingData(
-        name = "Singapore",
-        prefix = "+65",
-        flag = R.drawable.sg,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "SG",
-        translatedNames = listOf(
-            Pair("en", "Singapore"),
-            Pair("pl", "Singapur"),
-            Pair("ua", "Сінгапур")
-        )
-    ),
-    CountryCallingData(
-        name = "Slovakia",
-        prefix = "+421",
-        flag = R.drawable.sk,
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
-        countryCode = "SK",
-        translatedNames = listOf(
-            Pair("en", "Slovakia"),
-            Pair("pl", "Słowacja"),
-            Pair("ua", "Словаччина")
-        )
-    ),
-    CountryCallingData(
-        name = "Slovenia",
-        prefix = "+386",
-        flag = R.drawable.si,
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "SI",
-        translatedNames = listOf(
-            Pair("en", "Slovenia"),
-            Pair("pl", "Słowenia"),
-            Pair("ua", "Словенія")
-        )
-    ),
-    CountryCallingData(
-        name = "Solomon Islands",
-        prefix = "+677",
-        flag = R.drawable.sb,
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "SB",
-        translatedNames = listOf(
-            Pair("en", "Solomon Islands"),
-            Pair("pl", "Wyspy Salomona"),
-            Pair("ua", "Соломонові Острови")
-        )
-    ),
-    CountryCallingData(
-        name = "Somalia",
-        prefix = "+252",
-        flag = R.drawable.so,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "SO",
-        translatedNames = listOf(
-            Pair("en", "Somalia"),
-            Pair("pl", "Somalia"),
-            Pair("ua", "Сомалі")
-        )
-    ),
-    CountryCallingData(
-        name = "South Africa",
-        prefix = "+27",
-        flag = R.drawable.za,
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "ZA",
-        translatedNames = listOf(
-            Pair("en", "South Africa"),
-            Pair("pl", "Południowa Afryka"),
-            Pair("ua", "Південноафриканська Республіка")
-        )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "South Korea",
         prefix = "+82",
         flag = R.drawable.kr,
+        flagEmoji = "🇰🇷",
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "KR",
@@ -2106,11 +1379,1025 @@ val countries = listOf(
             Pair("pl", "Korea Południowa"),
             Pair("ua", "Південна Корея")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
+        name = "Kosovo",
+        prefix = "+383",
+        flag = R.drawable.xk,
+        flagEmoji = "🇽🇰",
+        minPhoneLength = 8,
+        maxPhoneLength = 9,
+        countryCode = "XK",
+        translatedNames = listOf(
+            Pair("en", "Kosovo"),
+            Pair("pl", "Kosowo"),
+            Pair("ua", "Косово")
+        )
+    ),CountryCallingData(
+        name = "Kuwait",
+        prefix = "+965",
+        flag = R.drawable.kw,
+        flagEmoji = "🇰🇼",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "KW",
+        translatedNames = listOf(
+            Pair("en", "Kuwait"),
+            Pair("pl", "Kuwejt"),
+            Pair("ua", "Кувейт")
+        )
+    ),CountryCallingData(
+        name = "Kyrgyzstan",
+        prefix = "+996",
+        flag = R.drawable.kg,
+        flagEmoji = "🇰🇬",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "KG",
+        translatedNames = listOf(
+            Pair("en", "Kyrgyzstan"),
+            Pair("pl", "Kirgistan"),
+            Pair("ua", "Киргизстан")
+        )
+    ),CountryCallingData(
+        name = "Laos",
+        prefix = "+856",
+        flag = R.drawable.la,
+        flagEmoji = "🇱🇦",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "LA",
+        translatedNames = listOf(
+            Pair("en", "Laos"),
+            Pair("pl", "Laos"),
+            Pair("ua", "Лаос")
+        )
+    ),CountryCallingData(
+        name = "Latvia",
+        prefix = "+371",
+        flag = R.drawable.lv,
+        flagEmoji = "🇱🇻",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "LV",
+        translatedNames = listOf(
+            Pair("en", "Latvia"),
+            Pair("pl", "Łotwa"),
+            Pair("ua", "Латвія")
+        )
+    ),CountryCallingData(
+        name = "Lebanon",
+        prefix = "+961",
+        flag = R.drawable.lb,
+        flagEmoji = "🇱🇧",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "LB",
+        translatedNames = listOf(
+            Pair("en", "Lebanon"),
+            Pair("pl", "Liban"),
+            Pair("ua", "Ліван")
+        )
+    ),CountryCallingData(
+        name = "Lesotho",
+        prefix = "+266",
+        flag = R.drawable.ls,
+        flagEmoji = "🇱🇸",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "LS",
+        translatedNames = listOf(
+            Pair("en", "Lesotho"),
+            Pair("pl", "Lesotho"),
+            Pair("ua", "Лесото")
+        )
+    ),CountryCallingData(
+        name = "Liberia",
+        prefix = "+231",
+        flag = R.drawable.lr,
+        flagEmoji = "🇱🇷",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "LR",
+        translatedNames = listOf(
+            Pair("en", "Liberia"),
+            Pair("pl", "Liberia"),
+            Pair("ua", "Ліберія")
+        )
+    ),CountryCallingData(
+        name = "Libya",
+        prefix = "+218",
+        flag = R.drawable.ly,
+        flagEmoji = "🇱🇾",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "LY",
+        translatedNames = listOf(
+            Pair("en", "Libya"),
+            Pair("pl", "Libia"),
+            Pair("ua", "Лівія")
+        )
+    ),CountryCallingData(
+        name = "Liechtenstein",
+        prefix = "+423",
+        flag = R.drawable.li,
+        flagEmoji = "🇱🇮",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "LI",
+        translatedNames = listOf(
+            Pair("en", "Liechtenstein"),
+            Pair("pl", "Liechtenstein"),
+            Pair("ua", "Ліхтенштейн")
+        )
+    ),CountryCallingData(
+        name = "Lithuania",
+        prefix = "+370",
+        flag = R.drawable.lt,
+        flagEmoji = "🇱🇹",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "LT",
+        translatedNames = listOf(
+            Pair("en", "Lithuania"),
+            Pair("pl", "Litwa"),
+            Pair("ua", "Литва")
+        )
+    ),CountryCallingData(
+        name = "Luxembourg",
+        prefix = "+352",
+        flag = R.drawable.lu,
+        flagEmoji = "🇱🇺",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "LU",
+        translatedNames = listOf(
+            Pair("en", "Luxembourg"),
+            Pair("pl", "Luksemburg"),
+            Pair("ua", "Люксембург")
+        )
+    ),CountryCallingData(
+        name = "Macau",
+        prefix = "+853",
+        flag = R.drawable.mo,
+        flagEmoji = "🇲🇴",
+        minPhoneLength = 7,
+        maxPhoneLength = 8,
+        countryCode = "MO",
+        translatedNames = listOf(
+            Pair("en", "Macau"),
+            Pair("pl", "Makau"),
+            Pair("ua", "Макао")
+        )
+    ),CountryCallingData(
+        name = "Macedonia",
+        prefix = "+389",
+        flag = R.drawable.mk,
+        flagEmoji = "🇲🇰",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "MK",
+        translatedNames = listOf(
+            Pair("en", "North Macedonia"),
+            Pair("pl", "Północna Macedonia"),
+            Pair("ua", "Північна Македонія")
+        )
+    ),CountryCallingData(
+        name = "Madagascar",
+        prefix = "+261",
+        flag = R.drawable.mg,
+        flagEmoji = "🇲🇬",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "MG",
+        translatedNames = listOf(
+            Pair("en", "Madagascar"),
+            Pair("pl", "Madagaskar"),
+            Pair("ua", "Мадагаскар")
+        )
+    ),CountryCallingData(
+        name = "Malawi",
+        prefix = "+265",
+        flag = R.drawable.mw,
+        flagEmoji = "🇲🇼",
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
+        countryCode = "MW",
+        translatedNames = listOf(
+            Pair("en", "Malawi"),
+            Pair("pl", "Malawi"),
+            Pair("ua", "Малаві")
+        )
+    ),CountryCallingData(
+        name = "Malaysia",
+        prefix = "+60",
+        flag = R.drawable.my,
+        flagEmoji = "🇲🇾",
+        minPhoneLength = 9,
+        maxPhoneLength = 10,
+        countryCode = "MY",
+        translatedNames = listOf(
+            Pair("en", "Malaysia"),
+            Pair("pl", "Malezja"),
+            Pair("ua", "Малайзія")
+        )
+    ),CountryCallingData(
+        name = "Maldives",
+        prefix = "+960",
+        flag = R.drawable.mv,
+        flagEmoji = "🇲🇻",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "MV",
+        translatedNames = listOf(
+            Pair("en", "Maldives"),
+            Pair("pl", "Malediwy"),
+            Pair("ua", "Мальдіви")
+        )
+    ),CountryCallingData(
+        name = "Mali",
+        prefix = "+223",
+        flag = R.drawable.ml,
+        flagEmoji = "🇲🇱",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "ML",
+        translatedNames = listOf(
+            Pair("en", "Mali"),
+            Pair("pl", "Mali"),
+            Pair("ua", "Малі")
+        )
+    ),CountryCallingData(
+        name = "Malta",
+        prefix = "+356",
+        flag = R.drawable.mt,
+        flagEmoji = "🇲🇹",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "MT",
+        translatedNames = listOf(
+            Pair("en", "Malta"),
+            Pair("pl", "Malta"),
+            Pair("ua", "Мальта")
+        )
+    ),CountryCallingData(
+        name = "Marshall Islands",
+        prefix = "+692",
+        flag = R.drawable.mh,
+        flagEmoji = "🇲🇭",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "MH",
+        translatedNames = listOf(
+            Pair("en", "Marshall Islands"),
+            Pair("pl", "Wyspy Marshalla"),
+            Pair("ua", "Маршаллові Острови")
+        )
+    ),CountryCallingData(
+        name = "Martinique",
+        prefix = "+596",
+        flag = R.drawable.mq,
+        flagEmoji = "🇲🇶",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "MQ",
+        translatedNames = listOf(
+            Pair("en", "Martinique"),
+            Pair("pl", "Martynika"),
+            Pair("ua", "Мартиніка")
+        )
+    ),CountryCallingData(
+        name = "Mauritania",
+        prefix = "+222",
+        flag = R.drawable.mr,
+        flagEmoji = "🇲🇷",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "MR",
+        translatedNames = listOf(
+            Pair("en", "Mauritania"),
+            Pair("pl", "Mauretania"),
+            Pair("ua", "Мавританія")
+        )
+    ),CountryCallingData(
+        name = "Mauritius",
+        prefix = "+230",
+        flag = R.drawable.mu,
+        flagEmoji = "🇲🇺",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "MU",
+        translatedNames = listOf(
+            Pair("en", "Mauritius"),
+            Pair("pl", "Mauritius"),
+            Pair("ua", "Маврикій")
+        )
+    ),CountryCallingData(
+        name = "Mexico",
+        prefix = "+52",
+        flag = R.drawable.mx,
+        flagEmoji = "🇲🇽",
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
+        countryCode = "MX",
+        translatedNames = listOf(
+            Pair("en", "Mexico"),
+            Pair("pl", "Meksyk"),
+            Pair("ua", "Мексика")
+        )
+    ),CountryCallingData(
+        name = "Micronesia",
+        prefix = "+691",
+        flag = R.drawable.fm,
+        flagEmoji = "🇫🇲",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "FM",
+        translatedNames = listOf(
+            Pair("en", "Micronesia"),
+            Pair("pl", "Mikronezja"),
+            Pair("ua", "Мікронезія")
+        )
+    ),CountryCallingData(
+        name = "Moldova",
+        prefix = "+373",
+        flag = R.drawable.md,
+        flagEmoji = "🇲🇩",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "MD",
+        translatedNames = listOf(
+            Pair("en", "Moldova"),
+            Pair("pl", "Mołdawia"),
+            Pair("ua", "Молдова")
+        )
+    ),CountryCallingData(
+        name = "Monaco",
+        prefix = "+377",
+        flag = R.drawable.mc,
+        flagEmoji = "🇲🇨",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "MC",
+        translatedNames = listOf(
+            Pair("en", "Monaco"),
+            Pair("pl", "Monako"),
+            Pair("ua", "Монако")
+        )
+    ),CountryCallingData(
+        name = "Mongolia",
+        prefix = "+976",
+        flag = R.drawable.mn,
+        flagEmoji = "🇲🇳",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "MN",
+        translatedNames = listOf(
+            Pair("en", "Mongolia"),
+            Pair("pl", "Mongolia"),
+            Pair("ua", "Монголія")
+        )
+    ),CountryCallingData(
+        name = "Montenegro",
+        prefix = "+382",
+        flag = R.drawable.me,
+        flagEmoji = "🇲🇪",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "ME",
+        translatedNames = listOf(
+            Pair("en", "Montenegro"),
+            Pair("pl", "Czarnogóra"),
+            Pair("ua", "Чорногорія")
+        )
+    ),CountryCallingData(
+        name = "Montserrat",
+        prefix = "+1664",
+        flag = R.drawable.ms,
+        flagEmoji = "🇲🇸",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "MS",
+        translatedNames = listOf(
+            Pair("en", "Montserrat"),
+            Pair("pl", "Montserat"),
+            Pair("ua", "Монтсеррат")
+        )
+    ),CountryCallingData(
+        name = "Morocco",
+        prefix = "+212",
+        flag = R.drawable.ma,
+        flagEmoji = "🇲🇦",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "MA",
+        translatedNames = listOf(
+            Pair("en", "Morocco"),
+            Pair("pl", "Maroko"),
+            Pair("ua", "Марокко")
+        )
+    ),CountryCallingData(
+        name = "Mozambique",
+        prefix = "+258",
+        flag = R.drawable.mz,
+        flagEmoji = "🇲🇿",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "MZ",
+        translatedNames = listOf(
+            Pair("en", "Mozambique"),
+            Pair("pl", "Mozambik"),
+            Pair("ua", "Мозамбік")
+        )
+    ),CountryCallingData(
+        name = "Myanmar",
+        prefix = "+95",
+        flag = R.drawable.mm,
+        flagEmoji = "🇲🇲",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "MM",
+        translatedNames = listOf(
+            Pair("en", "Myanmar"),
+            Pair("pl", "Mjanma"),
+            Pair("ua", "М'янма")
+        )
+    ),CountryCallingData(
+        name = "Namibia",
+        prefix = "+264",
+        flag = R.drawable.na,
+        flagEmoji = "🇳🇦",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "NA",
+        translatedNames = listOf(
+            Pair("en", "Namibia"),
+            Pair("pl", "Namibia"),
+            Pair("ua", "Намібія")
+        )
+    ),CountryCallingData(
+        name = "Nauru",
+        prefix = "+674",
+        flag = R.drawable.nr,
+        flagEmoji = "🇳🇷",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "NR",
+        translatedNames = listOf(
+            Pair("en", "Nauru"),
+            Pair("pl", "Nauru"),
+            Pair("ua", "Науру")
+        )
+    ),CountryCallingData(
+        name = "Nepal",
+        prefix = "+977",
+        flag = R.drawable.np,
+        flagEmoji = "🇳🇵",
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
+        countryCode = "NP",
+        translatedNames = listOf(
+            Pair("en", "Nepal"),
+            Pair("pl", "Nepal"),
+            Pair("ua", "Непал")
+        )
+    ),CountryCallingData(
+        name = "Netherlands",
+        prefix = "+31",
+        flag = R.drawable.nl,
+        flagEmoji = "🇳🇱",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "NL",
+        translatedNames = listOf(
+            Pair("en", "Netherlands"),
+            Pair("pl", "Holandia"),
+            Pair("ua", "Нідерланди")
+        )
+    ),CountryCallingData(
+        name = "New Caledonia",
+        prefix = "+687",
+        flag = R.drawable.nc,
+        flagEmoji = "🇳🇨",
+        minPhoneLength = 6,
+        maxPhoneLength = 6,
+        countryCode = "NC",
+        translatedNames = listOf(
+            Pair("en", "New Caledonia"),
+            Pair("pl", "Nowa Kaledonia"),
+            Pair("ua", "Нова Каледонія")
+        )
+    ),CountryCallingData(
+        name = "New Zealand",
+        prefix = "+64",
+        flag = R.drawable.nz,
+        flagEmoji = "🇳🇿",
+        minPhoneLength = 8,
+        maxPhoneLength = 9,
+        countryCode = "NZ",
+        translatedNames = listOf(
+            Pair("en", "New Zealand"),
+            Pair("pl", "Nowa Zelandia"),
+            Pair("ua", "Нова Зеландія")
+        )
+    ),CountryCallingData(
+        name = "Nicaragua",
+        prefix = "+505",
+        flag = R.drawable.ni,
+        flagEmoji = "🇳🇮",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "NI",
+        translatedNames = listOf(
+            Pair("en", "Nicaragua"),
+            Pair("pl", "Nikaragua"),
+            Pair("ua", "Нікарагуа")
+        )
+    ),CountryCallingData(
+        name = "Niger",
+        prefix = "+227",
+        flag = R.drawable.ne,
+        flagEmoji = "🇳🇪",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "NE",
+        translatedNames = listOf(
+            Pair("en", "Niger"),
+            Pair("pl", "Niger"),
+            Pair("ua", "Нігер")
+        )
+    ),CountryCallingData(
+        name = "Nigeria",
+        prefix = "+234",
+        flag = R.drawable.ng,
+        flagEmoji = "🇳🇬",
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
+        countryCode = "NG",
+        translatedNames = listOf(
+            Pair("en", "Nigeria"),
+            Pair("pl", "Nigeria"),
+            Pair("ua", "Нігерія")
+        )
+    ),CountryCallingData(
+        name = "Norway",
+        prefix = "+47",
+        flag = R.drawable.no,
+        flagEmoji = "🇳🇴",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "NO",
+        translatedNames = listOf(
+            Pair("en", "Norway"),
+            Pair("pl", "Norwegia"),
+            Pair("ua", "Норвегія")
+        )
+    ),CountryCallingData(
+        name = "Oman",
+        prefix = "+968",
+        flag = R.drawable.om,
+        flagEmoji = "🇴🇲",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "OM",
+        translatedNames = listOf(
+            Pair("en", "Oman"),
+            Pair("pl", "Oman"),
+            Pair("ua", "Оман")
+        )
+    ),CountryCallingData(
+        name = "Pakistan",
+        prefix = "+92",
+        flag = R.drawable.pk,
+        flagEmoji = "🇵🇰",
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
+        countryCode = "PK",
+        translatedNames = listOf(
+            Pair("en", "Pakistan"),
+            Pair("pl", "Pakistan"),
+            Pair("ua", "Пакистан")
+        )
+    ),CountryCallingData(
+        name = "Palau",
+        prefix = "+680",
+        flag = R.drawable.pw,
+        flagEmoji = "🇵🇼",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "PW",
+        translatedNames = listOf(
+            Pair("en", "Palau"),
+            Pair("pl", "Palau"),
+            Pair("ua", "Палау")
+        )
+    ),CountryCallingData(
+        name = "Palestine",
+        prefix = "+970",
+        flag = R.drawable.ps,
+        flagEmoji = "🇵🇸",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "PS",
+        translatedNames = listOf(
+            Pair("en", "Palestine"),
+            Pair("pl", "Palestyna"),
+            Pair("ua", "Палестина")
+        )
+    ),CountryCallingData(
+        name = "Panama",
+        prefix = "+507",
+        flag = R.drawable.pa,
+        flagEmoji = "🇵🇦",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "PA",
+        translatedNames = listOf(
+            Pair("en", "Panama"),
+            Pair("pl", "Panama"),
+            Pair("ua", "Панама")
+        )
+    ),CountryCallingData(
+        name = "Papua New Guinea",
+        prefix = "+675",
+        flag = R.drawable.pg,
+        flagEmoji = "🇵🇬",
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
+        countryCode = "PG",
+        translatedNames = listOf(
+            Pair("en", "Papua New Guinea"),
+            Pair("pl", "Papua-Nowa Gwinea"),
+            Pair("ua", "Папуа-Нова Гвінея")
+        )
+    ),CountryCallingData(
+        name = "Paraguay",
+        prefix = "+595",
+        flag = R.drawable.py,
+        flagEmoji = "🇵🇾",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "PY",
+        translatedNames = listOf(
+            Pair("en", "Paraguay"),
+            Pair("pl", "Paragwaj"),
+            Pair("ua", "Парагвай")
+        )
+    ),CountryCallingData(
+        name = "Peru",
+        prefix = "+51",
+        flag = R.drawable.pe,
+        flagEmoji = "🇵🇪",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "PE",
+        translatedNames = listOf(
+            Pair("en", "Peru"),
+            Pair("pl", "Peru"),
+            Pair("ua", "Перу")
+        )
+    ),CountryCallingData(
+        name = "Philippines",
+        prefix = "+63",
+        flag = R.drawable.ph,
+        flagEmoji = "🇵🇭",
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
+        countryCode = "PH",
+        translatedNames = listOf(
+            Pair("en", "Philippines"),
+            Pair("pl", "Filipiny"),
+            Pair("ua", "Філіппіни")
+        )
+    ),CountryCallingData(
+        name = "Poland",
+        prefix = "+48",
+        flag = R.drawable.pl,
+        flagEmoji = "🇵🇱",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "PL",
+        translatedNames = listOf(
+            Pair("en", "Poland"),
+            Pair("pl", "Polska"),
+            Pair("ua", "Польща")
+        )
+    ),CountryCallingData(
+        name = "Portugal",
+        prefix = "+351",
+        flag = R.drawable.pt,
+        flagEmoji = "🇵🇹",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "PT",
+        translatedNames = listOf(
+            Pair("en", "Portugal"),
+            Pair("pl", "Portugalia"),
+            Pair("ua", "Португалія")
+        )
+    ),CountryCallingData(
+        name = "Puerto Rico",
+        prefix = "+1939",
+        flag = R.drawable.pr,
+        flagEmoji = "🇵🇷",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "PR",
+        translatedNames = listOf(
+            Pair("en", "Puerto Rico"),
+            Pair("pl", "Portoryko"),
+            Pair("ua", "Пуерто-Рико")
+        )
+    ),CountryCallingData(
+        name = "Qatar",
+        prefix = "+974",
+        flag = R.drawable.qa,
+        flagEmoji = "🇶🇦",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "QA",
+        translatedNames = listOf(
+            Pair("en", "Qatar"),
+            Pair("pl", "Katar"),
+            Pair("ua", "Катар")
+        )
+    ),CountryCallingData(
+        name = "Romania",
+        prefix = "+40",
+        flag = R.drawable.ro,
+        flagEmoji = "🇷🇴",
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
+        countryCode = "RO",
+        translatedNames = listOf(
+            Pair("en", "Romania"),
+            Pair("pl", "Rumunia"),
+            Pair("ua", "Румунія")
+        )
+    ),CountryCallingData(
+        name = "Russia",
+        prefix = "+7",
+        flag = R.drawable.ru,
+        flagEmoji = "🇷🇺",
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
+        countryCode = "RU",
+        translatedNames = listOf(
+            Pair("en", "Russia"),
+            Pair("pl", "Rosja"),
+            Pair("ua", "Росія")
+        )
+    ),CountryCallingData(
+        name = "Rwanda",
+        prefix = "+250",
+        flag = R.drawable.rw,
+        flagEmoji = "🇷🇼",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "RW",
+        translatedNames = listOf(
+            Pair("en", "Rwanda"),
+            Pair("pl", "Rwanda"),
+            Pair("ua", "Руанда")
+        )
+    ),CountryCallingData(
+        name = "Saint Kitts & Nevis",
+        prefix = "+1869",
+        flag = R.drawable.kn,
+        flagEmoji = "🇰🇳",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "KN",
+        translatedNames = listOf(
+            Pair("en", "Saint Kitts and Nevis"),
+            Pair("pl", "Saint Kitts i Nevis"),
+            Pair("ua", "Сент-Кітс і Невіс")
+        )
+    ),CountryCallingData(
+        name = "Saint Lucia",
+        prefix = "+1758",
+        flag = R.drawable.lc,
+        flagEmoji = "🇱🇨",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "LC",
+        translatedNames = listOf(
+            Pair("en", "Saint Lucia"),
+            Pair("pl", "Saint Lucia"),
+            Pair("ua", "Сент-Люсія")
+        )
+    ),CountryCallingData(
+        name = "Saint Vincent & the Grenadines",
+        prefix = "+1784",
+        flag = R.drawable.vc,
+        flagEmoji = "🇻🇨",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "VC",
+        translatedNames = listOf(
+            Pair("en", "Saint Vincent and the Grenadines"),
+            Pair("pl", "Saint Vincent i Grenadyny"),
+            Pair("ua", "Сент-Вінсент і Гренадини")
+        )
+    ),CountryCallingData(
+        name = "Samoa",
+        prefix = "+685",
+        flag = R.drawable.ws,
+        flagEmoji = "🇼🇸",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "WS",
+        translatedNames = listOf(
+            Pair("en", "Samoa"),
+            Pair("pl", "Samoa"),
+            Pair("ua", "Самоа")
+        )
+    ),CountryCallingData(
+        name = "San Marino",
+        prefix = "+378",
+        flag = R.drawable.sm,
+        flagEmoji = "🇸🇲",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "SM",
+        translatedNames = listOf(
+            Pair("en", "San Marino"),
+            Pair("pl", "San Marino"),
+            Pair("ua", "Сан-Марино")
+        )
+    ),CountryCallingData(
+        name = "Sao Tome & Principe",
+        prefix = "+239",
+        flag = R.drawable.st,
+        flagEmoji = "🇸🇹",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "ST",
+        translatedNames = listOf(
+            Pair("en", "Sao Tome and Principe"),
+            Pair("pl", "Wyspy Świętego Tomasza i Książęca"),
+            Pair("ua", "Сент-Томе і Принсіпі")
+        )
+    ),CountryCallingData(
+        name = "Saudi Arabia",
+        prefix = "+966",
+        flag = R.drawable.sa,
+        flagEmoji = "🇸🇦",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "SA",
+        translatedNames = listOf(
+            Pair("en", "Saudi Arabia"),
+            Pair("pl", "Arabia Saudyjska"),
+            Pair("ua", "Саудівська Аравія")
+        )
+    ),CountryCallingData(
+        name = "Senegal",
+        prefix = "+221",
+        flag = R.drawable.sn,
+        flagEmoji = "🇸🇳",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "SN",
+        translatedNames = listOf(
+            Pair("en", "Senegal"),
+            Pair("pl", "Senegal"),
+            Pair("ua", "Сенегал")
+        )
+    ),CountryCallingData(
+        name = "Serbia",
+        prefix = "+381",
+        flag = R.drawable.rs,
+        flagEmoji = "🇷🇸",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "RS",
+        translatedNames = listOf(
+            Pair("en", "Serbia"),
+            Pair("pl", "Serbia"),
+            Pair("ua", "Сербія")
+        )
+    ),CountryCallingData(
+        name = "Seychelles",
+        prefix = "+248",
+        flag = R.drawable.sc,
+        flagEmoji = "🇸🇨",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "SC",
+        translatedNames = listOf(
+            Pair("en", "Seychelles"),
+            Pair("pl", "Seszele"),
+            Pair("ua", "Сейшельські Острови")
+        )
+    ),CountryCallingData(
+        name = "Sierra Leone",
+        prefix = "+232",
+        flag = R.drawable.sl,
+        flagEmoji = "🇸🇱",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "SL",
+        translatedNames = listOf(
+            Pair("en", "Sierra Leone"),
+            Pair("pl", "Sierra Leone"),
+            Pair("ua", "Сьєрра-Леоне")
+        )
+    ),CountryCallingData(
+        name = "Singapore",
+        prefix = "+65",
+        flag = R.drawable.sg,
+        flagEmoji = "🇸🇬",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "SG",
+        translatedNames = listOf(
+            Pair("en", "Singapore"),
+            Pair("pl", "Singapur"),
+            Pair("ua", "Сінгапур")
+        )
+    ),CountryCallingData(
+        name = "Slovakia",
+        prefix = "+421",
+        flag = R.drawable.sk,
+        flagEmoji = "🇸🇰",
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
+        countryCode = "SK",
+        translatedNames = listOf(
+            Pair("en", "Slovakia"),
+            Pair("pl", "Słowacja"),
+            Pair("ua", "Словаччина")
+        )
+    ),CountryCallingData(
+        name = "Slovenia",
+        prefix = "+386",
+        flag = R.drawable.si,
+        flagEmoji = "🇸🇮",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "SI",
+        translatedNames = listOf(
+            Pair("en", "Slovenia"),
+            Pair("pl", "Słowenia"),
+            Pair("ua", "Словенія")
+        )
+    ),CountryCallingData(
+        name = "Solomon Islands",
+        prefix = "+677",
+        flag = R.drawable.sb,
+        flagEmoji = "🇸🇧",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "SB",
+        translatedNames = listOf(
+            Pair("en", "Solomon Islands"),
+            Pair("pl", "Wyspy Salomona"),
+            Pair("ua", "Соломонові Острови")
+        )
+    ),CountryCallingData(
+        name = "Somalia",
+        prefix = "+252",
+        flag = R.drawable.so,
+        flagEmoji = "🇸🇴",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "SO",
+        translatedNames = listOf(
+            Pair("en", "Somalia"),
+            Pair("pl", "Somalia"),
+            Pair("ua", "Сомалі")
+        )
+    ),CountryCallingData(
+        name = "South Africa",
+        prefix = "+27",
+        flag = R.drawable.za,
+        flagEmoji = "🇿🇦",
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
+        countryCode = "ZA",
+        translatedNames = listOf(
+            Pair("en", "South Africa"),
+            Pair("pl", "Południowa Afryka"),
+            Pair("ua", "Південноафриканська Республіка")
+        )
+    ),CountryCallingData(
+        name = "South Sudan",
+        prefix = "+211",
+        flag = R.drawable.ss,
+        flagEmoji = "🇸🇸",
+        minPhoneLength = 17,
+        maxPhoneLength = 17,
+        countryCode = "SS",
+        translatedNames = listOf(
+            Pair("en", "South Sudan"),
+            Pair("pl", "Sudan Południowy"),
+            Pair("ua", "Південний Судан")
+        )
+    ),CountryCallingData(
         name = "Spain",
         prefix = "+34",
         flag = R.drawable.es,
+        flagEmoji = "🇪🇸",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "ES",
@@ -2119,11 +2406,11 @@ val countries = listOf(
             Pair("pl", "Hiszpania"),
             Pair("ua", "Іспанія")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Sri Lanka",
         prefix = "+94",
         flag = R.drawable.lk,
+        flagEmoji = "🇱🇰",
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "LK",
@@ -2132,11 +2419,11 @@ val countries = listOf(
             Pair("pl", "Sri Lanka"),
             Pair("ua", "Шрі-Ланка")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Sudan",
         prefix = "+249",
         flag = R.drawable.sd,
+        flagEmoji = "🇸🇩",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "SD",
@@ -2145,11 +2432,11 @@ val countries = listOf(
             Pair("pl", "Sudan"),
             Pair("ua", "Судан")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Suriname",
         prefix = "+597",
         flag = R.drawable.sr,
+        flagEmoji = "🇸🇷",
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "SR",
@@ -2158,11 +2445,11 @@ val countries = listOf(
             Pair("pl", "Surinam"),
             Pair("ua", "Суринам")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Sweden",
         prefix = "+46",
         flag = R.drawable.se,
+        flagEmoji = "🇸🇪",
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "SE",
@@ -2171,11 +2458,11 @@ val countries = listOf(
             Pair("pl", "Szwecja"),
             Pair("ua", "Швеція")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Switzerland",
         prefix = "+41",
         flag = R.drawable.ch,
+        flagEmoji = "🇨🇭",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "CH",
@@ -2184,11 +2471,11 @@ val countries = listOf(
             Pair("pl", "Szwajcaria"),
             Pair("ua", "Швейцарія")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Syria",
         prefix = "+963",
         flag = R.drawable.sy,
+        flagEmoji = "🇸🇾",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "SY",
@@ -2197,11 +2484,11 @@ val countries = listOf(
             Pair("pl", "Syria"),
             Pair("ua", "Сирія")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Taiwan",
         prefix = "+886",
         flag = R.drawable.tw,
+        flagEmoji = "🇹🇼",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "TW",
@@ -2210,11 +2497,11 @@ val countries = listOf(
             Pair("pl", "Tajwan"),
             Pair("ua", "Тайвань")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Tajikistan",
         prefix = "+992",
         flag = R.drawable.tj,
+        flagEmoji = "🇹🇯",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "TJ",
@@ -2223,11 +2510,11 @@ val countries = listOf(
             Pair("pl", "Tadżykistan"),
             Pair("ua", "Таджикистан")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Tanzania",
         prefix = "+255",
         flag = R.drawable.tz,
+        flagEmoji = "🇹🇿",
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "TZ",
@@ -2236,11 +2523,11 @@ val countries = listOf(
             Pair("pl", "Tanzania"),
             Pair("ua", "Танзанія")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Thailand",
         prefix = "+66",
         flag = R.drawable.th,
+        flagEmoji = "🇹🇭",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "TH",
@@ -2249,11 +2536,11 @@ val countries = listOf(
             Pair("pl", "Tajlandia"),
             Pair("ua", "Таїланд")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Timor-Leste",
         prefix = "+670",
         flag = R.drawable.tl,
+        flagEmoji = "🇹🇱",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "TL",
@@ -2262,11 +2549,11 @@ val countries = listOf(
             Pair("pl", "Timor-Leste"),
             Pair("ua", "Тімор-Лешті")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Togo",
         prefix = "+228",
         flag = R.drawable.tg,
+        flagEmoji = "🇹🇬",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "TG",
@@ -2275,11 +2562,11 @@ val countries = listOf(
             Pair("pl", "Togo"),
             Pair("ua", "Того")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Tonga",
         prefix = "+676",
         flag = R.drawable.to,
+        flagEmoji = "🇹🇴",
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "TO",
@@ -2288,11 +2575,11 @@ val countries = listOf(
             Pair("pl", "Tonga"),
             Pair("ua", "Тонга")
         )
-    ),
-    CountryCallingData(
-        name = "Trinidad and Tobago",
-        prefix = "+1 868",
+    ),CountryCallingData(
+        name = "Trinidad & Tobago",
+        prefix = "+1868",
         flag = R.drawable.tt,
+        flagEmoji = "🇹🇹",
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "TT",
@@ -2301,11 +2588,11 @@ val countries = listOf(
             Pair("pl", "Trynidad i Tobago"),
             Pair("ua", "Тринідад і Тобаго")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Tunisia",
         prefix = "+216",
         flag = R.drawable.tn,
+        flagEmoji = "🇹🇳",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "TN",
@@ -2314,11 +2601,11 @@ val countries = listOf(
             Pair("pl", "Tunezja"),
             Pair("ua", "Туніс")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Turkey",
         prefix = "+90",
         flag = R.drawable.tr,
+        flagEmoji = "🇹🇷",
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "TR",
@@ -2327,11 +2614,11 @@ val countries = listOf(
             Pair("pl", "Turcja"),
             Pair("ua", "Туреччина")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Turkmenistan",
         prefix = "+993",
         flag = R.drawable.tm,
+        flagEmoji = "🇹🇲",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "TM",
@@ -2340,11 +2627,11 @@ val countries = listOf(
             Pair("pl", "Turkmenistan"),
             Pair("ua", "Туркменістан")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Tuvalu",
         prefix = "+688",
         flag = R.drawable.tv,
+        flagEmoji = "🇹🇻",
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "TV",
@@ -2353,11 +2640,11 @@ val countries = listOf(
             Pair("pl", "Tuvalu"),
             Pair("ua", "Тувалу")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Uganda",
         prefix = "+256",
         flag = R.drawable.ug,
+        flagEmoji = "🇺🇬",
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "UG",
@@ -2366,11 +2653,11 @@ val countries = listOf(
             Pair("pl", "Uganda"),
             Pair("ua", "Уганда")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Ukraine",
         prefix = "+380",
         flag = R.drawable.ua,
+        flagEmoji = "🇺🇦",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "UA",
@@ -2379,11 +2666,11 @@ val countries = listOf(
             Pair("pl", "Ukraina"),
             Pair("ua", "Україна")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "United Arab Emirates",
         prefix = "+971",
         flag = R.drawable.ae,
+        flagEmoji = "🇦🇪",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "AE",
@@ -2392,11 +2679,11 @@ val countries = listOf(
             Pair("pl", "Zjednoczone Emiraty Arabskie"),
             Pair("ua", "Об'єднані Арабські Емірати")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "United Kingdom",
         prefix = "+44",
         flag = R.drawable.gb,
+        flagEmoji = "🇬🇧",
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "GB",
@@ -2405,11 +2692,11 @@ val countries = listOf(
             Pair("pl", "Wielka Brytania"),
             Pair("ua", "Великобританія")
         )
-    ),
-    CountryCallingData(
-        name = "United States",
+    ),CountryCallingData(
+        name = "USA",
         prefix = "+1",
         flag = R.drawable.us,
+        flagEmoji = "🇺🇸",
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "US",
@@ -2418,11 +2705,11 @@ val countries = listOf(
             Pair("pl", "Stany Zjednoczone"),
             Pair("ua", "Сполучені Штати")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Uruguay",
         prefix = "+598",
         flag = R.drawable.uy,
+        flagEmoji = "🇺🇾",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "UY",
@@ -2431,11 +2718,11 @@ val countries = listOf(
             Pair("pl", "Urugwaj"),
             Pair("ua", "Уругвай")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Uzbekistan",
         prefix = "+998",
         flag = R.drawable.uz,
+        flagEmoji = "🇺🇿",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "UZ",
@@ -2444,11 +2731,11 @@ val countries = listOf(
             Pair("pl", "Uzbekistan"),
             Pair("ua", "Узбекистан")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Vanuatu",
         prefix = "+678",
         flag = R.drawable.vu,
+        flagEmoji = "🇻🇺",
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "VU",
@@ -2457,11 +2744,11 @@ val countries = listOf(
             Pair("pl", "Vanuatu"),
             Pair("ua", "Вануату")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Venezuela",
         prefix = "+58",
         flag = R.drawable.ve,
+        flagEmoji = "🇻🇪",
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "VE",
@@ -2470,11 +2757,11 @@ val countries = listOf(
             Pair("pl", "Wenezuela"),
             Pair("ua", "Венесуела")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Vietnam",
         prefix = "+84",
         flag = R.drawable.vn,
+        flagEmoji = "🇻🇳",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "VN",
@@ -2483,11 +2770,11 @@ val countries = listOf(
             Pair("pl", "Wietnam"),
             Pair("ua", "В'єтнам")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Yemen",
         prefix = "+967",
         flag = R.drawable.ye,
+        flagEmoji = "🇾🇪",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "YE",
@@ -2496,11 +2783,11 @@ val countries = listOf(
             Pair("pl", "Jemen"),
             Pair("ua", "Ємен")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Zambia",
         prefix = "+260",
         flag = R.drawable.zm,
+        flagEmoji = "🇿🇲",
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "ZM",
@@ -2509,11 +2796,11 @@ val countries = listOf(
             Pair("pl", "Zambia"),
             Pair("ua", "Замбія")
         )
-    ),
-    CountryCallingData(
+    ),CountryCallingData(
         name = "Zimbabwe",
         prefix = "+263",
         flag = R.drawable.zw,
+        flagEmoji = "🇿🇼",
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "ZW",
@@ -2522,5 +2809,5 @@ val countries = listOf(
             Pair("pl", "Zimbabwe"),
             Pair("ua", "Зімбабве")
         )
-    )
+    ),
 )

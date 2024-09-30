@@ -16,6 +16,7 @@ object CountryCallingUtil {
                 name = countryPhoneData.getNameInProperLanguage(code),
                 prefix = countryPhoneData.prefix,
                 flag = countryPhoneData.flag,
+                flagEmoji = countryPhoneData.flagEmoji,
                 countryCode = countryPhoneData.countryCode,
                 minPhoneLength = countryPhoneData.minPhoneLength,
                 maxPhoneLength = countryPhoneData.maxPhoneLength,
