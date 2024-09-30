@@ -3,10 +3,6 @@ plugins {
     alias(libs.plugins.jetbrains.kotlin.android)
     `maven-publish`
 }
-kotlin {
-    jvmToolchain(8)
-}
-
 android {
     namespace = "com.dgital.app.countriesphonecode"
     compileSdk = 34
@@ -27,12 +23,13 @@ android {
             )
         }
     }
+
     compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_1_8
-        targetCompatibility = JavaVersion.VERSION_1_8
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
     }
     kotlinOptions {
-        jvmTarget = "1.8"
+        jvmTarget = "17"
     }
 }
 
