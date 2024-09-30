@@ -2459,19 +2459,6 @@ val countries = listOf(
         )
     ),
     CountryCallingData(
-        name = "Vatican City",
-        prefix = "+379",
-        flag = R.drawable.va,
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
-        countryCode = "VA",
-        translatedNames = listOf(
-            Pair("en", "Vatican City"),
-            Pair("pl", "Watykan"),
-            Pair("ua", "Ватикан")
-        )
-    ),
-    CountryCallingData(
         name = "Venezuela",
         prefix = "+58",
         flag = R.drawable.ve,

@@ -1,0 +1,4970 @@
+[
+  {
+    "countryCode": "AF",
+    "flag": "🇦🇫",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Afghanistan",
+    "prefix": "+93",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Afghanistan"
+      },
+      {
+        "first": "pl",
+        "second": "Afganistan"
+      },
+      {
+        "first": "ua",
+        "second": "Афганістан"
+      }
+    ],
+    "visualFormatter": "### ### ###"
+  },
+  {
+    "countryCode": "AL",
+    "flag": "🇦🇱",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Albania",
+    "prefix": "+355",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Albania"
+      },
+      {
+        "first": "pl",
+        "second": "Albania"
+      },
+      {
+        "first": "ua",
+        "second": "Албанія"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "DZ",
+    "flag": "🇩🇿",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Algeria",
+    "prefix": "+213",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Algeria"
+      },
+      {
+        "first": "pl",
+        "second": "Algieria"
+      },
+      {
+        "first": "ua",
+        "second": "Алжир"
+      }
+    ],
+    "visualFormatter": "### ## ## ##"
+  },
+  {
+    "countryCode": "AS",
+    "flag": "🇦🇸",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "American Samoa",
+    "prefix": "+1684",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "American Samoa"
+      },
+      {
+        "first": "pl",
+        "second": "Samoa Amerykańskie"
+      },
+      {
+        "first": "ua",
+        "second": "Американське Самоа"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "AD",
+    "flag": "🇦🇩",
+    "maxPhoneLength": 6,
+    "minPhoneLength": 6,
+    "name": "Andorra",
+    "prefix": "+376",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Andorra"
+      },
+      {
+        "first": "pl",
+        "second": "Andora"
+      },
+      {
+        "first": "ua",
+        "second": "Андорра"
+      }
+    ],
+    "visualFormatter": "## ## ##"
+  },
+  {
+    "countryCode": "AO",
+    "flag": "🇦🇴",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Angola",
+    "prefix": "+244",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Angola"
+      },
+      {
+        "first": "pl",
+        "second": "Angola"
+      },
+      {
+        "first": "ua",
+        "second": "Ангола"
+      }
+    ],
+    "visualFormatter": "### ### ###"
+  },
+  {
+    "countryCode": "AI",
+    "flag": "🇦🇮",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Anguilla",
+    "prefix": "+1264",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Anguilla"
+      },
+      {
+        "first": "pl",
+        "second": "Anguilla"
+      },
+      {
+        "first": "ua",
+        "second": "Ангілья "
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "AG",
+    "flag": "🇦🇬",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Antigua & Barbuda",
+    "prefix": "+1268",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Antigua and Barbuda"
+      },
+      {
+        "first": "pl",
+        "second": "Antigua i Barbuda"
+      },
+      {
+        "first": "ua",
+        "second": "Антигуа і Барбуда"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "AR",
+    "flag": "🇦🇷",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Argentina",
+    "prefix": "+54",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Argentina"
+      },
+      {
+        "first": "pl",
+        "second": "Argentyna"
+      },
+      {
+        "first": "ua",
+        "second": "Аргентина"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "AM",
+    "flag": "🇦🇲",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Armenia",
+    "prefix": "+374",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Armenia"
+      },
+      {
+        "first": "pl",
+        "second": "Armenia"
+      },
+      {
+        "first": "ua",
+        "second": "Вірменія"
+      }
+    ],
+    "visualFormatter": "## ### ###"
+  },
+  {
+    "countryCode": "AW",
+    "flag": "🇦🇼",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Aruba",
+    "prefix": "+297",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Aruba"
+      },
+      {
+        "first": "pl",
+        "second": "Aruba"
+      },
+      {
+        "first": "ua",
+        "second": "Аруба"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "AU",
+    "flag": "🇦🇺",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Australia",
+    "prefix": "+61",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Australia"
+      },
+      {
+        "first": "pl",
+        "second": "Australia"
+      },
+      {
+        "first": "ua",
+        "second": "Австралія"
+      }
+    ],
+    "visualFormatter": "# #### ####"
+  },
+  {
+    "countryCode": "AT",
+    "flag": "🇦🇹",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Austria",
+    "prefix": "+43",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Austria"
+      },
+      {
+        "first": "pl",
+        "second": "Austria"
+      },
+      {
+        "first": "ua",
+        "second": "Австрія"
+      }
+    ],
+    "visualFormatter": "### ######"
+  },
+  {
+    "countryCode": "AZ",
+    "flag": "🇦🇿",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Azerbaijan",
+    "prefix": "+994",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Azerbaijan"
+      },
+      {
+        "first": "pl",
+        "second": "Azerbejdżan"
+      },
+      {
+        "first": "ua",
+        "second": "Азербайджан"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "BS",
+    "flag": "🇧🇸",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Bahamas",
+    "prefix": "+1242",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Bahamas"
+      },
+      {
+        "first": "pl",
+        "second": "Bahamy"
+      },
+      {
+        "first": "ua",
+        "second": "Багамські Острови"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "BH",
+    "flag": "🇧🇭",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Bahrain",
+    "prefix": "+973",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Bahrain"
+      },
+      {
+        "first": "pl",
+        "second": "Bahrajn"
+      },
+      {
+        "first": "ua",
+        "second": "Бахрейн"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "BD",
+    "flag": "🇧🇩",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Bangladesh",
+    "prefix": "+880",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Bangladesh"
+      },
+      {
+        "first": "pl",
+        "second": "Bangladesz"
+      },
+      {
+        "first": "ua",
+        "second": "Бангладеш"
+      }
+    ],
+    "visualFormatter": "## ### ###"
+  },
+  {
+    "countryCode": "BB",
+    "flag": "🇧🇧",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Barbados",
+    "prefix": "+1246",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Barbados"
+      },
+      {
+        "first": "pl",
+        "second": "Barbados"
+      },
+      {
+        "first": "ua",
+        "second": "Барбадос"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "BY",
+    "flag": "🇧🇾",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Belarus",
+    "prefix": "+375",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Belarus"
+      },
+      {
+        "first": "pl",
+        "second": "Białoruś"
+      },
+      {
+        "first": "ua",
+        "second": "Білорусь"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "BE",
+    "flag": "🇧🇪",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Belgium",
+    "prefix": "+32",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Belgium"
+      },
+      {
+        "first": "pl",
+        "second": "Belgia"
+      },
+      {
+        "first": "ua",
+        "second": "Бельгія"
+      }
+    ],
+    "visualFormatter": "### ## ## ##"
+  },
+  {
+    "countryCode": "BZ",
+    "flag": "🇧🇿",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Belize",
+    "prefix": "+501",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Belize"
+      },
+      {
+        "first": "pl",
+        "second": "Belize"
+      },
+      {
+        "first": "ua",
+        "second": "Беліз"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "BJ",
+    "flag": "🇧🇯",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Benin",
+    "prefix": "+229",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Benin"
+      },
+      {
+        "first": "pl",
+        "second": "Benin"
+      },
+      {
+        "first": "ua",
+        "second": "Бенін"
+      }
+    ],
+    "visualFormatter": "## ### ###"
+  },
+  {
+    "countryCode": "BM",
+    "flag": "🇧🇲",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Bermuda",
+    "prefix": "+1441",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Bermuda"
+      },
+      {
+        "first": "pl",
+        "second": "Bermudy"
+      },
+      {
+        "first": "ua",
+        "second": "Бермуди"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "BT",
+    "flag": "🇧🇹",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Bhutan",
+    "prefix": "+975",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Bhutan"
+      },
+      {
+        "first": "pl",
+        "second": "Bhutan"
+      },
+      {
+        "first": "ua",
+        "second": "Бутан"
+      }
+    ],
+    "visualFormatter": "## ### ###"
+  },
+  {
+    "countryCode": "BO",
+    "flag": "🇧🇴",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Bolivia",
+    "prefix": "+591",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Bolivia"
+      },
+      {
+        "first": "pl",
+        "second": "Boliwia"
+      },
+      {
+        "first": "ua",
+        "second": "Болівія"
+      }
+    ],
+    "visualFormatter": "# ### ####"
+  },
+  {
+    "countryCode": "BA",
+    "flag": "🇧🇦",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Bosnia & Herzegovina",
+    "prefix": "+387",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Bosnia and Herzegovina"
+      },
+      {
+        "first": "pl",
+        "second": "Bośnia i Hercegowina"
+      },
+      {
+        "first": "ua",
+        "second": "Боснія і Герцеговина"
+      }
+    ],
+    "visualFormatter": "## ### ###"
+  },
+  {
+    "countryCode": "BW",
+    "flag": "🇧🇼",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Botswana",
+    "prefix": "+267",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Botswana"
+      },
+      {
+        "first": "pl",
+        "second": "Botswana"
+      },
+      {
+        "first": "ua",
+        "second": "Ботсвана"
+      }
+    ],
+    "visualFormatter": "## ### ###"
+  },
+  {
+    "countryCode": "BR",
+    "flag": "🇧🇷",
+    "maxPhoneLength": 11,
+    "minPhoneLength": 10,
+    "name": "Brazil",
+    "prefix": "+55",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Brazil"
+      },
+      {
+        "first": "pl",
+        "second": "Brazylia"
+      },
+      {
+        "first": "ua",
+        "second": "Бразилія"
+      }
+    ],
+    "visualFormatter": "## ##### ####"
+  },
+  {
+    "countryCode": "IO",
+    "flag": "🇻🇬",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "British Virgin Islands",
+    "prefix": "+1284",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "British Virgin Islands"
+      },
+      {
+        "first": "pl",
+        "second": "Brytyjskie Wyspy Dziewicze"
+      },
+      {
+        "first": "ua",
+        "second": "Британські Віргінські Острови"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "BN",
+    "flag": "🇧🇳",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Brunei Darussalam",
+    "prefix": "+673",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Brunei"
+      },
+      {
+        "first": "pl",
+        "second": "Brunei"
+      },
+      {
+        "first": "ua",
+        "second": "Бруней"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "BG",
+    "flag": "🇧🇬",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Bulgaria",
+    "prefix": "+359",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Bulgaria"
+      },
+      {
+        "first": "pl",
+        "second": "Bułgaria"
+      },
+      {
+        "first": "ua",
+        "second": "Болгарія"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "BF",
+    "flag": "🇧🇫",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Burkina Faso",
+    "prefix": "+226",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Burkina Faso"
+      },
+      {
+        "first": "pl",
+        "second": "Burkina Faso"
+      },
+      {
+        "first": "ua",
+        "second": "Буркіна-Фасо"
+      }
+    ],
+    "visualFormatter": "## ## ## ##"
+  },
+  {
+    "countryCode": "BI",
+    "flag": "🇧🇮",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Burundi",
+    "prefix": "+257",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Burundi"
+      },
+      {
+        "first": "pl",
+        "second": "Burundi"
+      },
+      {
+        "first": "ua",
+        "second": "Бурунді"
+      }
+    ],
+    "visualFormatter": "## ## ####"
+  },
+  {
+    "countryCode": "KH",
+    "flag": "🇰🇭",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Cambodia",
+    "prefix": "+855",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Cambodia"
+      },
+      {
+        "first": "pl",
+        "second": "Kambodża"
+      },
+      {
+        "first": "ua",
+        "second": "Камбоджа"
+      }
+    ],
+    "visualFormatter": "## ### ###"
+  },
+  {
+    "countryCode": "CM",
+    "flag": "🇨🇲",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Cameroon",
+    "prefix": "+237",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Cameroon"
+      },
+      {
+        "first": "pl",
+        "second": "Kamerun"
+      },
+      {
+        "first": "ua",
+        "second": "Камерун"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "CA",
+    "flag": "🇨🇦",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Canada",
+    "prefix": "+1",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Canada"
+      },
+      {
+        "first": "pl",
+        "second": "Kanada"
+      },
+      {
+        "first": "ua",
+        "second": "Канада"
+      }
+    ],
+    "visualFormatter": "### ### ####"
+  },
+  {
+    "countryCode": "CV",
+    "flag": "🇨🇻",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Cape Verde",
+    "prefix": "+238",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Cabo Verde"
+      },
+      {
+        "first": "pl",
+        "second": "Cabo Verde"
+      },
+      {
+        "first": "ua",
+        "second": "Кабо-Верде"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "KY",
+    "flag": "🇰🇾",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Cayman Islands",
+    "prefix": "+1345",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Cayman Islands"
+      },
+      {
+        "first": "pl",
+        "second": "Kajmany"
+      },
+      {
+        "first": "ua",
+        "second": "Острови Кайман"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "CF",
+    "flag": "🇨🇫",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Central African Rep.",
+    "prefix": "+236",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Central African Republic"
+      },
+      {
+        "first": "pl",
+        "second": "Republika Środkowoafrykańska"
+      },
+      {
+        "first": "ua",
+        "second": "Центральноафриканська Республіка"
+      }
+    ],
+    "visualFormatter": "## ## ## ##"
+  },
+  {
+    "countryCode": "TD",
+    "flag": "🇹🇩",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Chad",
+    "prefix": "+235",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Chad"
+      },
+      {
+        "first": "pl",
+        "second": "Czad"
+      },
+      {
+        "first": "ua",
+        "second": "Чад"
+      }
+    ],
+    "visualFormatter": "## ## ## ##"
+  },
+  {
+    "countryCode": "CL",
+    "flag": "🇨🇱",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Chile",
+    "prefix": "+56",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Chile"
+      },
+      {
+        "first": "pl",
+        "second": "Chile"
+      },
+      {
+        "first": "ua",
+        "second": "Чилі"
+      }
+    ],
+    "visualFormatter": "# #### ####"
+  },
+  {
+    "countryCode": "CN",
+    "flag": "🇨🇳",
+    "maxPhoneLength": 11,
+    "minPhoneLength": 11,
+    "name": "China",
+    "prefix": "+86",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "China"
+      },
+      {
+        "first": "pl",
+        "second": "Chiny"
+      },
+      {
+        "first": "ua",
+        "second": "Китай"
+      }
+    ],
+    "visualFormatter": "### #### ####"
+  },
+  {
+    "countryCode": "CO",
+    "flag": "🇨🇴",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Colombia",
+    "prefix": "+57",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Colombia"
+      },
+      {
+        "first": "pl",
+        "second": "Kolumbia"
+      },
+      {
+        "first": "ua",
+        "second": "Колумбія"
+      }
+    ],
+    "visualFormatter": "### ### ####"
+  },
+  {
+    "countryCode": "KM",
+    "flag": "🇰🇲",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Comoros",
+    "prefix": "+269",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Comoros"
+      },
+      {
+        "first": "pl",
+        "second": "Komory"
+      },
+      {
+        "first": "ua",
+        "second": "Коморські Острови"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "CG",
+    "flag": "🇨🇬",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Congo (Rep.)",
+    "prefix": "+242",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Congo, Republic of the"
+      },
+      {
+        "first": "pl",
+        "second": "Republika Konga"
+      },
+      {
+        "first": "ua",
+        "second": "Республіка Конго"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "CD",
+    "flag": "🇨🇩",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Congo (Dem. Rep.)",
+    "prefix": "+243",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Congo, Democratic Republic of the"
+      },
+      {
+        "first": "pl",
+        "second": "Demokratyczna Republika Konga"
+      },
+      {
+        "first": "ua",
+        "second": "Демократична Республіка Конго"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "CK",
+    "flag": "🇨🇰",
+    "maxPhoneLength": 5,
+    "minPhoneLength": 5,
+    "name": "Cook Islands",
+    "prefix": "+682",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Cook Islands"
+      },
+      {
+        "first": "pl",
+        "second": "Wyspy Cooka"
+      },
+      {
+        "first": "ua",
+        "second": "Острови Кука"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "CR",
+    "flag": "🇨🇷",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Costa Rica",
+    "prefix": "+506",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Costa Rica"
+      },
+      {
+        "first": "pl",
+        "second": "Kostaryka"
+      },
+      {
+        "first": "ua",
+        "second": "Коста-Рика"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "CI",
+    "flag": "🇨🇮",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Cote d'Ivoire",
+    "prefix": "+225",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Ivory Coast"
+      },
+      {
+        "first": "pl",
+        "second": "Wybrzeże Kości Słoniowej"
+      },
+      {
+        "first": "ua",
+        "second": "Берег Слонової Кості"
+      }
+    ],
+    "visualFormatter": "## ## ## ####"
+  },
+  {
+    "countryCode": "HR",
+    "flag": "🇭🇷",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Croatia",
+    "prefix": "+385",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Croatia"
+      },
+      {
+        "first": "pl",
+        "second": "Chorwacja"
+      },
+      {
+        "first": "ua",
+        "second": "Хорватія"
+      }
+    ],
+    "visualFormatter": "## ### ###"
+  },
+  {
+    "countryCode": "CU",
+    "flag": "🇨🇺",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Cuba",
+    "prefix": "+53",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Cuba"
+      },
+      {
+        "first": "pl",
+        "second": "Kuba"
+      },
+      {
+        "first": "ua",
+        "second": "Куба"
+      }
+    ],
+    "visualFormatter": "# ### ####"
+  },
+  {
+    "countryCode": "CY",
+    "flag": "🇨🇾",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Cyprus",
+    "prefix": "+357",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Cyprus"
+      },
+      {
+        "first": "pl",
+        "second": "Cypr"
+      },
+      {
+        "first": "ua",
+        "second": "Кіпр"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "CZ",
+    "flag": "🇨🇿",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Czech Republic",
+    "prefix": "+420",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Czech Republic"
+      },
+      {
+        "first": "pl",
+        "second": "Czechy"
+      },
+      {
+        "first": "ua",
+        "second": "Чехія"
+      }
+    ],
+    "visualFormatter": "### ### ###"
+  },
+  {
+    "countryCode": "DK",
+    "flag": "🇩🇰",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Denmark",
+    "prefix": "+45",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Denmark"
+      },
+      {
+        "first": "pl",
+        "second": "Dania"
+      },
+      {
+        "first": "ua",
+        "second": "Данія"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "DJ",
+    "flag": "🇩🇯",
+    "maxPhoneLength": 6,
+    "minPhoneLength": 6,
+    "name": "Djibouti",
+    "prefix": "+253",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Djibouti"
+      },
+      {
+        "first": "pl",
+        "second": "Dżibuti"
+      },
+      {
+        "first": "ua",
+        "second": "Джибуті"
+      }
+    ],
+    "visualFormatter": "## ## ## ##"
+  },
+  {
+    "countryCode": "DM",
+    "flag": "🇩🇲",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Dominica",
+    "prefix": "+1767",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Dominica"
+      },
+      {
+        "first": "pl",
+        "second": "Dominika"
+      },
+      {
+        "first": "ua",
+        "second": "Домініка"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "DO",
+    "flag": "🇩🇴",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Dominican Rep.",
+    "prefix": "+1809",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Dominican Republic"
+      },
+      {
+        "first": "pl",
+        "second": "Republika Dominikańska"
+      },
+      {
+        "first": "ua",
+        "second": "Домініканська Республіка"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "EC",
+    "flag": "🇪🇨",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Ecuador",
+    "prefix": "+593",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Ecuador"
+      },
+      {
+        "first": "pl",
+        "second": "Ekwador"
+      },
+      {
+        "first": "ua",
+        "second": "Еквадор"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "EG",
+    "flag": "🇪🇬",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Egypt",
+    "prefix": "+20",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Egypt"
+      },
+      {
+        "first": "pl",
+        "second": "Egipt"
+      },
+      {
+        "first": "ua",
+        "second": "Єгипет"
+      }
+    ],
+    "visualFormatter": "## #### ####"
+  },
+  {
+    "countryCode": "SV",
+    "flag": "🇸🇻",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "El Salvador",
+    "prefix": "+503",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "El Salvador"
+      },
+      {
+        "first": "pl",
+        "second": "Salwador"
+      },
+      {
+        "first": "ua",
+        "second": "Сальвадор"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "GQ",
+    "flag": "🇬🇶",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Equatorial Guinea",
+    "prefix": "+240",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Equatorial Guinea"
+      },
+      {
+        "first": "pl",
+        "second": "Gwinea Równikowa"
+      },
+      {
+        "first": "ua",
+        "second": "Екваторіальна Гвінея"
+      }
+    ],
+    "visualFormatter": "### ### ###"
+  },
+  {
+    "countryCode": "ER",
+    "flag": "🇪🇷",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Eritrea",
+    "prefix": "+291",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Eritrea"
+      },
+      {
+        "first": "pl",
+        "second": "Erytrea"
+      },
+      {
+        "first": "ua",
+        "second": "Еритрея"
+      }
+    ],
+    "visualFormatter": "# ### ###"
+  },
+  {
+    "countryCode": "EE",
+    "flag": "🇪🇪",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Estonia",
+    "prefix": "+372",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Estonia"
+      },
+      {
+        "first": "pl",
+        "second": "Estonia"
+      },
+      {
+        "first": "ua",
+        "second": "Естонія"
+      }
+    ],
+    "visualFormatter": "#### ###"
+  },
+  {
+    "countryCode": "SZ",
+    "flag": "🇸🇿",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Eswatini",
+    "prefix": "+268",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Eswatini"
+      },
+      {
+        "first": "pl",
+        "second": "Eswatini"
+      },
+      {
+        "first": "ua",
+        "second": "Есватіні"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "ET",
+    "flag": "🇪🇹",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Ethiopia",
+    "prefix": "+251",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Ethiopia"
+      },
+      {
+        "first": "pl",
+        "second": "Etiopia"
+      },
+      {
+        "first": "ua",
+        "second": "Ефіопія"
+      }
+    ],
+    "visualFormatter": "## ### ###"
+  },
+  {
+    "countryCode": "FO",
+    "flag": "🇫🇴",
+    "maxPhoneLength": 6,
+    "minPhoneLength": 6,
+    "name": "Faroe Islands",
+    "prefix": "+298",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Faroe Islands"
+      },
+      {
+        "first": "pl",
+        "second": "Wyspy Owcze"
+      },
+      {
+        "first": "ua",
+        "second": "Фарерські острови"
+      }
+    ],
+    "visualFormatter": "### ###"
+  },
+  {
+    "countryCode": "FJ",
+    "flag": "🇫🇯",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Fiji",
+    "prefix": "+679",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Fiji"
+      },
+      {
+        "first": "pl",
+        "second": "Fidżi"
+      },
+      {
+        "first": "ua",
+        "second": "Фіджі"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "FI",
+    "flag": "🇫🇮",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Finland",
+    "prefix": "+358",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Finland"
+      },
+      {
+        "first": "pl",
+        "second": "Finlandia"
+      },
+      {
+        "first": "ua",
+        "second": "Фінляндія"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "France",
+    "prefix": "+33",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "France"
+      },
+      {
+        "first": "pl",
+        "second": "Francja"
+      },
+      {
+        "first": "ua",
+        "second": "Франція"
+      }
+    ],
+    "visualFormatter": "# ## ## ## ##"
+  },
+  {
+    "countryCode": "GF",
+    "flag": "🇬🇫",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "French Guiana",
+    "prefix": "+594",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "French Guiana"
+      },
+      {
+        "first": "pl",
+        "second": "Gujana Francuska"
+      },
+      {
+        "first": "ua",
+        "second": "Французька Гвіана"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "PF",
+    "flag": "🇵🇫",
+    "maxPhoneLength": 6,
+    "minPhoneLength": 6,
+    "name": "French Polynesia",
+    "prefix": "+689",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "French Polynesia"
+      },
+      {
+        "first": "pl",
+        "second": "Polinezja Francuska"
+      },
+      {
+        "first": "ua",
+        "second": "Французька Полінезія"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "GA",
+    "flag": "🇬🇦",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Gabon",
+    "prefix": "+241",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Gabon"
+      },
+      {
+        "first": "pl",
+        "second": "Gabon"
+      },
+      {
+        "first": "ua",
+        "second": "Габон"
+      }
+    ],
+    "visualFormatter": "# ## ## ##"
+  },
+  {
+    "countryCode": "GM",
+    "flag": "🇬🇲",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Gambia",
+    "prefix": "+220",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Gambia"
+      },
+      {
+        "first": "pl",
+        "second": "Gambia"
+      },
+      {
+        "first": "ua",
+        "second": "Гамбія"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "GE",
+    "flag": "🇬🇪",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Georgia",
+    "prefix": "+995",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Georgia"
+      },
+      {
+        "first": "pl",
+        "second": "Gruzja"
+      },
+      {
+        "first": "ua",
+        "second": "Грузія"
+      }
+    ],
+    "visualFormatter": "### ### ###"
+  },
+  {
+    "countryCode": "DE",
+    "flag": "🇩🇪",
+    "maxPhoneLength": 11,
+    "minPhoneLength": 11,
+    "name": "Germany",
+    "prefix": "+49",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Germany"
+      },
+      {
+        "first": "pl",
+        "second": "Niemcy"
+      },
+      {
+        "first": "ua",
+        "second": "Німеччина"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "GH",
+    "flag": "🇬🇭",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Ghana",
+    "prefix": "+233",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Ghana"
+      },
+      {
+        "first": "pl",
+        "second": "Ghana"
+      },
+      {
+        "first": "ua",
+        "second": "Гана"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "GI",
+    "flag": "🇬🇮",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Gibraltar",
+    "prefix": "+350",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Gibraltar"
+      },
+      {
+        "first": "pl",
+        "second": "Gibraltar"
+      },
+      {
+        "first": "ua",
+        "second": "Гібралтар"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "GR",
+    "flag": "🇬🇷",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Greece",
+    "prefix": "+30",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Greece"
+      },
+      {
+        "first": "pl",
+        "second": "Grecja"
+      },
+      {
+        "first": "ua",
+        "second": "Греція"
+      }
+    ],
+    "visualFormatter": "### ### ####"
+  },
+  {
+    "countryCode": "GL",
+    "flag": "🇬🇱",
+    "maxPhoneLength": 6,
+    "minPhoneLength": 6,
+    "name": "Greenland",
+    "prefix": "+299",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Greenland"
+      },
+      {
+        "first": "pl",
+        "second": "Grenlandia"
+      },
+      {
+        "first": "ua",
+        "second": "Гренландія"
+      }
+    ],
+    "visualFormatter": "### ###"
+  },
+  {
+    "countryCode": "GD",
+    "flag": "🇬🇩",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Grenada",
+    "prefix": "+1473",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Grenada"
+      },
+      {
+        "first": "pl",
+        "second": "Grenada"
+      },
+      {
+        "first": "ua",
+        "second": "Гренада"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "GP",
+    "flag": "🇬🇵",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Guadeloupe",
+    "prefix": "+590",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": ""
+      },
+      {
+        "first": "pl",
+        "second": ""
+      },
+      {
+        "first": "ua",
+        "second": ""
+      }
+    ],
+    "visualFormatter": "### ## ## ##"
+  },
+  {
+    "countryCode": "GU",
+    "flag": "🇬🇺",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Guam",
+    "prefix": "+1671",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Guam"
+      },
+      {
+        "first": "pl",
+        "second": "Guam"
+      },
+      {
+        "first": "ua",
+        "second": "Гуам"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "GT",
+    "flag": "🇬🇹",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Guatemala",
+    "prefix": "+502",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Guatemala"
+      },
+      {
+        "first": "pl",
+        "second": "Gwatemala"
+      },
+      {
+        "first": "ua",
+        "second": "Гватемала"
+      }
+    ],
+    "visualFormatter": "# ### ####"
+  },
+  {
+    "countryCode": "GN",
+    "flag": "🇬🇳",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Guinea",
+    "prefix": "+224",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Guinea"
+      },
+      {
+        "first": "pl",
+        "second": "Gwinea"
+      },
+      {
+        "first": "ua",
+        "second": "Гвінея"
+      }
+    ],
+    "visualFormatter": "### ### ###"
+  },
+  {
+    "countryCode": "GW",
+    "flag": "🇬🇼",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Guinea-Bissau",
+    "prefix": "+245",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Guinea-Bissau"
+      },
+      {
+        "first": "pl",
+        "second": "Gwinea-Bissau"
+      },
+      {
+        "first": "ua",
+        "second": "Гвінея-Біссау"
+      }
+    ],
+    "visualFormatter": "### ## ## ##"
+  },
+  {
+    "countryCode": "GY",
+    "flag": "🇬🇾",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Guyana",
+    "prefix": "+592",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Guyana"
+      },
+      {
+        "first": "pl",
+        "second": "Gujana"
+      },
+      {
+        "first": "ua",
+        "second": "Гаяна"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "HT",
+    "flag": "🇭🇹",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Haiti",
+    "prefix": "+509",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Haiti"
+      },
+      {
+        "first": "pl",
+        "second": "Haiti"
+      },
+      {
+        "first": "ua",
+        "second": "Гаїті"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "HN",
+    "flag": "🇭🇳",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Honduras",
+    "prefix": "+504",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Honduras"
+      },
+      {
+        "first": "pl",
+        "second": "Honduras"
+      },
+      {
+        "first": "ua",
+        "second": "Гондурас"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "HK",
+    "flag": "🇭🇰",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 9,
+    "name": "Hong Kong",
+    "prefix": "+852",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Hong Kong"
+      },
+      {
+        "first": "pl",
+        "second": "Hongkong"
+      },
+      {
+        "first": "ua",
+        "second": "Гонконг"
+      }
+    ],
+    "visualFormatter": "# ### ####"
+  },
+  {
+    "countryCode": "HU",
+    "flag": "🇭🇺",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Hungary",
+    "prefix": "+36",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Hungary"
+      },
+      {
+        "first": "pl",
+        "second": "Węgry"
+      },
+      {
+        "first": "ua",
+        "second": "Угорщина"
+      }
+    ],
+    "visualFormatter": "### ### ###"
+  },
+  {
+    "countryCode": "IS",
+    "flag": "🇮🇸",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Iceland",
+    "prefix": "+354",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Iceland"
+      },
+      {
+        "first": "pl",
+        "second": "Islandia"
+      },
+      {
+        "first": "ua",
+        "second": "Ісландія"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "IN",
+    "flag": "🇮🇳",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "India",
+    "prefix": "+91",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "India"
+      },
+      {
+        "first": "pl",
+        "second": "Indie"
+      },
+      {
+        "first": "ua",
+        "second": "Індія"
+      }
+    ],
+    "visualFormatter": "##### #####"
+  },
+  {
+    "countryCode": "ID",
+    "flag": "🇮🇩",
+    "maxPhoneLength": 11,
+    "minPhoneLength": 10,
+    "name": "Indonesia",
+    "prefix": "+62",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Indonesia"
+      },
+      {
+        "first": "pl",
+        "second": "Indonezja"
+      },
+      {
+        "first": "ua",
+        "second": "Індонезія"
+      }
+    ],
+    "visualFormatter": "### ######"
+  },
+  {
+    "countryCode": "IR",
+    "flag": "🇮🇷",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Iran",
+    "prefix": "+98",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Iran"
+      },
+      {
+        "first": "pl",
+        "second": "Iran"
+      },
+      {
+        "first": "ua",
+        "second": "Іран"
+      }
+    ],
+    "visualFormatter": "### ### ####"
+  },
+  {
+    "countryCode": "IQ",
+    "flag": "🇮🇶",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Iraq",
+    "prefix": "+964",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Iraq"
+      },
+      {
+        "first": "pl",
+        "second": "Irak"
+      },
+      {
+        "first": "ua",
+        "second": "Ірак"
+      }
+    ],
+    "visualFormatter": "### ### ####"
+  },
+  {
+    "countryCode": "IE",
+    "flag": "🇮🇪",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 7,
+    "name": "Ireland",
+    "prefix": "+353",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Ireland"
+      },
+      {
+        "first": "pl",
+        "second": "Irlandia"
+      },
+      {
+        "first": "ua",
+        "second": "Ірландія"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "IL",
+    "flag": "🇮🇱",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Israel",
+    "prefix": "+972",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Israel"
+      },
+      {
+        "first": "pl",
+        "second": "Izrael"
+      },
+      {
+        "first": "ua",
+        "second": "Ізраїль"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Italy",
+    "prefix": "+39",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Italy"
+      },
+      {
+        "first": "pl",
+        "second": "Włochy"
+      },
+      {
+        "first": "ua",
+        "second": "Італія"
+      }
+    ],
+    "visualFormatter": "### ### ####"
+  },
+  {
+    "countryCode": "JM",
+    "flag": "🇯🇲",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Jamaica",
+    "prefix": "+1876",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Jamaica"
+      },
+      {
+        "first": "pl",
+        "second": "Jamajka"
+      },
+      {
+        "first": "ua",
+        "second": "Ямайка"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "JP",
+    "flag": "🇯🇵",
+    "maxPhoneLength": 11,
+    "minPhoneLength": 10,
+    "name": "Japan",
+    "prefix": "+81",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Japan"
+      },
+      {
+        "first": "pl",
+        "second": "Japonia"
+      },
+      {
+        "first": "ua",
+        "second": "Японія"
+      }
+    ],
+    "visualFormatter": "## #### ####"
+  },
+  {
+    "countryCode": "JO",
+    "flag": "🇯🇴",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Jordan",
+    "prefix": "+962",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Jordan"
+      },
+      {
+        "first": "pl",
+        "second": "Jordania"
+      },
+      {
+        "first": "ua",
+        "second": "Йорданія"
+      }
+    ],
+    "visualFormatter": "# #### ####"
+  },
+  {
+    "countryCode": "KZ",
+    "flag": "🇰🇿",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Kazakhstan",
+    "prefix": "+7",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Kazakhstan"
+      },
+      {
+        "first": "pl",
+        "second": "Kazachstan"
+      },
+      {
+        "first": "ua",
+        "second": "Казахстан"
+      }
+    ],
+    "visualFormatter": "### ### ## ##"
+  },
+  {
+    "countryCode": "KE",
+    "flag": "🇰🇪",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Kenya",
+    "prefix": "+254",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Kenya"
+      },
+      {
+        "first": "pl",
+        "second": "Kenia"
+      },
+      {
+        "first": "ua",
+        "second": "Кенія"
+      }
+    ],
+    "visualFormatter": "### ### ###"
+  },
+  {
+    "countryCode": "KI",
+    "flag": "🇰🇮",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Kiribati",
+    "prefix": "+686",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Kiribati"
+      },
+      {
+        "first": "pl",
+        "second": "Kiribati"
+      },
+      {
+        "first": "ua",
+        "second": "Кірибаті"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "KP",
+    "flag": "🇰🇵",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "North Korea",
+    "prefix": "+850",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "North Korea"
+      },
+      {
+        "first": "pl",
+        "second": "Korea Północna"
+      },
+      {
+        "first": "ua",
+        "second": "Північна Корея"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "KR",
+    "flag": "🇰🇷",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "South Korea",
+    "prefix": "+82",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "South Korea"
+      },
+      {
+        "first": "pl",
+        "second": "Korea Południowa"
+      },
+      {
+        "first": "ua",
+        "second": "Південна Корея"
+      }
+    ],
+    "visualFormatter": "## #### ###"
+  },
+  {
+    "countryCode": "XK",
+    "flag": "🇽🇰",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 9,
+    "name": "Kosovo",
+    "prefix": "+383",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Kosovo"
+      },
+      {
+        "first": "pl",
+        "second": "Kosowo"
+      },
+      {
+        "first": "ua",
+        "second": "Косово"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "KW",
+    "flag": "🇰🇼",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Kuwait",
+    "prefix": "+965",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Kuwait"
+      },
+      {
+        "first": "pl",
+        "second": "Kuwejt"
+      },
+      {
+        "first": "ua",
+        "second": "Кувейт"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "KG",
+    "flag": "🇰🇬",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Kyrgyzstan",
+    "prefix": "+996",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Kyrgyzstan"
+      },
+      {
+        "first": "pl",
+        "second": "Kirgistan"
+      },
+      {
+        "first": "ua",
+        "second": "Киргизстан"
+      }
+    ],
+    "visualFormatter": "### ######"
+  },
+  {
+    "countryCode": "LA",
+    "flag": "🇱🇦",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Laos",
+    "prefix": "+856",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Laos"
+      },
+      {
+        "first": "pl",
+        "second": "Laos"
+      },
+      {
+        "first": "ua",
+        "second": "Лаос"
+      }
+    ],
+    "visualFormatter": "## ## ### ###"
+  },
+  {
+    "countryCode": "LV",
+    "flag": "🇱🇻",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Latvia",
+    "prefix": "+371",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Latvia"
+      },
+      {
+        "first": "pl",
+        "second": "Łotwa"
+      },
+      {
+        "first": "ua",
+        "second": "Латвія"
+      }
+    ],
+    "visualFormatter": "### #####"
+  },
+  {
+    "countryCode": "LB",
+    "flag": "🇱🇧",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Lebanon",
+    "prefix": "+961",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Lebanon"
+      },
+      {
+        "first": "pl",
+        "second": "Liban"
+      },
+      {
+        "first": "ua",
+        "second": "Ліван"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "LS",
+    "flag": "🇱🇸",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Lesotho",
+    "prefix": "+266",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Lesotho"
+      },
+      {
+        "first": "pl",
+        "second": "Lesotho"
+      },
+      {
+        "first": "ua",
+        "second": "Лесото"
+      }
+    ],
+    "visualFormatter": "## ### ###"
+  },
+  {
+    "countryCode": "LR",
+    "flag": "🇱🇷",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Liberia",
+    "prefix": "+231",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Liberia"
+      },
+      {
+        "first": "pl",
+        "second": "Liberia"
+      },
+      {
+        "first": "ua",
+        "second": "Ліберія"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "LY",
+    "flag": "🇱🇾",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Libya",
+    "prefix": "+218",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Libya"
+      },
+      {
+        "first": "pl",
+        "second": "Libia"
+      },
+      {
+        "first": "ua",
+        "second": "Лівія"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "LI",
+    "flag": "🇱🇮",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Liechtenstein",
+    "prefix": "+423",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Liechtenstein"
+      },
+      {
+        "first": "pl",
+        "second": "Liechtenstein"
+      },
+      {
+        "first": "ua",
+        "second": "Ліхтенштейн"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "LT",
+    "flag": "🇱🇹",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Lithuania",
+    "prefix": "+370",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Lithuania"
+      },
+      {
+        "first": "pl",
+        "second": "Litwa"
+      },
+      {
+        "first": "ua",
+        "second": "Литва"
+      }
+    ],
+    "visualFormatter": "### #####"
+  },
+  {
+    "countryCode": "LU",
+    "flag": "🇱🇺",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Luxembourg",
+    "prefix": "+352",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Luxembourg"
+      },
+      {
+        "first": "pl",
+        "second": "Luksemburg"
+      },
+      {
+        "first": "ua",
+        "second": "Люксембург"
+      }
+    ],
+    "visualFormatter": "### ### ###"
+  },
+  {
+    "countryCode": "MO",
+    "flag": "🇲🇴",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 8,
+    "name": "Macau",
+    "prefix": "+853",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Macau"
+      },
+      {
+        "first": "pl",
+        "second": "Makau"
+      },
+      {
+        "first": "ua",
+        "second": "Макао"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "MK",
+    "flag": "🇲🇰",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Macedonia",
+    "prefix": "+389",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "North Macedonia"
+      },
+      {
+        "first": "pl",
+        "second": "Północna Macedonia"
+      },
+      {
+        "first": "ua",
+        "second": "Північна Македонія"
+      }
+    ],
+    "visualFormatter": "## ######"
+  },
+  {
+    "countryCode": "MG",
+    "flag": "🇲🇬",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Madagascar",
+    "prefix": "+261",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Madagascar"
+      },
+      {
+        "first": "pl",
+        "second": "Madagaskar"
+      },
+      {
+        "first": "ua",
+        "second": "Мадагаскар"
+      }
+    ],
+    "visualFormatter": "## ######"
+  },
+  {
+    "countryCode": "MW",
+    "flag": "🇲🇼",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Malawi",
+    "prefix": "+265",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Malawi"
+      },
+      {
+        "first": "pl",
+        "second": "Malawi"
+      },
+      {
+        "first": "ua",
+        "second": "Малаві"
+      }
+    ],
+    "visualFormatter": "## ## ### ##"
+  },
+  {
+    "countryCode": "MY",
+    "flag": "🇲🇾",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 9,
+    "name": "Malaysia",
+    "prefix": "+60",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Malaysia"
+      },
+      {
+        "first": "pl",
+        "second": "Malezja"
+      },
+      {
+        "first": "ua",
+        "second": "Малайзія"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "MV",
+    "flag": "🇲🇻",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Maldives",
+    "prefix": "+960",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Maldives"
+      },
+      {
+        "first": "pl",
+        "second": "Malediwy"
+      },
+      {
+        "first": "ua",
+        "second": "Мальдіви"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "ML",
+    "flag": "🇲🇱",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Mali",
+    "prefix": "+223",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Mali"
+      },
+      {
+        "first": "pl",
+        "second": "Mali"
+      },
+      {
+        "first": "ua",
+        "second": "Малі"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "MT",
+    "flag": "🇲🇹",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Malta",
+    "prefix": "+356",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Malta"
+      },
+      {
+        "first": "pl",
+        "second": "Malta"
+      },
+      {
+        "first": "ua",
+        "second": "Мальта"
+      }
+    ],
+    "visualFormatter": "## ## ## ##"
+  },
+  {
+    "countryCode": "MH",
+    "flag": "🇲🇭",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Marshall Islands",
+    "prefix": "+692",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Marshall Islands"
+      },
+      {
+        "first": "pl",
+        "second": "Wyspy Marshalla"
+      },
+      {
+        "first": "ua",
+        "second": "Маршаллові Острови"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "MQ",
+    "flag": "🇲🇶",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Martinique",
+    "prefix": "+596",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Martinique"
+      },
+      {
+        "first": "pl",
+        "second": "Martynika"
+      },
+      {
+        "first": "ua",
+        "second": "Мартиніка"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "MR",
+    "flag": "🇲🇷",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Mauritania",
+    "prefix": "+222",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Mauritania"
+      },
+      {
+        "first": "pl",
+        "second": "Mauretania"
+      },
+      {
+        "first": "ua",
+        "second": "Мавританія"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "MU",
+    "flag": "🇲🇺",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Mauritius",
+    "prefix": "+230",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Mauritius"
+      },
+      {
+        "first": "pl",
+        "second": "Mauritius"
+      },
+      {
+        "first": "ua",
+        "second": "Маврикій"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "MX",
+    "flag": "🇲🇽",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Mexico",
+    "prefix": "+52",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Mexico"
+      },
+      {
+        "first": "pl",
+        "second": "Meksyk"
+      },
+      {
+        "first": "ua",
+        "second": "Мексика"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "FM",
+    "flag": "🇫🇲",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Micronesia",
+    "prefix": "+691",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Micronesia"
+      },
+      {
+        "first": "pl",
+        "second": "Mikronezja"
+      },
+      {
+        "first": "ua",
+        "second": "Мікронезія"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "MD",
+    "flag": "🇲🇩",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Moldova",
+    "prefix": "+373",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Moldova"
+      },
+      {
+        "first": "pl",
+        "second": "Mołdawia"
+      },
+      {
+        "first": "ua",
+        "second": "Молдова"
+      }
+    ],
+    "visualFormatter": "## ### ###"
+  },
+  {
+    "countryCode": "MC",
+    "flag": "🇲🇨",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Monaco",
+    "prefix": "+377",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Monaco"
+      },
+      {
+        "first": "pl",
+        "second": "Monako"
+      },
+      {
+        "first": "ua",
+        "second": "Монако"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "MN",
+    "flag": "🇲🇳",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Mongolia",
+    "prefix": "+976",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Mongolia"
+      },
+      {
+        "first": "pl",
+        "second": "Mongolia"
+      },
+      {
+        "first": "ua",
+        "second": "Монголія"
+      }
+    ],
+    "visualFormatter": "## ## ####"
+  },
+  {
+    "countryCode": "ME",
+    "flag": "🇲🇪",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Montenegro",
+    "prefix": "+382",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Montenegro"
+      },
+      {
+        "first": "pl",
+        "second": "Czarnogóra"
+      },
+      {
+        "first": "ua",
+        "second": "Чорногорія"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "MS",
+    "flag": "🇲🇸",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Montserrat",
+    "prefix": "+1664",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Montserrat"
+      },
+      {
+        "first": "pl",
+        "second": "Montserat"
+      },
+      {
+        "first": "ua",
+        "second": "Монтсеррат"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "MA",
+    "flag": "🇲🇦",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Morocco",
+    "prefix": "+212",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Morocco"
+      },
+      {
+        "first": "pl",
+        "second": "Maroko"
+      },
+      {
+        "first": "ua",
+        "second": "Марокко"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "MZ",
+    "flag": "🇲🇿",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Mozambique",
+    "prefix": "+258",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Mozambique"
+      },
+      {
+        "first": "pl",
+        "second": "Mozambik"
+      },
+      {
+        "first": "ua",
+        "second": "Мозамбік"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "MM",
+    "flag": "🇲🇲",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Myanmar",
+    "prefix": "+95",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Myanmar"
+      },
+      {
+        "first": "pl",
+        "second": "Mjanma"
+      },
+      {
+        "first": "ua",
+        "second": "М'янма"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "NA",
+    "flag": "🇳🇦",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Namibia",
+    "prefix": "+264",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Namibia"
+      },
+      {
+        "first": "pl",
+        "second": "Namibia"
+      },
+      {
+        "first": "ua",
+        "second": "Намібія"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "NR",
+    "flag": "🇳🇷",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Nauru",
+    "prefix": "+674",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Nauru"
+      },
+      {
+        "first": "pl",
+        "second": "Nauru"
+      },
+      {
+        "first": "ua",
+        "second": "Науру"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "NP",
+    "flag": "🇳🇵",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Nepal",
+    "prefix": "+977",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Nepal"
+      },
+      {
+        "first": "pl",
+        "second": "Nepal"
+      },
+      {
+        "first": "ua",
+        "second": "Непал"
+      }
+    ],
+    "visualFormatter": "## #### ####"
+  },
+  {
+    "countryCode": "NL",
+    "flag": "🇳🇱",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Netherlands",
+    "prefix": "+31",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Netherlands"
+      },
+      {
+        "first": "pl",
+        "second": "Holandia"
+      },
+      {
+        "first": "ua",
+        "second": "Нідерланди"
+      }
+    ],
+    "visualFormatter": "# ## ## ## ##"
+  },
+  {
+    "countryCode": "NC",
+    "flag": "🇳🇨",
+    "maxPhoneLength": 6,
+    "minPhoneLength": 6,
+    "name": "New Caledonia",
+    "prefix": "+687",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "New Caledonia"
+      },
+      {
+        "first": "pl",
+        "second": "Nowa Kaledonia"
+      },
+      {
+        "first": "ua",
+        "second": "Нова Каледонія"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "NZ",
+    "flag": "🇳🇿",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 8,
+    "name": "New Zealand",
+    "prefix": "+64",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "New Zealand"
+      },
+      {
+        "first": "pl",
+        "second": "Nowa Zelandia"
+      },
+      {
+        "first": "ua",
+        "second": "Нова Зеландія"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "NI",
+    "flag": "🇳🇮",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Nicaragua",
+    "prefix": "+505",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Nicaragua"
+      },
+      {
+        "first": "pl",
+        "second": "Nikaragua"
+      },
+      {
+        "first": "ua",
+        "second": "Нікарагуа"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "NE",
+    "flag": "🇳🇪",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Niger",
+    "prefix": "+227",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Niger"
+      },
+      {
+        "first": "pl",
+        "second": "Niger"
+      },
+      {
+        "first": "ua",
+        "second": "Нігер"
+      }
+    ],
+    "visualFormatter": "## ## ## ##"
+  },
+  {
+    "countryCode": "NG",
+    "flag": "🇳🇬",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Nigeria",
+    "prefix": "+234",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Nigeria"
+      },
+      {
+        "first": "pl",
+        "second": "Nigeria"
+      },
+      {
+        "first": "ua",
+        "second": "Нігерія"
+      }
+    ],
+    "visualFormatter": "## #### ####"
+  },
+  {
+    "countryCode": "NO",
+    "flag": "🇳🇴",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Norway",
+    "prefix": "+47",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Norway"
+      },
+      {
+        "first": "pl",
+        "second": "Norwegia"
+      },
+      {
+        "first": "ua",
+        "second": "Норвегія"
+      }
+    ],
+    "visualFormatter": "### ## ###"
+  },
+  {
+    "countryCode": "OM",
+    "flag": "🇴🇲",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Oman",
+    "prefix": "+968",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Oman"
+      },
+      {
+        "first": "pl",
+        "second": "Oman"
+      },
+      {
+        "first": "ua",
+        "second": "Оман"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "PK",
+    "flag": "🇵🇰",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Pakistan",
+    "prefix": "+92",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Pakistan"
+      },
+      {
+        "first": "pl",
+        "second": "Pakistan"
+      },
+      {
+        "first": "ua",
+        "second": "Пакистан"
+      }
+    ],
+    "visualFormatter": "### ### ####"
+  },
+  {
+    "countryCode": "PW",
+    "flag": "🇵🇼",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Palau",
+    "prefix": "+680",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Palau"
+      },
+      {
+        "first": "pl",
+        "second": "Palau"
+      },
+      {
+        "first": "ua",
+        "second": "Палау"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "PS",
+    "flag": "🇵🇸",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Palestine",
+    "prefix": "+970",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Palestine"
+      },
+      {
+        "first": "pl",
+        "second": "Palestyna"
+      },
+      {
+        "first": "ua",
+        "second": "Палестина"
+      }
+    ],
+    "visualFormatter": "### ## ####"
+  },
+  {
+    "countryCode": "PA",
+    "flag": "🇵🇦",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Panama",
+    "prefix": "+507",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Panama"
+      },
+      {
+        "first": "pl",
+        "second": "Panama"
+      },
+      {
+        "first": "ua",
+        "second": "Панама"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "PG",
+    "flag": "🇵🇬",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Papua New Guinea",
+    "prefix": "+675",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Papua New Guinea"
+      },
+      {
+        "first": "pl",
+        "second": "Papua-Nowa Gwinea"
+      },
+      {
+        "first": "ua",
+        "second": "Папуа-Нова Гвінея"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "PY",
+    "flag": "🇵🇾",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Paraguay",
+    "prefix": "+595",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Paraguay"
+      },
+      {
+        "first": "pl",
+        "second": "Paragwaj"
+      },
+      {
+        "first": "ua",
+        "second": "Парагвай"
+      }
+    ],
+    "visualFormatter": "### ### ###"
+  },
+  {
+    "countryCode": "PE",
+    "flag": "🇵🇪",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Peru",
+    "prefix": "+51",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Peru"
+      },
+      {
+        "first": "pl",
+        "second": "Peru"
+      },
+      {
+        "first": "ua",
+        "second": "Перу"
+      }
+    ],
+    "visualFormatter": "### ### ###"
+  },
+  {
+    "countryCode": "PH",
+    "flag": "🇵🇭",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Philippines",
+    "prefix": "+63",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Philippines"
+      },
+      {
+        "first": "pl",
+        "second": "Filipiny"
+      },
+      {
+        "first": "ua",
+        "second": "Філіппіни"
+      }
+    ],
+    "visualFormatter": "### ### ####"
+  },
+  {
+    "countryCode": "PL",
+    "flag": "🇵🇱",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Poland",
+    "prefix": "+48",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Poland"
+      },
+      {
+        "first": "pl",
+        "second": "Polska"
+      },
+      {
+        "first": "ua",
+        "second": "Польща"
+      }
+    ],
+    "visualFormatter": "### ### ###"
+  },
+  {
+    "countryCode": "PT",
+    "flag": "🇵🇹",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Portugal",
+    "prefix": "+351",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Portugal"
+      },
+      {
+        "first": "pl",
+        "second": "Portugalia"
+      },
+      {
+        "first": "ua",
+        "second": "Португалія"
+      }
+    ],
+    "visualFormatter": "### ### ###"
+  },
+  {
+    "countryCode": "PR",
+    "flag": "🇵🇷",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Puerto Rico",
+    "prefix": "+1939",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Puerto Rico"
+      },
+      {
+        "first": "pl",
+        "second": "Portoryko"
+      },
+      {
+        "first": "ua",
+        "second": "Пуерто-Рико"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "QA",
+    "flag": "🇶🇦",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Qatar",
+    "prefix": "+974",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Qatar"
+      },
+      {
+        "first": "pl",
+        "second": "Katar"
+      },
+      {
+        "first": "ua",
+        "second": "Катар"
+      }
+    ],
+    "visualFormatter": "## ### ###"
+  },
+  {
+    "countryCode": "RO",
+    "flag": "🇷🇴",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Romania",
+    "prefix": "+40",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Romania"
+      },
+      {
+        "first": "pl",
+        "second": "Rumunia"
+      },
+      {
+        "first": "ua",
+        "second": "Румунія"
+      }
+    ],
+    "visualFormatter": "### ### ###"
+  },
+  {
+    "countryCode": "RU",
+    "flag": "🇷🇺",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Russia",
+    "prefix": "+7",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Russia"
+      },
+      {
+        "first": "pl",
+        "second": "Rosja"
+      },
+      {
+        "first": "ua",
+        "second": "Росія"
+      }
+    ],
+    "visualFormatter": "### ### ####"
+  },
+  {
+    "countryCode": "RW",
+    "flag": "🇷🇼",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Rwanda",
+    "prefix": "+250",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Rwanda"
+      },
+      {
+        "first": "pl",
+        "second": "Rwanda"
+      },
+      {
+        "first": "ua",
+        "second": "Руанда"
+      }
+    ],
+    "visualFormatter": "### ### ###"
+  },
+  {
+    "countryCode": "KN",
+    "flag": "🇰🇳",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Saint Kitts & Nevis",
+    "prefix": "+1869",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Saint Kitts and Nevis"
+      },
+      {
+        "first": "pl",
+        "second": "Saint Kitts i Nevis"
+      },
+      {
+        "first": "ua",
+        "second": "Сент-Кітс і Невіс"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "LC",
+    "flag": "🇱🇨",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Saint Lucia",
+    "prefix": "+1758",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Saint Lucia"
+      },
+      {
+        "first": "pl",
+        "second": "Saint Lucia"
+      },
+      {
+        "first": "ua",
+        "second": "Сент-Люсія"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "VC",
+    "flag": "🇻🇨",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Saint Vincent & the Grenadines",
+    "prefix": "+1784",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Saint Vincent and the Grenadines"
+      },
+      {
+        "first": "pl",
+        "second": "Saint Vincent i Grenadyny"
+      },
+      {
+        "first": "ua",
+        "second": "Сент-Вінсент і Гренадини"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "WS",
+    "flag": "🇼🇸",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Samoa",
+    "prefix": "+685",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Samoa"
+      },
+      {
+        "first": "pl",
+        "second": "Samoa"
+      },
+      {
+        "first": "ua",
+        "second": "Самоа"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "SM",
+    "flag": "🇸🇲",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "San Marino",
+    "prefix": "+378",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "San Marino"
+      },
+      {
+        "first": "pl",
+        "second": "San Marino"
+      },
+      {
+        "first": "ua",
+        "second": "Сан-Марино"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "ST",
+    "flag": "🇸🇹",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Sao Tome & Principe",
+    "prefix": "+239",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Sao Tome and Principe"
+      },
+      {
+        "first": "pl",
+        "second": "Wyspy Świętego Tomasza i Książęca"
+      },
+      {
+        "first": "ua",
+        "second": "Сент-Томе і Принсіпі"
+      }
+    ],
+    "visualFormatter": "## #####"
+  },
+  {
+    "countryCode": "SA",
+    "flag": "🇸🇦",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Saudi Arabia",
+    "prefix": "+966",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Saudi Arabia"
+      },
+      {
+        "first": "pl",
+        "second": "Arabia Saudyjska"
+      },
+      {
+        "first": "ua",
+        "second": "Саудівська Аравія"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "SN",
+    "flag": "🇸🇳",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Senegal",
+    "prefix": "+221",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Senegal"
+      },
+      {
+        "first": "pl",
+        "second": "Senegal"
+      },
+      {
+        "first": "ua",
+        "second": "Сенегал"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "RS",
+    "flag": "🇷🇸",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Serbia",
+    "prefix": "+381",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Serbia"
+      },
+      {
+        "first": "pl",
+        "second": "Serbia"
+      },
+      {
+        "first": "ua",
+        "second": "Сербія"
+      }
+    ],
+    "visualFormatter": "## ### ###"
+  },
+  {
+    "countryCode": "SC",
+    "flag": "🇸🇨",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Seychelles",
+    "prefix": "+248",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Seychelles"
+      },
+      {
+        "first": "pl",
+        "second": "Seszele"
+      },
+      {
+        "first": "ua",
+        "second": "Сейшельські Острови"
+      }
+    ],
+    "visualFormatter": "# ## ## ##"
+  },
+  {
+    "countryCode": "SL",
+    "flag": "🇸🇱",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Sierra Leone",
+    "prefix": "+232",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Sierra Leone"
+      },
+      {
+        "first": "pl",
+        "second": "Sierra Leone"
+      },
+      {
+        "first": "ua",
+        "second": "Сьєрра-Леоне"
+      }
+    ],
+    "visualFormatter": "## ### ###"
+  },
+  {
+    "countryCode": "SG",
+    "flag": "🇸🇬",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Singapore",
+    "prefix": "+65",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Singapore"
+      },
+      {
+        "first": "pl",
+        "second": "Singapur"
+      },
+      {
+        "first": "ua",
+        "second": "Сінгапур"
+      }
+    ],
+    "visualFormatter": "#### ####"
+  },
+  {
+    "countryCode": "SK",
+    "flag": "🇸🇰",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Slovakia",
+    "prefix": "+421",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Slovakia"
+      },
+      {
+        "first": "pl",
+        "second": "Słowacja"
+      },
+      {
+        "first": "ua",
+        "second": "Словаччина"
+      }
+    ],
+    "visualFormatter": "### ### ###"
+  },
+  {
+    "countryCode": "SI",
+    "flag": "🇸🇮",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Slovenia",
+    "prefix": "+386",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Slovenia"
+      },
+      {
+        "first": "pl",
+        "second": "Słowenia"
+      },
+      {
+        "first": "ua",
+        "second": "Словенія"
+      }
+    ],
+    "visualFormatter": "## ### ###"
+  },
+  {
+    "countryCode": "SB",
+    "flag": "🇸🇧",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Solomon Islands",
+    "prefix": "+677",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Solomon Islands"
+      },
+      {
+        "first": "pl",
+        "second": "Wyspy Salomona"
+      },
+      {
+        "first": "ua",
+        "second": "Соломонові Острови"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "SO",
+    "flag": "🇸🇴",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Somalia",
+    "prefix": "+252",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Somalia"
+      },
+      {
+        "first": "pl",
+        "second": "Somalia"
+      },
+      {
+        "first": "ua",
+        "second": "Сомалі"
+      }
+    ],
+    "visualFormatter": "## ### ###"
+  },
+  {
+    "countryCode": "ZA",
+    "flag": "🇿🇦",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "South Africa",
+    "prefix": "+27",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "South Africa"
+      },
+      {
+        "first": "pl",
+        "second": "Południowa Afryka"
+      },
+      {
+        "first": "ua",
+        "second": "Південноафриканська Республіка"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "SS",
+    "flag": "🇸🇸",
+    "maxPhoneLength": 17,
+    "minPhoneLength": 17,
+    "name": "South Sudan",
+    "prefix": "+211",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "South Sudan"
+      },
+      {
+        "first": "pl",
+        "second": "Sudan Południowy"
+      },
+      {
+        "first": "ua",
+        "second": "Південний Судан"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Spain",
+    "prefix": "+34",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Spain"
+      },
+      {
+        "first": "pl",
+        "second": "Hiszpania"
+      },
+      {
+        "first": "ua",
+        "second": "Іспанія"
+      }
+    ],
+    "visualFormatter": "### ### ###"
+  },
+  {
+    "countryCode": "LK",
+    "flag": "🇱🇰",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Sri Lanka",
+    "prefix": "+94",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Sri Lanka"
+      },
+      {
+        "first": "pl",
+        "second": "Sri Lanka"
+      },
+      {
+        "first": "ua",
+        "second": "Шрі-Ланка"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "SD",
+    "flag": "🇸🇩",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Sudan",
+    "prefix": "+249",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Sudan"
+      },
+      {
+        "first": "pl",
+        "second": "Sudan"
+      },
+      {
+        "first": "ua",
+        "second": "Судан"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "SR",
+    "flag": "🇸🇷",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Suriname",
+    "prefix": "+597",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Suriname"
+      },
+      {
+        "first": "pl",
+        "second": "Surinam"
+      },
+      {
+        "first": "ua",
+        "second": "Суринам"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "SE",
+    "flag": "🇸🇪",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Sweden",
+    "prefix": "+46",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Sweden"
+      },
+      {
+        "first": "pl",
+        "second": "Szwecja"
+      },
+      {
+        "first": "ua",
+        "second": "Швеція"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "CH",
+    "flag": "🇨🇭",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Switzerland",
+    "prefix": "+41",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Switzerland"
+      },
+      {
+        "first": "pl",
+        "second": "Szwajcaria"
+      },
+      {
+        "first": "ua",
+        "second": "Швейцарія"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "SY",
+    "flag": "🇸🇾",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Syria",
+    "prefix": "+963",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Syria"
+      },
+      {
+        "first": "pl",
+        "second": "Syria"
+      },
+      {
+        "first": "ua",
+        "second": "Сирія"
+      }
+    ],
+    "visualFormatter": "### ### ###"
+  },
+  {
+    "countryCode": "TW",
+    "flag": "🇹🇼",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Taiwan",
+    "prefix": "+886",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Taiwan"
+      },
+      {
+        "first": "pl",
+        "second": "Tajwan"
+      },
+      {
+        "first": "ua",
+        "second": "Тайвань"
+      }
+    ],
+    "visualFormatter": "### ### ###"
+  },
+  {
+    "countryCode": "TJ",
+    "flag": "🇹🇯",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Tajikistan",
+    "prefix": "+992",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Tajikistan"
+      },
+      {
+        "first": "pl",
+        "second": "Tadżykistan"
+      },
+      {
+        "first": "ua",
+        "second": "Таджикистан"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "TZ",
+    "flag": "🇹🇿",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Tanzania",
+    "prefix": "+255",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Tanzania"
+      },
+      {
+        "first": "pl",
+        "second": "Tanzania"
+      },
+      {
+        "first": "ua",
+        "second": "Танзанія"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "TH",
+    "flag": "🇹🇭",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Thailand",
+    "prefix": "+66",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Thailand"
+      },
+      {
+        "first": "pl",
+        "second": "Tajlandia"
+      },
+      {
+        "first": "ua",
+        "second": "Таїланд"
+      }
+    ],
+    "visualFormatter": "# #### ####"
+  },
+  {
+    "countryCode": "TL",
+    "flag": "🇹🇱",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Timor-Leste",
+    "prefix": "+670",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Timor-Leste"
+      },
+      {
+        "first": "pl",
+        "second": "Timor-Leste"
+      },
+      {
+        "first": "ua",
+        "second": "Тімор-Лешті"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "TG",
+    "flag": "🇹🇬",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Togo",
+    "prefix": "+228",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Togo"
+      },
+      {
+        "first": "pl",
+        "second": "Togo"
+      },
+      {
+        "first": "ua",
+        "second": "Того"
+      }
+    ],
+    "visualFormatter": "## ### ###"
+  },
+  {
+    "countryCode": "TO",
+    "flag": "🇹🇴",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Tonga",
+    "prefix": "+676",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Tonga"
+      },
+      {
+        "first": "pl",
+        "second": "Tonga"
+      },
+      {
+        "first": "ua",
+        "second": "Тонга"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "TT",
+    "flag": "🇹🇹",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Trinidad & Tobago",
+    "prefix": "+1868",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Trinidad and Tobago"
+      },
+      {
+        "first": "pl",
+        "second": "Trynidad i Tobago"
+      },
+      {
+        "first": "ua",
+        "second": "Тринідад і Тобаго"
+      }
+    ],
+    "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "TN",
+    "flag": "🇹🇳",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Tunisia",
+    "prefix": "+216",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Tunisia"
+      },
+      {
+        "first": "pl",
+        "second": "Tunezja"
+      },
+      {
+        "first": "ua",
+        "second": "Туніс"
+      }
+    ],
+    "visualFormatter": "## ### ###"
+  },
+  {
+    "countryCode": "TR",
+    "flag": "🇹🇷",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Turkey",
+    "prefix": "+90",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Turkey"
+      },
+      {
+        "first": "pl",
+        "second": "Turcja"
+      },
+      {
+        "first": "ua",
+        "second": "Туреччина"
+      }
+    ],
+    "visualFormatter": "### ### ####"
+  },
+  {
+    "countryCode": "TM",
+    "flag": "🇹🇲",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Turkmenistan",
+    "prefix": "+993",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Turkmenistan"
+      },
+      {
+        "first": "pl",
+        "second": "Turkmenistan"
+      },
+      {
+        "first": "ua",
+        "second": "Туркменістан"
+      }
+    ],
+    "visualFormatter": "## ######"
+  },
+  {
+    "countryCode": "TV",
+    "flag": "🇹🇻",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Tuvalu",
+    "prefix": "+688",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Tuvalu"
+      },
+      {
+        "first": "pl",
+        "second": "Tuvalu"
+      },
+      {
+        "first": "ua",
+        "second": "Тувалу"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "UG",
+    "flag": "🇺🇬",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Uganda",
+    "prefix": "+256",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Uganda"
+      },
+      {
+        "first": "pl",
+        "second": "Uganda"
+      },
+      {
+        "first": "ua",
+        "second": "Уганда"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "UA",
+    "flag": "🇺🇦",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Ukraine",
+    "prefix": "+380",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Ukraine"
+      },
+      {
+        "first": "pl",
+        "second": "Ukraina"
+      },
+      {
+        "first": "ua",
+        "second": "Україна"
+      }
+    ],
+    "visualFormatter": "## ### ## ##"
+  },
+  {
+    "countryCode": "AE",
+    "flag": "🇦🇪",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "United Arab Emirates",
+    "prefix": "+971",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "United Arab Emirates"
+      },
+      {
+        "first": "pl",
+        "second": "Zjednoczone Emiraty Arabskie"
+      },
+      {
+        "first": "ua",
+        "second": "Об'єднані Арабські Емірати"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "GB",
+    "flag": "🇬🇧",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "United Kingdom",
+    "prefix": "+44",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "United Kingdom"
+      },
+      {
+        "first": "pl",
+        "second": "Wielka Brytania"
+      },
+      {
+        "first": "ua",
+        "second": "Великобританія"
+      }
+    ],
+    "visualFormatter": "#### ######"
+  },
+  {
+    "countryCode": "US",
+    "flag": "🇺🇸",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "USA",
+    "prefix": "+1",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "United States"
+      },
+      {
+        "first": "pl",
+        "second": "Stany Zjednoczone"
+      },
+      {
+        "first": "ua",
+        "second": "Сполучені Штати"
+      }
+    ],
+    "visualFormatter": "### ### ####"
+  },
+  {
+    "countryCode": "UY",
+    "flag": "🇺🇾",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Uruguay",
+    "prefix": "+598",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Uruguay"
+      },
+      {
+        "first": "pl",
+        "second": "Urugwaj"
+      },
+      {
+        "first": "ua",
+        "second": "Уругвай"
+      }
+    ],
+    "visualFormatter": "# ### ####"
+  },
+  {
+    "countryCode": "UZ",
+    "flag": "🇺🇿",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Uzbekistan",
+    "prefix": "+998",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Uzbekistan"
+      },
+      {
+        "first": "pl",
+        "second": "Uzbekistan"
+      },
+      {
+        "first": "ua",
+        "second": "Узбекистан"
+      }
+    ],
+    "visualFormatter": "## ### ## ##"
+  },
+  {
+    "countryCode": "VU",
+    "flag": "🇻🇺",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Vanuatu",
+    "prefix": "+678",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Vanuatu"
+      },
+      {
+        "first": "pl",
+        "second": "Vanuatu"
+      },
+      {
+        "first": "ua",
+        "second": "Вануату"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "VE",
+    "flag": "🇻🇪",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Venezuela",
+    "prefix": "+58",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Venezuela"
+      },
+      {
+        "first": "pl",
+        "second": "Wenezuela"
+      },
+      {
+        "first": "ua",
+        "second": "Венесуела"
+      }
+    ],
+    "visualFormatter": "### ### ####"
+  },
+  {
+    "countryCode": "VN",
+    "flag": "🇻🇳",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Vietnam",
+    "prefix": "+84",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Vietnam"
+      },
+      {
+        "first": "pl",
+        "second": "Wietnam"
+      },
+      {
+        "first": "ua",
+        "second": "В'єтнам"
+      }
+    ],
+    "visualFormatter": "#"
+  },
+  {
+    "countryCode": "YE",
+    "flag": "🇾🇪",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Yemen",
+    "prefix": "+967",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Yemen"
+      },
+      {
+        "first": "pl",
+        "second": "Jemen"
+      },
+      {
+        "first": "ua",
+        "second": "Ємен"
+      }
+    ],
+    "visualFormatter": "### ### ###"
+  },
+  {
+    "countryCode": "ZM",
+    "flag": "🇿🇲",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Zambia",
+    "prefix": "+260",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Zambia"
+      },
+      {
+        "first": "pl",
+        "second": "Zambia"
+      },
+      {
+        "first": "ua",
+        "second": "Замбія"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "ZW",
+    "flag": "🇿🇼",
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
+    "name": "Zimbabwe",
+    "prefix": "+263",
+    "translatedNames": [
+      {
+        "first": "en",
+        "second": "Zimbabwe"
+      },
+      {
+        "first": "pl",
+        "second": "Zimbabwe"
+      },
+      {
+        "first": "ua",
+        "second": "Зімбабве"
+      }
+    ],
+    "visualFormatter": "## ### ####"
+  }
+]
