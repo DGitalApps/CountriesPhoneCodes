@@ -10,12 +10,13 @@ data class CountryCallingData(
     val maxPhoneLength: Int,
     val flagEmoji: String,
     @DrawableRes val flag: Int,
-    val translatedNames: List<Pair<String, String>>,
+    val visualFormatter: String,
+    val translatedNames: Map<String, String>,
 ) {
     fun getNameInProperLanguage(countryCode: String): String {
-        if (translatedNames.isEmpty() || !translatedNames.map { it.first }.contains(countryCode)) {
+        if (translatedNames.isEmpty() || !translatedNames.keys.map { it.lowercase() }.contains(countryCode.lowercase())) {
             return name
         }
-        return translatedNames.first { it.first == countryCode }.second.takeIf { it.isNotEmpty() }?:name
+        return translatedNames[countryCode.lowercase()]?:name
     }
 }

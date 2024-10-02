@@ -52,10 +52,11 @@ class ExampleUnitTest {
             minPhoneLength = 10,
             maxPhoneLength = 10,
             countryCode = "XX",
-            translatedNames = listOf(
-                Pair("en", "Fake Country"),
-                Pair("pl", "Udawane Państwo"),
-                Pair("ua", "")
+            visualFormatter = "",
+            translatedNames = mapOf(
+                "en" to "Fake Country",
+                "pl" to "Udawane Państwo",
+                "ua" to  ""
             )
         )
         val fakeCountryEmptyTranslation = CountryCallingData(
@@ -66,7 +67,8 @@ class ExampleUnitTest {
             minPhoneLength = 10,
             maxPhoneLength = 10,
             countryCode = "XX",
-            translatedNames = listOf()
+            visualFormatter = "",
+            translatedNames = mapOf()
         )
 
         assertEquals("Fake Country", fakeCountry.getNameInProperLanguage("en"))
@@ -75,7 +77,13 @@ class ExampleUnitTest {
         assertEquals("Fake Country empty", fakeCountryEmptyTranslation.getNameInProperLanguage("en"))
     }
     @Test
-    fun `Check if list return correct country name if city is missing tranlation`() {
-        val list = CountryCallingUtil.getAllPhones().apply {  }
+    fun `Check translation via CountriesTranslation`() {
+        val countriesPL = CountryCallingUtil.getTranslated(CountriesTranslations.PL.countryCode)
+        val countriesEN = CountryCallingUtil.getTranslated(CountriesTranslations.EN.countryCode)
+        val countriesFR = CountryCallingUtil.getTranslated(CountriesTranslations.FR.countryCode)
+
+        assertEquals("Polska", countriesPL.find { it.countryCode ==  CountriesTranslations.PL.countryCode.uppercase()}?.name)
+        assertEquals("Poland", countriesEN.find { it.countryCode ==  CountriesTranslations.PL.countryCode.uppercase()}?.name)
+        assertEquals("Pologne", countriesFR.find { it.countryCode ==  CountriesTranslations.PL.countryCode.uppercase()}?.name)
     }
 }

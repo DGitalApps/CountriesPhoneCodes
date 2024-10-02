@@ -6,44 +6,26 @@
     "minPhoneLength": 9,
     "name": "Afghanistan",
     "prefix": "+93",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Afghanistan"
-      },
-      {
-        "first": "pl",
-        "second": "Afganistan"
-      },
-      {
-        "first": "ua",
-        "second": "Афганістан"
-      }
-    ],
-    "visualFormatter": "### ### ###"
+    "translatedNames": {
+      "en": "Afghanistan",
+      "pl": "Afganistan",
+      "ua": "Афганістан"
+    },
+    "visualFormatter": "## ### ####"
   },
   {
     "countryCode": "AL",
     "flag": "🇦🇱",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
     "name": "Albania",
     "prefix": "+355",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Albania"
-      },
-      {
-        "first": "pl",
-        "second": "Albania"
-      },
-      {
-        "first": "ua",
-        "second": "Албанія"
-      }
-    ],
-    "visualFormatter": "## ### ####"
+    "translatedNames": {
+      "en": "Albania",
+      "pl": "Albania",
+      "ua": "Албанія"
+    },
+    "visualFormatter": "### ### ###"
   },
   {
     "countryCode": "DZ",
@@ -52,43 +34,25 @@
     "minPhoneLength": 9,
     "name": "Algeria",
     "prefix": "+213",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Algeria"
-      },
-      {
-        "first": "pl",
-        "second": "Algieria"
-      },
-      {
-        "first": "ua",
-        "second": "Алжир"
-      }
-    ],
-    "visualFormatter": "### ## ## ##"
+    "translatedNames": {
+      "en": "Algeria",
+      "pl": "Algieria",
+      "ua": "Алжир"
+    },
+    "visualFormatter": "## ### ####"
   },
   {
     "countryCode": "AS",
     "flag": "🇦🇸",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
     "name": "American Samoa",
     "prefix": "+1684",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "American Samoa"
-      },
-      {
-        "first": "pl",
-        "second": "Samoa Amerykańskie"
-      },
-      {
-        "first": "ua",
-        "second": "Американське Самоа"
-      }
-    ],
+    "translatedNames": {
+      "en": "American Samoa",
+      "pl": "Samoa Amerykańskie",
+      "ua": "Американське Самоа"
+    },
     "visualFormatter": "### ####"
   },
   {
@@ -98,21 +62,12 @@
     "minPhoneLength": 6,
     "name": "Andorra",
     "prefix": "+376",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Andorra"
-      },
-      {
-        "first": "pl",
-        "second": "Andora"
-      },
-      {
-        "first": "ua",
-        "second": "Андорра"
-      }
-    ],
-    "visualFormatter": "## ## ##"
+    "translatedNames": {
+      "en": "Andorra",
+      "pl": "Andora",
+      "ua": "Андорра"
+    },
+    "visualFormatter": "### ###"
   },
   {
     "countryCode": "AO",
@@ -121,112 +76,67 @@
     "minPhoneLength": 9,
     "name": "Angola",
     "prefix": "+244",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Angola"
-      },
-      {
-        "first": "pl",
-        "second": "Angola"
-      },
-      {
-        "first": "ua",
-        "second": "Ангола"
-      }
-    ],
+    "translatedNames": {
+      "en": "Angola",
+      "pl": "Angola",
+      "ua": "Ангола"
+    },
     "visualFormatter": "### ### ###"
   },
   {
     "countryCode": "AI",
     "flag": "🇦🇮",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
     "name": "Anguilla",
     "prefix": "+1264",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Anguilla"
-      },
-      {
-        "first": "pl",
-        "second": "Anguilla"
-      },
-      {
-        "first": "ua",
-        "second": "Ангілья "
-      }
-    ],
+    "translatedNames": {
+      "en": "Anguilla",
+      "pl": "Anguilla",
+      "ua": "Ангілья "
+    },
     "visualFormatter": "### ####"
   },
   {
     "countryCode": "AG",
     "flag": "🇦🇬",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
-    "name": "Antigua & Barbuda",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Antigua and Barbuda",
     "prefix": "+1268",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Antigua and Barbuda"
-      },
-      {
-        "first": "pl",
-        "second": "Antigua i Barbuda"
-      },
-      {
-        "first": "ua",
-        "second": "Антигуа і Барбуда"
-      }
-    ],
+    "translatedNames": {
+      "en": "Antigua and Barbuda",
+      "pl": "Antigua i Barbuda",
+      "ua": "Антигуа і Барбуда"
+    },
     "visualFormatter": "### ####"
   },
   {
     "countryCode": "AR",
     "flag": "🇦🇷",
-    "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "maxPhoneLength": 8,
+    "minPhoneLength": 6,
     "name": "Argentina",
     "prefix": "+54",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Argentina"
-      },
-      {
-        "first": "pl",
-        "second": "Argentyna"
-      },
-      {
-        "first": "ua",
-        "second": "Аргентина"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Argentina",
+      "pl": "Argentyna",
+      "ua": "Аргентина"
+    },
+    "visualFormatter": "### ### ####"
   },
   {
     "countryCode": "AM",
     "flag": "🇦🇲",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 6,
+    "minPhoneLength": 6,
     "name": "Armenia",
     "prefix": "+374",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Armenia"
-      },
-      {
-        "first": "pl",
-        "second": "Armenia"
-      },
-      {
-        "first": "ua",
-        "second": "Вірменія"
-      }
-    ],
+    "translatedNames": {
+      "en": "Armenia",
+      "pl": "Armenia",
+      "ua": "Вірменія"
+    },
     "visualFormatter": "## ### ###"
   },
   {
@@ -236,20 +146,11 @@
     "minPhoneLength": 7,
     "name": "Aruba",
     "prefix": "+297",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Aruba"
-      },
-      {
-        "first": "pl",
-        "second": "Aruba"
-      },
-      {
-        "first": "ua",
-        "second": "Аруба"
-      }
-    ],
+    "translatedNames": {
+      "en": "Aruba",
+      "pl": "Aruba",
+      "ua": "Аруба"
+    },
     "visualFormatter": "### ####"
   },
   {
@@ -259,44 +160,26 @@
     "minPhoneLength": 9,
     "name": "Australia",
     "prefix": "+61",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Australia"
-      },
-      {
-        "first": "pl",
-        "second": "Australia"
-      },
-      {
-        "first": "ua",
-        "second": "Австралія"
-      }
-    ],
+    "translatedNames": {
+      "en": "Australia",
+      "pl": "Australia",
+      "ua": "Австралія"
+    },
     "visualFormatter": "# #### ####"
   },
   {
     "countryCode": "AT",
     "flag": "🇦🇹",
-    "maxPhoneLength": 10,
+    "maxPhoneLength": 11,
     "minPhoneLength": 10,
     "name": "Austria",
     "prefix": "+43",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Austria"
-      },
-      {
-        "first": "pl",
-        "second": "Austria"
-      },
-      {
-        "first": "ua",
-        "second": "Австрія"
-      }
-    ],
-    "visualFormatter": "### ######"
+    "translatedNames": {
+      "en": "Austria",
+      "pl": "Austria",
+      "ua": "Австрія"
+    },
+    "visualFormatter": "### ### ####"
   },
   {
     "countryCode": "AZ",
@@ -305,44 +188,12 @@
     "minPhoneLength": 9,
     "name": "Azerbaijan",
     "prefix": "+994",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Azerbaijan"
-      },
-      {
-        "first": "pl",
-        "second": "Azerbejdżan"
-      },
-      {
-        "first": "ua",
-        "second": "Азербайджан"
-      }
-    ],
-    "visualFormatter": "## ### ####"
-  },
-  {
-    "countryCode": "BS",
-    "flag": "🇧🇸",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
-    "name": "Bahamas",
-    "prefix": "+1242",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Bahamas"
-      },
-      {
-        "first": "pl",
-        "second": "Bahamy"
-      },
-      {
-        "first": "ua",
-        "second": "Багамські Острови"
-      }
-    ],
-    "visualFormatter": "### ####"
+    "translatedNames": {
+      "en": "Azerbaijan",
+      "pl": "Azerbejdżan",
+      "ua": "Азербайджан"
+    },
+    "visualFormatter": "## ### ## ##"
   },
   {
     "countryCode": "BH",
@@ -351,20 +202,11 @@
     "minPhoneLength": 8,
     "name": "Bahrain",
     "prefix": "+973",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Bahrain"
-      },
-      {
-        "first": "pl",
-        "second": "Bahrajn"
-      },
-      {
-        "first": "ua",
-        "second": "Бахрейн"
-      }
-    ],
+    "translatedNames": {
+      "en": "Bahrain",
+      "pl": "Bahrajn",
+      "ua": "Бахрейн"
+    },
     "visualFormatter": "#### ####"
   },
   {
@@ -374,43 +216,25 @@
     "minPhoneLength": 10,
     "name": "Bangladesh",
     "prefix": "+880",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Bangladesh"
-      },
-      {
-        "first": "pl",
-        "second": "Bangladesz"
-      },
-      {
-        "first": "ua",
-        "second": "Бангладеш"
-      }
-    ],
+    "translatedNames": {
+      "en": "Bangladesh",
+      "pl": "Bangladesz",
+      "ua": "Бангладеш"
+    },
     "visualFormatter": "## ### ###"
   },
   {
     "countryCode": "BB",
     "flag": "🇧🇧",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
     "name": "Barbados",
     "prefix": "+1246",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Barbados"
-      },
-      {
-        "first": "pl",
-        "second": "Barbados"
-      },
-      {
-        "first": "ua",
-        "second": "Барбадос"
-      }
-    ],
+    "translatedNames": {
+      "en": "Barbados",
+      "pl": "Barbados",
+      "ua": "Барбадос"
+    },
     "visualFormatter": "### ####"
   },
   {
@@ -420,44 +244,26 @@
     "minPhoneLength": 9,
     "name": "Belarus",
     "prefix": "+375",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Belarus"
-      },
-      {
-        "first": "pl",
-        "second": "Białoruś"
-      },
-      {
-        "first": "ua",
-        "second": "Білорусь"
-      }
-    ],
-    "visualFormatter": "## ### ####"
+    "translatedNames": {
+      "en": "Belarus",
+      "pl": "Białoruś",
+      "ua": "Білорусь"
+    },
+    "visualFormatter": "## ### ## ##"
   },
   {
     "countryCode": "BE",
     "flag": "🇧🇪",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
     "name": "Belgium",
     "prefix": "+32",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Belgium"
-      },
-      {
-        "first": "pl",
-        "second": "Belgia"
-      },
-      {
-        "first": "ua",
-        "second": "Бельгія"
-      }
-    ],
-    "visualFormatter": "### ## ## ##"
+    "translatedNames": {
+      "en": "Belgium",
+      "pl": "Belgia",
+      "ua": "Бельгія"
+    },
+    "visualFormatter": "### ### ###"
   },
   {
     "countryCode": "BZ",
@@ -466,21 +272,12 @@
     "minPhoneLength": 7,
     "name": "Belize",
     "prefix": "+501",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Belize"
-      },
-      {
-        "first": "pl",
-        "second": "Belize"
-      },
-      {
-        "first": "ua",
-        "second": "Беліз"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Belize",
+      "pl": "Belize",
+      "ua": "Беліз"
+    },
+    "visualFormatter": "### ####"
   },
   {
     "countryCode": "BJ",
@@ -489,89 +286,53 @@
     "minPhoneLength": 8,
     "name": "Benin",
     "prefix": "+229",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Benin"
-      },
-      {
-        "first": "pl",
-        "second": "Benin"
-      },
-      {
-        "first": "ua",
-        "second": "Бенін"
-      }
-    ],
-    "visualFormatter": "## ### ###"
+    "translatedNames": {
+      "en": "Benin",
+      "pl": "Benin",
+      "ua": "Бенін"
+    },
+    "visualFormatter": "## ## ####"
   },
   {
     "countryCode": "BM",
     "flag": "🇧🇲",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
     "name": "Bermuda",
     "prefix": "+1441",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Bermuda"
-      },
-      {
-        "first": "pl",
-        "second": "Bermudy"
-      },
-      {
-        "first": "ua",
-        "second": "Бермуди"
-      }
-    ],
+    "translatedNames": {
+      "en": "Bermuda",
+      "pl": "Bermudy",
+      "ua": "Бермуди"
+    },
     "visualFormatter": "### ####"
   },
   {
     "countryCode": "BT",
     "flag": "🇧🇹",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
     "name": "Bhutan",
     "prefix": "+975",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Bhutan"
-      },
-      {
-        "first": "pl",
-        "second": "Bhutan"
-      },
-      {
-        "first": "ua",
-        "second": "Бутан"
-      }
-    ],
-    "visualFormatter": "## ### ###"
+    "translatedNames": {
+      "en": "Bhutan",
+      "pl": "Bhutan",
+      "ua": "Бутан"
+    },
+    "visualFormatter": "# ### ###"
   },
   {
     "countryCode": "BO",
     "flag": "🇧🇴",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
     "name": "Bolivia",
     "prefix": "+591",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Bolivia"
-      },
-      {
-        "first": "pl",
-        "second": "Boliwia"
-      },
-      {
-        "first": "ua",
-        "second": "Болівія"
-      }
-    ],
+    "translatedNames": {
+      "en": "Bolivia",
+      "pl": "Boliwia",
+      "ua": "Болівія"
+    },
     "visualFormatter": "# ### ####"
   },
   {
@@ -579,23 +340,14 @@
     "flag": "🇧🇦",
     "maxPhoneLength": 8,
     "minPhoneLength": 8,
-    "name": "Bosnia & Herzegovina",
+    "name": "Bosnia and Herzegovina",
     "prefix": "+387",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Bosnia and Herzegovina"
-      },
-      {
-        "first": "pl",
-        "second": "Bośnia i Hercegowina"
-      },
-      {
-        "first": "ua",
-        "second": "Боснія і Герцеговина"
-      }
-    ],
-    "visualFormatter": "## ### ###"
+    "translatedNames": {
+      "en": "Bosnia and Herzegovina",
+      "pl": "Bośnia i Hercegowina",
+      "ua": "Боснія і Герцеговина"
+    },
+    "visualFormatter": "## ####"
   },
   {
     "countryCode": "BW",
@@ -604,44 +356,26 @@
     "minPhoneLength": 7,
     "name": "Botswana",
     "prefix": "+267",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Botswana"
-      },
-      {
-        "first": "pl",
-        "second": "Botswana"
-      },
-      {
-        "first": "ua",
-        "second": "Ботсвана"
-      }
-    ],
+    "translatedNames": {
+      "en": "Botswana",
+      "pl": "Botswana",
+      "ua": "Ботсвана"
+    },
     "visualFormatter": "## ### ###"
   },
   {
     "countryCode": "BR",
     "flag": "🇧🇷",
     "maxPhoneLength": 11,
-    "minPhoneLength": 10,
+    "minPhoneLength": 11,
     "name": "Brazil",
     "prefix": "+55",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Brazil"
-      },
-      {
-        "first": "pl",
-        "second": "Brazylia"
-      },
-      {
-        "first": "ua",
-        "second": "Бразилія"
-      }
-    ],
-    "visualFormatter": "## ##### ####"
+    "translatedNames": {
+      "en": "Brazil",
+      "pl": "Brazylia",
+      "ua": "Бразилія"
+    },
+    "visualFormatter": "## #### ####"
   },
   {
     "countryCode": "IO",
@@ -650,20 +384,11 @@
     "minPhoneLength": 7,
     "name": "British Virgin Islands",
     "prefix": "+1284",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "British Virgin Islands"
-      },
-      {
-        "first": "pl",
-        "second": "Brytyjskie Wyspy Dziewicze"
-      },
-      {
-        "first": "ua",
-        "second": "Британські Віргінські Острови"
-      }
-    ],
+    "translatedNames": {
+      "en": "British Virgin Islands",
+      "pl": "Brytyjskie Wyspy Dziewicze",
+      "ua": "Британські Віргінські Острови"
+    },
     "visualFormatter": "### ####"
   },
   {
@@ -673,44 +398,26 @@
     "minPhoneLength": 7,
     "name": "Brunei Darussalam",
     "prefix": "+673",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Brunei"
-      },
-      {
-        "first": "pl",
-        "second": "Brunei"
-      },
-      {
-        "first": "ua",
-        "second": "Бруней"
-      }
-    ],
+    "translatedNames": {
+      "en": "Brunei",
+      "pl": "Brunei",
+      "ua": "Бруней"
+    },
     "visualFormatter": "### ####"
   },
   {
     "countryCode": "BG",
     "flag": "🇧🇬",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
     "name": "Bulgaria",
     "prefix": "+359",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Bulgaria"
-      },
-      {
-        "first": "pl",
-        "second": "Bułgaria"
-      },
-      {
-        "first": "ua",
-        "second": "Болгарія"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Bulgaria",
+      "pl": "Bułgaria",
+      "ua": "Болгарія"
+    },
+    "visualFormatter": "### ### ###"
   },
   {
     "countryCode": "BF",
@@ -719,21 +426,12 @@
     "minPhoneLength": 8,
     "name": "Burkina Faso",
     "prefix": "+226",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Burkina Faso"
-      },
-      {
-        "first": "pl",
-        "second": "Burkina Faso"
-      },
-      {
-        "first": "ua",
-        "second": "Буркіна-Фасо"
-      }
-    ],
-    "visualFormatter": "## ## ## ##"
+    "translatedNames": {
+      "en": "Burkina Faso",
+      "pl": "Burkina Faso",
+      "ua": "Буркіна-Фасо"
+    },
+    "visualFormatter": "## ## ####"
   },
   {
     "countryCode": "BI",
@@ -742,43 +440,25 @@
     "minPhoneLength": 8,
     "name": "Burundi",
     "prefix": "+257",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Burundi"
-      },
-      {
-        "first": "pl",
-        "second": "Burundi"
-      },
-      {
-        "first": "ua",
-        "second": "Бурунді"
-      }
-    ],
+    "translatedNames": {
+      "en": "Burundi",
+      "pl": "Burundi",
+      "ua": "Бурунді"
+    },
     "visualFormatter": "## ## ####"
   },
   {
     "countryCode": "KH",
     "flag": "🇰🇭",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
     "name": "Cambodia",
     "prefix": "+855",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Cambodia"
-      },
-      {
-        "first": "pl",
-        "second": "Kambodża"
-      },
-      {
-        "first": "ua",
-        "second": "Камбоджа"
-      }
-    ],
+    "translatedNames": {
+      "en": "Cambodia",
+      "pl": "Kambodża",
+      "ua": "Камбоджа"
+    },
     "visualFormatter": "## ### ###"
   },
   {
@@ -788,20 +468,11 @@
     "minPhoneLength": 9,
     "name": "Cameroon",
     "prefix": "+237",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Cameroon"
-      },
-      {
-        "first": "pl",
-        "second": "Kamerun"
-      },
-      {
-        "first": "ua",
-        "second": "Камерун"
-      }
-    ],
+    "translatedNames": {
+      "en": "Cameroon",
+      "pl": "Kamerun",
+      "ua": "Камерун"
+    },
     "visualFormatter": "#### ####"
   },
   {
@@ -811,20 +482,11 @@
     "minPhoneLength": 10,
     "name": "Canada",
     "prefix": "+1",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Canada"
-      },
-      {
-        "first": "pl",
-        "second": "Kanada"
-      },
-      {
-        "first": "ua",
-        "second": "Канада"
-      }
-    ],
+    "translatedNames": {
+      "en": "Canada",
+      "pl": "Kanada",
+      "ua": "Канада"
+    },
     "visualFormatter": "### ### ####"
   },
   {
@@ -834,21 +496,12 @@
     "minPhoneLength": 7,
     "name": "Cape Verde",
     "prefix": "+238",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Cabo Verde"
-      },
-      {
-        "first": "pl",
-        "second": "Cabo Verde"
-      },
-      {
-        "first": "ua",
-        "second": "Кабо-Верде"
-      }
-    ],
-    "visualFormatter": "### ####"
+    "translatedNames": {
+      "en": "Cabo Verde",
+      "pl": "Cabo Verde",
+      "ua": "Кабо-Верде"
+    },
+    "visualFormatter": "### ## ##"
   },
   {
     "countryCode": "KY",
@@ -857,66 +510,39 @@
     "minPhoneLength": 7,
     "name": "Cayman Islands",
     "prefix": "+1345",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Cayman Islands"
-      },
-      {
-        "first": "pl",
-        "second": "Kajmany"
-      },
-      {
-        "first": "ua",
-        "second": "Острови Кайман"
-      }
-    ],
+    "translatedNames": {
+      "en": "Cayman Islands",
+      "pl": "Kajmany",
+      "ua": "Острови Кайман"
+    },
     "visualFormatter": "### ####"
   },
   {
     "countryCode": "CF",
     "flag": "🇨🇫",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
     "name": "Central African Rep.",
     "prefix": "+236",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Central African Republic"
-      },
-      {
-        "first": "pl",
-        "second": "Republika Środkowoafrykańska"
-      },
-      {
-        "first": "ua",
-        "second": "Центральноафриканська Республіка"
-      }
-    ],
-    "visualFormatter": "## ## ## ##"
+    "translatedNames": {
+      "en": "Central African Republic",
+      "pl": "Republika Środkowoafrykańska",
+      "ua": "Центральноафриканська Республіка"
+    },
+    "visualFormatter": "## ## ####"
   },
   {
     "countryCode": "TD",
     "flag": "🇹🇩",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 6,
+    "minPhoneLength": 6,
     "name": "Chad",
     "prefix": "+235",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Chad"
-      },
-      {
-        "first": "pl",
-        "second": "Czad"
-      },
-      {
-        "first": "ua",
-        "second": "Чад"
-      }
-    ],
+    "translatedNames": {
+      "en": "Chad",
+      "pl": "Czad",
+      "ua": "Чад"
+    },
     "visualFormatter": "## ## ## ##"
   },
   {
@@ -926,20 +552,11 @@
     "minPhoneLength": 9,
     "name": "Chile",
     "prefix": "+56",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Chile"
-      },
-      {
-        "first": "pl",
-        "second": "Chile"
-      },
-      {
-        "first": "ua",
-        "second": "Чилі"
-      }
-    ],
+    "translatedNames": {
+      "en": "Chile",
+      "pl": "Chile",
+      "ua": "Чилі"
+    },
     "visualFormatter": "# #### ####"
   },
   {
@@ -949,21 +566,12 @@
     "minPhoneLength": 11,
     "name": "China",
     "prefix": "+86",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "China"
-      },
-      {
-        "first": "pl",
-        "second": "Chiny"
-      },
-      {
-        "first": "ua",
-        "second": "Китай"
-      }
-    ],
-    "visualFormatter": "### #### ####"
+    "translatedNames": {
+      "en": "China",
+      "pl": "Chiny",
+      "ua": "Китай"
+    },
+    "visualFormatter": "## ##### #####"
   },
   {
     "countryCode": "CO",
@@ -972,20 +580,11 @@
     "minPhoneLength": 10,
     "name": "Colombia",
     "prefix": "+57",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Colombia"
-      },
-      {
-        "first": "pl",
-        "second": "Kolumbia"
-      },
-      {
-        "first": "ua",
-        "second": "Колумбія"
-      }
-    ],
+    "translatedNames": {
+      "en": "Colombia",
+      "pl": "Kolumbia",
+      "ua": "Колумбія"
+    },
     "visualFormatter": "### ### ####"
   },
   {
@@ -995,66 +594,25 @@
     "minPhoneLength": 7,
     "name": "Comoros",
     "prefix": "+269",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Comoros"
-      },
-      {
-        "first": "pl",
-        "second": "Komory"
-      },
-      {
-        "first": "ua",
-        "second": "Коморські Острови"
-      }
-    ],
-    "visualFormatter": "### ####"
+    "translatedNames": {
+      "en": "Comoros",
+      "pl": "Komory",
+      "ua": "Коморські Острови"
+    },
+    "visualFormatter": "## #####"
   },
   {
     "countryCode": "CG",
     "flag": "🇨🇬",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
-    "name": "Congo (Rep.)",
-    "prefix": "+242",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Congo, Republic of the"
-      },
-      {
-        "first": "pl",
-        "second": "Republika Konga"
-      },
-      {
-        "first": "ua",
-        "second": "Республіка Конго"
-      }
-    ],
-    "visualFormatter": "## ### ####"
-  },
-  {
-    "countryCode": "CD",
-    "flag": "🇨🇩",
     "maxPhoneLength": 9,
     "minPhoneLength": 9,
-    "name": "Congo (Dem. Rep.)",
-    "prefix": "+243",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Congo, Democratic Republic of the"
-      },
-      {
-        "first": "pl",
-        "second": "Demokratyczna Republika Konga"
-      },
-      {
-        "first": "ua",
-        "second": "Демократична Республіка Конго"
-      }
-    ],
+    "name": "Congo (Rep.)",
+    "prefix": "+242",
+    "translatedNames": {
+      "en": "Congo, Republic of the",
+      "pl": "Republika Konga",
+      "ua": "Республіка Конго"
+    },
     "visualFormatter": "## ### ####"
   },
   {
@@ -1064,21 +622,12 @@
     "minPhoneLength": 5,
     "name": "Cook Islands",
     "prefix": "+682",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Cook Islands"
-      },
-      {
-        "first": "pl",
-        "second": "Wyspy Cooka"
-      },
-      {
-        "first": "ua",
-        "second": "Острови Кука"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Cook Islands",
+      "pl": "Wyspy Cooka",
+      "ua": "Острови Кука"
+    },
+    "visualFormatter": "## ###"
   },
   {
     "countryCode": "CR",
@@ -1087,20 +636,11 @@
     "minPhoneLength": 8,
     "name": "Costa Rica",
     "prefix": "+506",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Costa Rica"
-      },
-      {
-        "first": "pl",
-        "second": "Kostaryka"
-      },
-      {
-        "first": "ua",
-        "second": "Коста-Рика"
-      }
-    ],
+    "translatedNames": {
+      "en": "Costa Rica",
+      "pl": "Kostaryka",
+      "ua": "Коста-Рика"
+    },
     "visualFormatter": "#### ####"
   },
   {
@@ -1110,43 +650,25 @@
     "minPhoneLength": 8,
     "name": "Cote d'Ivoire",
     "prefix": "+225",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Ivory Coast"
-      },
-      {
-        "first": "pl",
-        "second": "Wybrzeże Kości Słoniowej"
-      },
-      {
-        "first": "ua",
-        "second": "Берег Слонової Кості"
-      }
-    ],
-    "visualFormatter": "## ## ## ####"
+    "translatedNames": {
+      "en": "Ivory Coast",
+      "pl": "Wybrzeże Kości Słoniowej",
+      "ua": "Берег Слонової Кості"
+    },
+    "visualFormatter": "## ### ###"
   },
   {
     "countryCode": "HR",
     "flag": "🇭🇷",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
     "name": "Croatia",
     "prefix": "+385",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Croatia"
-      },
-      {
-        "first": "pl",
-        "second": "Chorwacja"
-      },
-      {
-        "first": "ua",
-        "second": "Хорватія"
-      }
-    ],
+    "translatedNames": {
+      "en": "Croatia",
+      "pl": "Chorwacja",
+      "ua": "Хорватія"
+    },
     "visualFormatter": "## ### ###"
   },
   {
@@ -1156,20 +678,11 @@
     "minPhoneLength": 8,
     "name": "Cuba",
     "prefix": "+53",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Cuba"
-      },
-      {
-        "first": "pl",
-        "second": "Kuba"
-      },
-      {
-        "first": "ua",
-        "second": "Куба"
-      }
-    ],
+    "translatedNames": {
+      "en": "Cuba",
+      "pl": "Kuba",
+      "ua": "Куба"
+    },
     "visualFormatter": "# ### ####"
   },
   {
@@ -1179,21 +692,12 @@
     "minPhoneLength": 8,
     "name": "Cyprus",
     "prefix": "+357",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Cyprus"
-      },
-      {
-        "first": "pl",
-        "second": "Cypr"
-      },
-      {
-        "first": "ua",
-        "second": "Кіпр"
-      }
-    ],
-    "visualFormatter": "#### ####"
+    "translatedNames": {
+      "en": "Cyprus",
+      "pl": "Cypr",
+      "ua": "Кіпр"
+    },
+    "visualFormatter": "## ### ###"
   },
   {
     "countryCode": "CZ",
@@ -1202,20 +706,25 @@
     "minPhoneLength": 9,
     "name": "Czech Republic",
     "prefix": "+420",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Czech Republic"
-      },
-      {
-        "first": "pl",
-        "second": "Czechy"
-      },
-      {
-        "first": "ua",
-        "second": "Чехія"
-      }
-    ],
+    "translatedNames": {
+      "en": "Czech Republic",
+      "pl": "Czechy",
+      "ua": "Чехія"
+    },
+    "visualFormatter": "### ### ###"
+  },
+  {
+    "countryCode": "CD",
+    "flag": "🇨🇩",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Congo (Dem. Rep.)",
+    "prefix": "+243",
+    "translatedNames": {
+      "en": "Congo, Democratic Republic of the",
+      "pl": "Demokratyczna Republika Konga",
+      "ua": "Демократична Республіка Конго"
+    },
     "visualFormatter": "### ### ###"
   },
   {
@@ -1225,66 +734,39 @@
     "minPhoneLength": 8,
     "name": "Denmark",
     "prefix": "+45",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Denmark"
-      },
-      {
-        "first": "pl",
-        "second": "Dania"
-      },
-      {
-        "first": "ua",
-        "second": "Данія"
-      }
-    ],
-    "visualFormatter": "#### ####"
+    "translatedNames": {
+      "en": "Denmark",
+      "pl": "Dania",
+      "ua": "Данія"
+    },
+    "visualFormatter": "## ## ## ##"
   },
   {
     "countryCode": "DJ",
     "flag": "🇩🇯",
-    "maxPhoneLength": 6,
-    "minPhoneLength": 6,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
     "name": "Djibouti",
     "prefix": "+253",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Djibouti"
-      },
-      {
-        "first": "pl",
-        "second": "Dżibuti"
-      },
-      {
-        "first": "ua",
-        "second": "Джибуті"
-      }
-    ],
+    "translatedNames": {
+      "en": "Djibouti",
+      "pl": "Dżibuti",
+      "ua": "Джибуті"
+    },
     "visualFormatter": "## ## ## ##"
   },
   {
     "countryCode": "DM",
     "flag": "🇩🇲",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
     "name": "Dominica",
     "prefix": "+1767",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Dominica"
-      },
-      {
-        "first": "pl",
-        "second": "Dominika"
-      },
-      {
-        "first": "ua",
-        "second": "Домініка"
-      }
-    ],
+    "translatedNames": {
+      "en": "Dominica",
+      "pl": "Dominika",
+      "ua": "Домініка"
+    },
     "visualFormatter": "### ####"
   },
   {
@@ -1294,21 +776,26 @@
     "minPhoneLength": 10,
     "name": "Dominican Rep.",
     "prefix": "+1809",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Dominican Republic"
-      },
-      {
-        "first": "pl",
-        "second": "Republika Dominikańska"
-      },
-      {
-        "first": "ua",
-        "second": "Домініканська Республіка"
-      }
-    ],
+    "translatedNames": {
+      "en": "Dominican Republic",
+      "pl": "Republika Dominikańska",
+      "ua": "Домініканська Республіка"
+    },
     "visualFormatter": "### ####"
+  },
+  {
+    "countryCode": "TL",
+    "flag": "🇹🇱",
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
+    "name": "Timor-Leste",
+    "prefix": "+670",
+    "translatedNames": {
+      "en": "Timor-Leste",
+      "pl": "Timor-Leste",
+      "ua": "Тімор-Лешті"
+    },
+    "visualFormatter": "# #####"
   },
   {
     "countryCode": "EC",
@@ -1317,21 +804,12 @@
     "minPhoneLength": 9,
     "name": "Ecuador",
     "prefix": "+593",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Ecuador"
-      },
-      {
-        "first": "pl",
-        "second": "Ekwador"
-      },
-      {
-        "first": "ua",
-        "second": "Еквадор"
-      }
-    ],
-    "visualFormatter": "## ### ####"
+    "translatedNames": {
+      "en": "Ecuador",
+      "pl": "Ekwador",
+      "ua": "Еквадор"
+    },
+    "visualFormatter": "# ### ####"
   },
   {
     "countryCode": "EG",
@@ -1340,21 +818,12 @@
     "minPhoneLength": 10,
     "name": "Egypt",
     "prefix": "+20",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Egypt"
-      },
-      {
-        "first": "pl",
-        "second": "Egipt"
-      },
-      {
-        "first": "ua",
-        "second": "Єгипет"
-      }
-    ],
-    "visualFormatter": "## #### ####"
+    "translatedNames": {
+      "en": "Egypt",
+      "pl": "Egipt",
+      "ua": "Єгипет"
+    },
+    "visualFormatter": "### ### ####"
   },
   {
     "countryCode": "SV",
@@ -1363,21 +832,12 @@
     "minPhoneLength": 8,
     "name": "El Salvador",
     "prefix": "+503",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "El Salvador"
-      },
-      {
-        "first": "pl",
-        "second": "Salwador"
-      },
-      {
-        "first": "ua",
-        "second": "Сальвадор"
-      }
-    ],
-    "visualFormatter": "#### ####"
+    "translatedNames": {
+      "en": "El Salvador",
+      "pl": "Salwador",
+      "ua": "Сальвадор"
+    },
+    "visualFormatter": "## ## ####"
   },
   {
     "countryCode": "GQ",
@@ -1386,135 +846,67 @@
     "minPhoneLength": 9,
     "name": "Equatorial Guinea",
     "prefix": "+240",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Equatorial Guinea"
-      },
-      {
-        "first": "pl",
-        "second": "Gwinea Równikowa"
-      },
-      {
-        "first": "ua",
-        "second": "Екваторіальна Гвінея"
-      }
-    ],
-    "visualFormatter": "### ### ###"
+    "translatedNames": {
+      "en": "Equatorial Guinea",
+      "pl": "Gwinea Równikowa",
+      "ua": "Екваторіальна Гвінея"
+    },
+    "visualFormatter": "## ### ####"
   },
   {
     "countryCode": "ER",
     "flag": "🇪🇷",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
     "name": "Eritrea",
     "prefix": "+291",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Eritrea"
-      },
-      {
-        "first": "pl",
-        "second": "Erytrea"
-      },
-      {
-        "first": "ua",
-        "second": "Еритрея"
-      }
-    ],
+    "translatedNames": {
+      "en": "Eritrea",
+      "pl": "Erytrea",
+      "ua": "Еритрея"
+    },
     "visualFormatter": "# ### ###"
   },
   {
     "countryCode": "EE",
     "flag": "🇪🇪",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
-    "name": "Estonia",
-    "prefix": "+372",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Estonia"
-      },
-      {
-        "first": "pl",
-        "second": "Estonia"
-      },
-      {
-        "first": "ua",
-        "second": "Естонія"
-      }
-    ],
-    "visualFormatter": "#### ###"
-  },
-  {
-    "countryCode": "SZ",
-    "flag": "🇸🇿",
     "maxPhoneLength": 8,
     "minPhoneLength": 8,
-    "name": "Eswatini",
-    "prefix": "+268",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Eswatini"
-      },
-      {
-        "first": "pl",
-        "second": "Eswatini"
-      },
-      {
-        "first": "ua",
-        "second": "Есватіні"
-      }
-    ],
-    "visualFormatter": "#### ####"
+    "name": "Estonia",
+    "prefix": "+372",
+    "translatedNames": {
+      "en": "Estonia",
+      "pl": "Estonia",
+      "ua": "Естонія"
+    },
+    "visualFormatter": "### ####"
   },
   {
     "countryCode": "ET",
     "flag": "🇪🇹",
-    "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
     "name": "Ethiopia",
     "prefix": "+251",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Ethiopia"
-      },
-      {
-        "first": "pl",
-        "second": "Etiopia"
-      },
-      {
-        "first": "ua",
-        "second": "Ефіопія"
-      }
-    ],
-    "visualFormatter": "## ### ###"
+    "translatedNames": {
+      "en": "Ethiopia",
+      "pl": "Etiopia",
+      "ua": "Ефіопія"
+    },
+    "visualFormatter": "## ### ####"
   },
   {
     "countryCode": "FO",
     "flag": "🇫🇴",
-    "maxPhoneLength": 6,
-    "minPhoneLength": 6,
+    "maxPhoneLength": 5,
+    "minPhoneLength": 5,
     "name": "Faroe Islands",
     "prefix": "+298",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Faroe Islands"
-      },
-      {
-        "first": "pl",
-        "second": "Wyspy Owcze"
-      },
-      {
-        "first": "ua",
-        "second": "Фарерські острови"
-      }
-    ],
+    "translatedNames": {
+      "en": "Faroe Islands",
+      "pl": "Wyspy Owcze",
+      "ua": "Фарерські острови"
+    },
     "visualFormatter": "### ###"
   },
   {
@@ -1524,44 +916,26 @@
     "minPhoneLength": 7,
     "name": "Fiji",
     "prefix": "+679",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Fiji"
-      },
-      {
-        "first": "pl",
-        "second": "Fidżi"
-      },
-      {
-        "first": "ua",
-        "second": "Фіджі"
-      }
-    ],
-    "visualFormatter": "### ####"
+    "translatedNames": {
+      "en": "Fiji",
+      "pl": "Fidżi",
+      "ua": "Фіджі"
+    },
+    "visualFormatter": "## #####"
   },
   {
     "countryCode": "FI",
     "flag": "🇫🇮",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 0,
+    "minPhoneLength": 0,
     "name": "Finland",
     "prefix": "+358",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Finland"
-      },
-      {
-        "first": "pl",
-        "second": "Finlandia"
-      },
-      {
-        "first": "ua",
-        "second": "Фінляндія"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Finland",
+      "pl": "Finlandia",
+      "ua": "Фінляндія"
+    },
+    "visualFormatter": "### ### ## ##"
   },
   {
     "countryCode": "FR",
@@ -1570,21 +944,12 @@
     "minPhoneLength": 9,
     "name": "France",
     "prefix": "+33",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "France"
-      },
-      {
-        "first": "pl",
-        "second": "Francja"
-      },
-      {
-        "first": "ua",
-        "second": "Франція"
-      }
-    ],
-    "visualFormatter": "# ## ## ## ##"
+    "translatedNames": {
+      "en": "France",
+      "pl": "Francja",
+      "ua": "Франція"
+    },
+    "visualFormatter": "### ### ###"
   },
   {
     "countryCode": "GF",
@@ -1593,44 +958,26 @@
     "minPhoneLength": 9,
     "name": "French Guiana",
     "prefix": "+594",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "French Guiana"
-      },
-      {
-        "first": "pl",
-        "second": "Gujana Francuska"
-      },
-      {
-        "first": "ua",
-        "second": "Французька Гвіана"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "French Guiana",
+      "pl": "Gujana Francuska",
+      "ua": "Французька Гвіана"
+    },
+    "visualFormatter": "##### ####"
   },
   {
     "countryCode": "PF",
     "flag": "🇵🇫",
-    "maxPhoneLength": 6,
-    "minPhoneLength": 6,
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
     "name": "French Polynesia",
     "prefix": "+689",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "French Polynesia"
-      },
-      {
-        "first": "pl",
-        "second": "Polinezja Francuska"
-      },
-      {
-        "first": "ua",
-        "second": "Французька Полінезія"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "French Polynesia",
+      "pl": "Polinezja Francuska",
+      "ua": "Французька Полінезія"
+    },
+    "visualFormatter": "## ## ##"
   },
   {
     "countryCode": "GA",
@@ -1639,20 +986,11 @@
     "minPhoneLength": 7,
     "name": "Gabon",
     "prefix": "+241",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Gabon"
-      },
-      {
-        "first": "pl",
-        "second": "Gabon"
-      },
-      {
-        "first": "ua",
-        "second": "Габон"
-      }
-    ],
+    "translatedNames": {
+      "en": "Gabon",
+      "pl": "Gabon",
+      "ua": "Габон"
+    },
     "visualFormatter": "# ## ## ##"
   },
   {
@@ -1662,21 +1000,12 @@
     "minPhoneLength": 7,
     "name": "Gambia",
     "prefix": "+220",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Gambia"
-      },
-      {
-        "first": "pl",
-        "second": "Gambia"
-      },
-      {
-        "first": "ua",
-        "second": "Гамбія"
-      }
-    ],
-    "visualFormatter": "### ####"
+    "translatedNames": {
+      "en": "Gambia",
+      "pl": "Gambia",
+      "ua": "Гамбія"
+    },
+    "visualFormatter": "### ## ##"
   },
   {
     "countryCode": "GE",
@@ -1685,44 +1014,26 @@
     "minPhoneLength": 9,
     "name": "Georgia",
     "prefix": "+995",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Georgia"
-      },
-      {
-        "first": "pl",
-        "second": "Gruzja"
-      },
-      {
-        "first": "ua",
-        "second": "Грузія"
-      }
-    ],
+    "translatedNames": {
+      "en": "Georgia",
+      "pl": "Gruzja",
+      "ua": "Грузія"
+    },
     "visualFormatter": "### ### ###"
   },
   {
     "countryCode": "DE",
     "flag": "🇩🇪",
-    "maxPhoneLength": 11,
-    "minPhoneLength": 11,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
     "name": "Germany",
     "prefix": "+49",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Germany"
-      },
-      {
-        "first": "pl",
-        "second": "Niemcy"
-      },
-      {
-        "first": "ua",
-        "second": "Німеччина"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Germany",
+      "pl": "Niemcy",
+      "ua": "Німеччина"
+    },
+    "visualFormatter": "### ###"
   },
   {
     "countryCode": "GH",
@@ -1731,21 +1042,12 @@
     "minPhoneLength": 9,
     "name": "Ghana",
     "prefix": "+233",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Ghana"
-      },
-      {
-        "first": "pl",
-        "second": "Ghana"
-      },
-      {
-        "first": "ua",
-        "second": "Гана"
-      }
-    ],
-    "visualFormatter": "## ### ####"
+    "translatedNames": {
+      "en": "Ghana",
+      "pl": "Ghana",
+      "ua": "Гана"
+    },
+    "visualFormatter": "### ### ###"
   },
   {
     "countryCode": "GI",
@@ -1754,21 +1056,12 @@
     "minPhoneLength": 8,
     "name": "Gibraltar",
     "prefix": "+350",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Gibraltar"
-      },
-      {
-        "first": "pl",
-        "second": "Gibraltar"
-      },
-      {
-        "first": "ua",
-        "second": "Гібралтар"
-      }
-    ],
-    "visualFormatter": "#### ####"
+    "translatedNames": {
+      "en": "Gibraltar",
+      "pl": "Gibraltar",
+      "ua": "Гібралтар"
+    },
+    "visualFormatter": "### #####"
   },
   {
     "countryCode": "GR",
@@ -1777,20 +1070,11 @@
     "minPhoneLength": 10,
     "name": "Greece",
     "prefix": "+30",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Greece"
-      },
-      {
-        "first": "pl",
-        "second": "Grecja"
-      },
-      {
-        "first": "ua",
-        "second": "Греція"
-      }
-    ],
+    "translatedNames": {
+      "en": "Greece",
+      "pl": "Grecja",
+      "ua": "Греція"
+    },
     "visualFormatter": "### ### ####"
   },
   {
@@ -1800,43 +1084,25 @@
     "minPhoneLength": 6,
     "name": "Greenland",
     "prefix": "+299",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Greenland"
-      },
-      {
-        "first": "pl",
-        "second": "Grenlandia"
-      },
-      {
-        "first": "ua",
-        "second": "Гренландія"
-      }
-    ],
-    "visualFormatter": "### ###"
+    "translatedNames": {
+      "en": "Greenland",
+      "pl": "Grenlandia",
+      "ua": "Гренландія"
+    },
+    "visualFormatter": "## ## ##"
   },
   {
     "countryCode": "GD",
     "flag": "🇬🇩",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
     "name": "Grenada",
     "prefix": "+1473",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Grenada"
-      },
-      {
-        "first": "pl",
-        "second": "Grenada"
-      },
-      {
-        "first": "ua",
-        "second": "Гренада"
-      }
-    ],
+    "translatedNames": {
+      "en": "Grenada",
+      "pl": "Grenada",
+      "ua": "Гренада"
+    },
     "visualFormatter": "### ####"
   },
   {
@@ -1846,43 +1112,25 @@
     "minPhoneLength": 9,
     "name": "Guadeloupe",
     "prefix": "+590",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Guadeloupe"
-      },
-      {
-        "first": "pl",
-        "second": "Gwadelupa"
-      },
-      {
-        "first": "ua",
-        "second": "Гваделупа"
-      }
-    ],
-    "visualFormatter": "### ## ## ##"
+    "translatedNames": {
+      "en": "Guadeloupe",
+      "pl": "Gwadelupa",
+      "ua": "Гваделупа"
+    },
+    "visualFormatter": ""
   },
   {
     "countryCode": "GU",
     "flag": "🇬🇺",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
     "name": "Guam",
     "prefix": "+1671",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Guam"
-      },
-      {
-        "first": "pl",
-        "second": "Guam"
-      },
-      {
-        "first": "ua",
-        "second": "Гуам"
-      }
-    ],
+    "translatedNames": {
+      "en": "Guam",
+      "pl": "Guam",
+      "ua": "Гуам"
+    },
     "visualFormatter": "### ####"
   },
   {
@@ -1892,20 +1140,11 @@
     "minPhoneLength": 8,
     "name": "Guatemala",
     "prefix": "+502",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Guatemala"
-      },
-      {
-        "first": "pl",
-        "second": "Gwatemala"
-      },
-      {
-        "first": "ua",
-        "second": "Гватемала"
-      }
-    ],
+    "translatedNames": {
+      "en": "Guatemala",
+      "pl": "Gwatemala",
+      "ua": "Гватемала"
+    },
     "visualFormatter": "# ### ####"
   },
   {
@@ -1915,44 +1154,26 @@
     "minPhoneLength": 9,
     "name": "Guinea",
     "prefix": "+224",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Guinea"
-      },
-      {
-        "first": "pl",
-        "second": "Gwinea"
-      },
-      {
-        "first": "ua",
-        "second": "Гвінея"
-      }
-    ],
-    "visualFormatter": "### ### ###"
+    "translatedNames": {
+      "en": "Guinea",
+      "pl": "Gwinea",
+      "ua": "Гвінея"
+    },
+    "visualFormatter": "## ### ###"
   },
   {
     "countryCode": "GW",
     "flag": "🇬🇼",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
     "name": "Guinea-Bissau",
     "prefix": "+245",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Guinea-Bissau"
-      },
-      {
-        "first": "pl",
-        "second": "Gwinea-Bissau"
-      },
-      {
-        "first": "ua",
-        "second": "Гвінея-Біссау"
-      }
-    ],
-    "visualFormatter": "### ## ## ##"
+    "translatedNames": {
+      "en": "Guinea-Bissau",
+      "pl": "Gwinea-Bissau",
+      "ua": "Гвінея-Біссау"
+    },
+    "visualFormatter": "# ######"
   },
   {
     "countryCode": "GY",
@@ -1961,21 +1182,12 @@
     "minPhoneLength": 7,
     "name": "Guyana",
     "prefix": "+592",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Guyana"
-      },
-      {
-        "first": "pl",
-        "second": "Gujana"
-      },
-      {
-        "first": "ua",
-        "second": "Гаяна"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Guyana",
+      "pl": "Gujana",
+      "ua": "Гаяна"
+    },
+    "visualFormatter": "### ####"
   },
   {
     "countryCode": "HT",
@@ -1984,21 +1196,12 @@
     "minPhoneLength": 8,
     "name": "Haiti",
     "prefix": "+509",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Haiti"
-      },
-      {
-        "first": "pl",
-        "second": "Haiti"
-      },
-      {
-        "first": "ua",
-        "second": "Гаїті"
-      }
-    ],
-    "visualFormatter": "#### ####"
+    "translatedNames": {
+      "en": "Haiti",
+      "pl": "Haiti",
+      "ua": "Гаїті"
+    },
+    "visualFormatter": "## ## ####"
   },
   {
     "countryCode": "HN",
@@ -2007,44 +1210,26 @@
     "minPhoneLength": 8,
     "name": "Honduras",
     "prefix": "+504",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Honduras"
-      },
-      {
-        "first": "pl",
-        "second": "Honduras"
-      },
-      {
-        "first": "ua",
-        "second": "Гондурас"
-      }
-    ],
+    "translatedNames": {
+      "en": "Honduras",
+      "pl": "Honduras",
+      "ua": "Гондурас"
+    },
     "visualFormatter": "#### ####"
   },
   {
     "countryCode": "HK",
     "flag": "🇭🇰",
     "maxPhoneLength": 8,
-    "minPhoneLength": 9,
+    "minPhoneLength": 8,
     "name": "Hong Kong",
     "prefix": "+852",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Hong Kong"
-      },
-      {
-        "first": "pl",
-        "second": "Hongkong"
-      },
-      {
-        "first": "ua",
-        "second": "Гонконг"
-      }
-    ],
-    "visualFormatter": "# ### ####"
+    "translatedNames": {
+      "en": "Hong Kong",
+      "pl": "Hongkong",
+      "ua": "Гонконг"
+    },
+    "visualFormatter": "#### ####"
   },
   {
     "countryCode": "HU",
@@ -2053,20 +1238,11 @@
     "minPhoneLength": 9,
     "name": "Hungary",
     "prefix": "+36",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Hungary"
-      },
-      {
-        "first": "pl",
-        "second": "Węgry"
-      },
-      {
-        "first": "ua",
-        "second": "Угорщина"
-      }
-    ],
+    "translatedNames": {
+      "en": "Hungary",
+      "pl": "Węgry",
+      "ua": "Угорщина"
+    },
     "visualFormatter": "### ### ###"
   },
   {
@@ -2076,20 +1252,11 @@
     "minPhoneLength": 7,
     "name": "Iceland",
     "prefix": "+354",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Iceland"
-      },
-      {
-        "first": "pl",
-        "second": "Islandia"
-      },
-      {
-        "first": "ua",
-        "second": "Ісландія"
-      }
-    ],
+    "translatedNames": {
+      "en": "Iceland",
+      "pl": "Islandia",
+      "ua": "Ісландія"
+    },
     "visualFormatter": "### ####"
   },
   {
@@ -2099,66 +1266,39 @@
     "minPhoneLength": 10,
     "name": "India",
     "prefix": "+91",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "India"
-      },
-      {
-        "first": "pl",
-        "second": "Indie"
-      },
-      {
-        "first": "ua",
-        "second": "Індія"
-      }
-    ],
-    "visualFormatter": "##### #####"
+    "translatedNames": {
+      "en": "India",
+      "pl": "Indie",
+      "ua": "Індія"
+    },
+    "visualFormatter": "#### ### ###"
   },
   {
     "countryCode": "ID",
     "flag": "🇮🇩",
     "maxPhoneLength": 11,
-    "minPhoneLength": 10,
+    "minPhoneLength": 11,
     "name": "Indonesia",
     "prefix": "+62",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Indonesia"
-      },
-      {
-        "first": "pl",
-        "second": "Indonezja"
-      },
-      {
-        "first": "ua",
-        "second": "Індонезія"
-      }
-    ],
-    "visualFormatter": "### ######"
+    "translatedNames": {
+      "en": "Indonesia",
+      "pl": "Indonezja",
+      "ua": "Індонезія"
+    },
+    "visualFormatter": "## ### ## ###"
   },
   {
     "countryCode": "IR",
     "flag": "🇮🇷",
-    "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "maxPhoneLength": 11,
+    "minPhoneLength": 11,
     "name": "Iran",
     "prefix": "+98",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Iran"
-      },
-      {
-        "first": "pl",
-        "second": "Iran"
-      },
-      {
-        "first": "ua",
-        "second": "Іран"
-      }
-    ],
+    "translatedNames": {
+      "en": "Iran",
+      "pl": "Iran",
+      "ua": "Іран"
+    },
     "visualFormatter": "### ### ####"
   },
   {
@@ -2168,44 +1308,26 @@
     "minPhoneLength": 10,
     "name": "Iraq",
     "prefix": "+964",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Iraq"
-      },
-      {
-        "first": "pl",
-        "second": "Irak"
-      },
-      {
-        "first": "ua",
-        "second": "Ірак"
-      }
-    ],
+    "translatedNames": {
+      "en": "Iraq",
+      "pl": "Irak",
+      "ua": "Ірак"
+    },
     "visualFormatter": "### ### ####"
   },
   {
     "countryCode": "IE",
     "flag": "🇮🇪",
     "maxPhoneLength": 9,
-    "minPhoneLength": 7,
+    "minPhoneLength": 9,
     "name": "Ireland",
     "prefix": "+353",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Ireland"
-      },
-      {
-        "first": "pl",
-        "second": "Irlandia"
-      },
-      {
-        "first": "ua",
-        "second": "Ірландія"
-      }
-    ],
-    "visualFormatter": "## ### ####"
+    "translatedNames": {
+      "en": "Ireland",
+      "pl": "Irlandia",
+      "ua": "Ірландія"
+    },
+    "visualFormatter": "### ### ###"
   },
   {
     "countryCode": "IL",
@@ -2214,21 +1336,12 @@
     "minPhoneLength": 9,
     "name": "Israel",
     "prefix": "+972",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Israel"
-      },
-      {
-        "first": "pl",
-        "second": "Izrael"
-      },
-      {
-        "first": "ua",
-        "second": "Ізраїль"
-      }
-    ],
-    "visualFormatter": "## ### ####"
+    "translatedNames": {
+      "en": "Israel",
+      "pl": "Izrael",
+      "ua": "Ізраїль"
+    },
+    "visualFormatter": "# ### ####"
   },
   {
     "countryCode": "IT",
@@ -2237,89 +1350,53 @@
     "minPhoneLength": 10,
     "name": "Italy",
     "prefix": "+39",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Italy"
-      },
-      {
-        "first": "pl",
-        "second": "Włochy"
-      },
-      {
-        "first": "ua",
-        "second": "Італія"
-      }
-    ],
-    "visualFormatter": "### ### ####"
+    "translatedNames": {
+      "en": "Italy",
+      "pl": "Włochy",
+      "ua": "Італія"
+    },
+    "visualFormatter": "### #### ###"
   },
   {
     "countryCode": "JM",
     "flag": "🇯🇲",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
     "name": "Jamaica",
     "prefix": "+1876",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Jamaica"
-      },
-      {
-        "first": "pl",
-        "second": "Jamajka"
-      },
-      {
-        "first": "ua",
-        "second": "Ямайка"
-      }
-    ],
+    "translatedNames": {
+      "en": "Jamaica",
+      "pl": "Jamajka",
+      "ua": "Ямайка"
+    },
     "visualFormatter": "### ####"
   },
   {
     "countryCode": "JP",
     "flag": "🇯🇵",
-    "maxPhoneLength": 11,
-    "minPhoneLength": 10,
+    "maxPhoneLength": 13,
+    "minPhoneLength": 5,
     "name": "Japan",
     "prefix": "+81",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Japan"
-      },
-      {
-        "first": "pl",
-        "second": "Japonia"
-      },
-      {
-        "first": "ua",
-        "second": "Японія"
-      }
-    ],
-    "visualFormatter": "## #### ####"
+    "translatedNames": {
+      "en": "Japan",
+      "pl": "Japonia",
+      "ua": "Японія"
+    },
+    "visualFormatter": "### ### ###"
   },
   {
     "countryCode": "JO",
     "flag": "🇯🇴",
     "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "minPhoneLength": 8,
     "name": "Jordan",
     "prefix": "+962",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Jordan"
-      },
-      {
-        "first": "pl",
-        "second": "Jordania"
-      },
-      {
-        "first": "ua",
-        "second": "Йорданія"
-      }
-    ],
+    "translatedNames": {
+      "en": "Jordan",
+      "pl": "Jordania",
+      "ua": "Йорданія"
+    },
     "visualFormatter": "# #### ####"
   },
   {
@@ -2329,21 +1406,12 @@
     "minPhoneLength": 10,
     "name": "Kazakhstan",
     "prefix": "+7",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Kazakhstan"
-      },
-      {
-        "first": "pl",
-        "second": "Kazachstan"
-      },
-      {
-        "first": "ua",
-        "second": "Казахстан"
-      }
-    ],
-    "visualFormatter": "### ### ## ##"
+    "translatedNames": {
+      "en": "Kazakhstan",
+      "pl": "Kazachstan",
+      "ua": "Казахстан"
+    },
+    "visualFormatter": "## ### ## ##"
   },
   {
     "countryCode": "KE",
@@ -2352,113 +1420,40 @@
     "minPhoneLength": 10,
     "name": "Kenya",
     "prefix": "+254",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Kenya"
-      },
-      {
-        "first": "pl",
-        "second": "Kenia"
-      },
-      {
-        "first": "ua",
-        "second": "Кенія"
-      }
-    ],
-    "visualFormatter": "### ### ###"
+    "translatedNames": {
+      "en": "Kenya",
+      "pl": "Kenia",
+      "ua": "Кенія"
+    },
+    "visualFormatter": "### ######"
   },
   {
     "countryCode": "KI",
     "flag": "🇰🇮",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
-    "name": "Kiribati",
-    "prefix": "+686",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Kiribati"
-      },
-      {
-        "first": "pl",
-        "second": "Kiribati"
-      },
-      {
-        "first": "ua",
-        "second": "Кірибаті"
-      }
-    ],
-    "visualFormatter": "#### ####"
-  },
-  {
-    "countryCode": "KP",
-    "flag": "🇰🇵",
     "maxPhoneLength": 8,
     "minPhoneLength": 8,
-    "name": "North Korea",
-    "prefix": "+850",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "North Korea"
-      },
-      {
-        "first": "pl",
-        "second": "Korea Północna"
-      },
-      {
-        "first": "ua",
-        "second": "Північна Корея"
-      }
-    ],
-    "visualFormatter": "#"
-  },
-  {
-    "countryCode": "KR",
-    "flag": "🇰🇷",
-    "maxPhoneLength": 10,
-    "minPhoneLength": 10,
-    "name": "South Korea",
-    "prefix": "+82",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "South Korea"
-      },
-      {
-        "first": "pl",
-        "second": "Korea Południowa"
-      },
-      {
-        "first": "ua",
-        "second": "Південна Корея"
-      }
-    ],
-    "visualFormatter": "## #### ###"
+    "name": "Kiribati",
+    "prefix": "+686",
+    "translatedNames": {
+      "en": "Kiribati",
+      "pl": "Kiribati",
+      "ua": "Кірибаті"
+    },
+    "visualFormatter": "## ###"
   },
   {
     "countryCode": "XK",
     "flag": "🇽🇰",
     "maxPhoneLength": 8,
-    "minPhoneLength": 9,
+    "minPhoneLength": 8,
     "name": "Kosovo",
     "prefix": "+383",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Kosovo"
-      },
-      {
-        "first": "pl",
-        "second": "Kosowo"
-      },
-      {
-        "first": "ua",
-        "second": "Косово"
-      }
-    ],
-    "visualFormatter": "#### ####"
+    "translatedNames": {
+      "en": "Kosovo",
+      "pl": "Kosowo",
+      "ua": "Косово"
+    },
+    "visualFormatter": ""
   },
   {
     "countryCode": "KW",
@@ -2467,20 +1462,11 @@
     "minPhoneLength": 8,
     "name": "Kuwait",
     "prefix": "+965",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Kuwait"
-      },
-      {
-        "first": "pl",
-        "second": "Kuwejt"
-      },
-      {
-        "first": "ua",
-        "second": "Кувейт"
-      }
-    ],
+    "translatedNames": {
+      "en": "Kuwait",
+      "pl": "Kuwejt",
+      "ua": "Кувейт"
+    },
     "visualFormatter": "#### ####"
   },
   {
@@ -2490,44 +1476,26 @@
     "minPhoneLength": 9,
     "name": "Kyrgyzstan",
     "prefix": "+996",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Kyrgyzstan"
-      },
-      {
-        "first": "pl",
-        "second": "Kirgistan"
-      },
-      {
-        "first": "ua",
-        "second": "Киргизстан"
-      }
-    ],
-    "visualFormatter": "### ######"
+    "translatedNames": {
+      "en": "Kyrgyzstan",
+      "pl": "Kirgistan",
+      "ua": "Киргизстан"
+    },
+    "visualFormatter": "### ### ###"
   },
   {
     "countryCode": "LA",
     "flag": "🇱🇦",
-    "maxPhoneLength": 8,
+    "maxPhoneLength": 9,
     "minPhoneLength": 8,
     "name": "Laos",
     "prefix": "+856",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Laos"
-      },
-      {
-        "first": "pl",
-        "second": "Laos"
-      },
-      {
-        "first": "ua",
-        "second": "Лаос"
-      }
-    ],
-    "visualFormatter": "## ## ### ###"
+    "translatedNames": {
+      "en": "Laos",
+      "pl": "Laos",
+      "ua": "Лаос"
+    },
+    "visualFormatter": "## ### ###"
   },
   {
     "countryCode": "LV",
@@ -2536,44 +1504,26 @@
     "minPhoneLength": 8,
     "name": "Latvia",
     "prefix": "+371",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Latvia"
-      },
-      {
-        "first": "pl",
-        "second": "Łotwa"
-      },
-      {
-        "first": "ua",
-        "second": "Латвія"
-      }
-    ],
-    "visualFormatter": "### #####"
+    "translatedNames": {
+      "en": "Latvia",
+      "pl": "Łotwa",
+      "ua": "Латвія"
+    },
+    "visualFormatter": "## ### ###"
   },
   {
     "countryCode": "LB",
     "flag": "🇱🇧",
     "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "minPhoneLength": 7,
     "name": "Lebanon",
     "prefix": "+961",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Lebanon"
-      },
-      {
-        "first": "pl",
-        "second": "Liban"
-      },
-      {
-        "first": "ua",
-        "second": "Ліван"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Lebanon",
+      "pl": "Liban",
+      "ua": "Ліван"
+    },
+    "visualFormatter": "# ### ###"
   },
   {
     "countryCode": "LS",
@@ -2582,90 +1532,54 @@
     "minPhoneLength": 8,
     "name": "Lesotho",
     "prefix": "+266",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Lesotho"
-      },
-      {
-        "first": "pl",
-        "second": "Lesotho"
-      },
-      {
-        "first": "ua",
-        "second": "Лесото"
-      }
-    ],
-    "visualFormatter": "## ### ###"
+    "translatedNames": {
+      "en": "Lesotho",
+      "pl": "Lesotho",
+      "ua": "Лесото"
+    },
+    "visualFormatter": "# ### ####"
   },
   {
     "countryCode": "LR",
     "flag": "🇱🇷",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 8,
     "name": "Liberia",
     "prefix": "+231",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Liberia"
-      },
-      {
-        "first": "pl",
-        "second": "Liberia"
-      },
-      {
-        "first": "ua",
-        "second": "Ліберія"
-      }
-    ],
-    "visualFormatter": "## ### ####"
+    "translatedNames": {
+      "en": "Liberia",
+      "pl": "Liberia",
+      "ua": "Ліберія"
+    },
+    "visualFormatter": "## ### ###"
   },
   {
     "countryCode": "LY",
     "flag": "🇱🇾",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
     "name": "Libya",
     "prefix": "+218",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Libya"
-      },
-      {
-        "first": "pl",
-        "second": "Libia"
-      },
-      {
-        "first": "ua",
-        "second": "Лівія"
-      }
-    ],
-    "visualFormatter": "## ### ####"
+    "translatedNames": {
+      "en": "Libya",
+      "pl": "Libia",
+      "ua": "Лівія"
+    },
+    "visualFormatter": "### ####"
   },
   {
     "countryCode": "LI",
     "flag": "🇱🇮",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
     "name": "Liechtenstein",
     "prefix": "+423",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Liechtenstein"
-      },
-      {
-        "first": "pl",
-        "second": "Liechtenstein"
-      },
-      {
-        "first": "ua",
-        "second": "Ліхтенштейн"
-      }
-    ],
-    "visualFormatter": "### ####"
+    "translatedNames": {
+      "en": "Liechtenstein",
+      "pl": "Liechtenstein",
+      "ua": "Ліхтенштейн"
+    },
+    "visualFormatter": "### ### ####"
   },
   {
     "countryCode": "LT",
@@ -2674,21 +1588,12 @@
     "minPhoneLength": 8,
     "name": "Lithuania",
     "prefix": "+370",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Lithuania"
-      },
-      {
-        "first": "pl",
-        "second": "Litwa"
-      },
-      {
-        "first": "ua",
-        "second": "Литва"
-      }
-    ],
-    "visualFormatter": "### #####"
+    "translatedNames": {
+      "en": "Lithuania",
+      "pl": "Litwa",
+      "ua": "Литва"
+    },
+    "visualFormatter": "### ## ###"
   },
   {
     "countryCode": "LU",
@@ -2697,136 +1602,68 @@
     "minPhoneLength": 9,
     "name": "Luxembourg",
     "prefix": "+352",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Luxembourg"
-      },
-      {
-        "first": "pl",
-        "second": "Luksemburg"
-      },
-      {
-        "first": "ua",
-        "second": "Люксембург"
-      }
-    ],
+    "translatedNames": {
+      "en": "Luxembourg",
+      "pl": "Luksemburg",
+      "ua": "Люксембург"
+    },
     "visualFormatter": "### ### ###"
   },
   {
     "countryCode": "MO",
     "flag": "🇲🇴",
-    "maxPhoneLength": 7,
+    "maxPhoneLength": 8,
     "minPhoneLength": 8,
     "name": "Macau",
     "prefix": "+853",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Macau"
-      },
-      {
-        "first": "pl",
-        "second": "Makau"
-      },
-      {
-        "first": "ua",
-        "second": "Макао"
-      }
-    ],
+    "translatedNames": {
+      "en": "Macau",
+      "pl": "Makau",
+      "ua": "Макао"
+    },
     "visualFormatter": "#### ####"
-  },
-  {
-    "countryCode": "MK",
-    "flag": "🇲🇰",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
-    "name": "Macedonia",
-    "prefix": "+389",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "North Macedonia"
-      },
-      {
-        "first": "pl",
-        "second": "Północna Macedonia"
-      },
-      {
-        "first": "ua",
-        "second": "Північна Македонія"
-      }
-    ],
-    "visualFormatter": "## ######"
   },
   {
     "countryCode": "MG",
     "flag": "🇲🇬",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
     "name": "Madagascar",
     "prefix": "+261",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Madagascar"
-      },
-      {
-        "first": "pl",
-        "second": "Madagaskar"
-      },
-      {
-        "first": "ua",
-        "second": "Мадагаскар"
-      }
-    ],
-    "visualFormatter": "## ######"
+    "translatedNames": {
+      "en": "Madagascar",
+      "pl": "Madagaskar",
+      "ua": "Мадагаскар"
+    },
+    "visualFormatter": "## ## #####"
   },
   {
     "countryCode": "MW",
     "flag": "🇲🇼",
-    "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 7,
     "name": "Malawi",
     "prefix": "+265",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Malawi"
-      },
-      {
-        "first": "pl",
-        "second": "Malawi"
-      },
-      {
-        "first": "ua",
-        "second": "Малаві"
-      }
-    ],
-    "visualFormatter": "## ## ### ##"
+    "translatedNames": {
+      "en": "Malawi",
+      "pl": "Malawi",
+      "ua": "Малаві"
+    },
+    "visualFormatter": "# #### ####"
   },
   {
     "countryCode": "MY",
     "flag": "🇲🇾",
-    "maxPhoneLength": 10,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
     "name": "Malaysia",
     "prefix": "+60",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Malaysia"
-      },
-      {
-        "first": "pl",
-        "second": "Malezja"
-      },
-      {
-        "first": "ua",
-        "second": "Малайзія"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Malaysia",
+      "pl": "Malezja",
+      "ua": "Малайзія"
+    },
+    "visualFormatter": "# ### ###"
   },
   {
     "countryCode": "MV",
@@ -2835,20 +1672,11 @@
     "minPhoneLength": 7,
     "name": "Maldives",
     "prefix": "+960",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Maldives"
-      },
-      {
-        "first": "pl",
-        "second": "Malediwy"
-      },
-      {
-        "first": "ua",
-        "second": "Мальдіви"
-      }
-    ],
+    "translatedNames": {
+      "en": "Maldives",
+      "pl": "Malediwy",
+      "ua": "Мальдіви"
+    },
     "visualFormatter": "### ####"
   },
   {
@@ -2858,21 +1686,12 @@
     "minPhoneLength": 8,
     "name": "Mali",
     "prefix": "+223",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Mali"
-      },
-      {
-        "first": "pl",
-        "second": "Mali"
-      },
-      {
-        "first": "ua",
-        "second": "Малі"
-      }
-    ],
-    "visualFormatter": "#### ####"
+    "translatedNames": {
+      "en": "Mali",
+      "pl": "Mali",
+      "ua": "Малі"
+    },
+    "visualFormatter": "## ## ####"
   },
   {
     "countryCode": "MT",
@@ -2881,21 +1700,12 @@
     "minPhoneLength": 8,
     "name": "Malta",
     "prefix": "+356",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Malta"
-      },
-      {
-        "first": "pl",
-        "second": "Malta"
-      },
-      {
-        "first": "ua",
-        "second": "Мальта"
-      }
-    ],
-    "visualFormatter": "## ## ## ##"
+    "translatedNames": {
+      "en": "Malta",
+      "pl": "Malta",
+      "ua": "Мальта"
+    },
+    "visualFormatter": "#### ####"
   },
   {
     "countryCode": "MH",
@@ -2904,21 +1714,12 @@
     "minPhoneLength": 7,
     "name": "Marshall Islands",
     "prefix": "+692",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Marshall Islands"
-      },
-      {
-        "first": "pl",
-        "second": "Wyspy Marshalla"
-      },
-      {
-        "first": "ua",
-        "second": "Маршаллові Острови"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Marshall Islands",
+      "pl": "Wyspy Marshalla",
+      "ua": "Маршаллові Острови"
+    },
+    "visualFormatter": "### ####"
   },
   {
     "countryCode": "MQ",
@@ -2927,21 +1728,12 @@
     "minPhoneLength": 9,
     "name": "Martinique",
     "prefix": "+596",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Martinique"
-      },
-      {
-        "first": "pl",
-        "second": "Martynika"
-      },
-      {
-        "first": "ua",
-        "second": "Мартиніка"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Martinique",
+      "pl": "Martynika",
+      "ua": "Мартиніка"
+    },
+    "visualFormatter": "### ## ## ##"
   },
   {
     "countryCode": "MR",
@@ -2950,21 +1742,12 @@
     "minPhoneLength": 8,
     "name": "Mauritania",
     "prefix": "+222",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Mauritania"
-      },
-      {
-        "first": "pl",
-        "second": "Mauretania"
-      },
-      {
-        "first": "ua",
-        "second": "Мавританія"
-      }
-    ],
-    "visualFormatter": "#### ####"
+    "translatedNames": {
+      "en": "Mauritania",
+      "pl": "Mauretania",
+      "ua": "Мавританія"
+    },
+    "visualFormatter": "## ## ####"
   },
   {
     "countryCode": "MU",
@@ -2973,21 +1756,12 @@
     "minPhoneLength": 8,
     "name": "Mauritius",
     "prefix": "+230",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Mauritius"
-      },
-      {
-        "first": "pl",
-        "second": "Mauritius"
-      },
-      {
-        "first": "ua",
-        "second": "Маврикій"
-      }
-    ],
-    "visualFormatter": "#### ####"
+    "translatedNames": {
+      "en": "Mauritius",
+      "pl": "Mauritius",
+      "ua": "Маврикій"
+    },
+    "visualFormatter": "### ####"
   },
   {
     "countryCode": "MX",
@@ -2996,21 +1770,12 @@
     "minPhoneLength": 10,
     "name": "Mexico",
     "prefix": "+52",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Mexico"
-      },
-      {
-        "first": "pl",
-        "second": "Meksyk"
-      },
-      {
-        "first": "ua",
-        "second": "Мексика"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Mexico",
+      "pl": "Meksyk",
+      "ua": "Мексика"
+    },
+    "visualFormatter": "## ## ####"
   },
   {
     "countryCode": "FM",
@@ -3019,21 +1784,12 @@
     "minPhoneLength": 7,
     "name": "Micronesia",
     "prefix": "+691",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Micronesia"
-      },
-      {
-        "first": "pl",
-        "second": "Mikronezja"
-      },
-      {
-        "first": "ua",
-        "second": "Мікронезія"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Micronesia",
+      "pl": "Mikronezja",
+      "ua": "Мікронезія"
+    },
+    "visualFormatter": "### ####"
   },
   {
     "countryCode": "MD",
@@ -3042,21 +1798,12 @@
     "minPhoneLength": 8,
     "name": "Moldova",
     "prefix": "+373",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Moldova"
-      },
-      {
-        "first": "pl",
-        "second": "Mołdawia"
-      },
-      {
-        "first": "ua",
-        "second": "Молдова"
-      }
-    ],
-    "visualFormatter": "## ### ###"
+    "translatedNames": {
+      "en": "Moldova",
+      "pl": "Mołdawia",
+      "ua": "Молдова"
+    },
+    "visualFormatter": "#### ####"
   },
   {
     "countryCode": "MC",
@@ -3065,21 +1812,12 @@
     "minPhoneLength": 8,
     "name": "Monaco",
     "prefix": "+377",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Monaco"
-      },
-      {
-        "first": "pl",
-        "second": "Monako"
-      },
-      {
-        "first": "ua",
-        "second": "Монако"
-      }
-    ],
-    "visualFormatter": "#### ####"
+    "translatedNames": {
+      "en": "Monaco",
+      "pl": "Monako",
+      "ua": "Монако"
+    },
+    "visualFormatter": "## ### ###"
   },
   {
     "countryCode": "MN",
@@ -3088,20 +1826,11 @@
     "minPhoneLength": 8,
     "name": "Mongolia",
     "prefix": "+976",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Mongolia"
-      },
-      {
-        "first": "pl",
-        "second": "Mongolia"
-      },
-      {
-        "first": "ua",
-        "second": "Монголія"
-      }
-    ],
+    "translatedNames": {
+      "en": "Mongolia",
+      "pl": "Mongolia",
+      "ua": "Монголія"
+    },
     "visualFormatter": "## ## ####"
   },
   {
@@ -3111,43 +1840,25 @@
     "minPhoneLength": 8,
     "name": "Montenegro",
     "prefix": "+382",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Montenegro"
-      },
-      {
-        "first": "pl",
-        "second": "Czarnogóra"
-      },
-      {
-        "first": "ua",
-        "second": "Чорногорія"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Montenegro",
+      "pl": "Czarnogóra",
+      "ua": "Чорногорія"
+    },
+    "visualFormatter": "## ### ###"
   },
   {
     "countryCode": "MS",
     "flag": "🇲🇸",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
     "name": "Montserrat",
     "prefix": "+1664",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Montserrat"
-      },
-      {
-        "first": "pl",
-        "second": "Montserat"
-      },
-      {
-        "first": "ua",
-        "second": "Монтсеррат"
-      }
-    ],
+    "translatedNames": {
+      "en": "Montserrat",
+      "pl": "Montserat",
+      "ua": "Монтсеррат"
+    },
     "visualFormatter": "### ####"
   },
   {
@@ -3157,113 +1868,68 @@
     "minPhoneLength": 9,
     "name": "Morocco",
     "prefix": "+212",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Morocco"
-      },
-      {
-        "first": "pl",
-        "second": "Maroko"
-      },
-      {
-        "first": "ua",
-        "second": "Марокко"
-      }
-    ],
-    "visualFormatter": "## ### ####"
+    "translatedNames": {
+      "en": "Morocco",
+      "pl": "Maroko",
+      "ua": "Марокко"
+    },
+    "visualFormatter": "## #### ###"
   },
   {
     "countryCode": "MZ",
     "flag": "🇲🇿",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 12,
+    "minPhoneLength": 12,
     "name": "Mozambique",
     "prefix": "+258",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Mozambique"
-      },
-      {
-        "first": "pl",
-        "second": "Mozambik"
-      },
-      {
-        "first": "ua",
-        "second": "Мозамбік"
-      }
-    ],
-    "visualFormatter": "## ### ####"
+    "translatedNames": {
+      "en": "Mozambique",
+      "pl": "Mozambik",
+      "ua": "Мозамбік"
+    },
+    "visualFormatter": "## ### ###"
   },
   {
     "countryCode": "MM",
     "flag": "🇲🇲",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 0,
+    "minPhoneLength": 0,
     "name": "Myanmar",
     "prefix": "+95",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Myanmar"
-      },
-      {
-        "first": "pl",
-        "second": "Mjanma"
-      },
-      {
-        "first": "ua",
-        "second": "М'янма"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Myanmar",
+      "pl": "Mjanma",
+      "ua": "М'янма"
+    },
+    "visualFormatter": "### ###"
   },
   {
     "countryCode": "NA",
     "flag": "🇳🇦",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
     "name": "Namibia",
     "prefix": "+264",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Namibia"
-      },
-      {
-        "first": "pl",
-        "second": "Namibia"
-      },
-      {
-        "first": "ua",
-        "second": "Намібія"
-      }
-    ],
+    "translatedNames": {
+      "en": "Namibia",
+      "pl": "Namibia",
+      "ua": "Намібія"
+    },
     "visualFormatter": "## ### ####"
   },
   {
     "countryCode": "NR",
     "flag": "🇳🇷",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
     "name": "Nauru",
     "prefix": "+674",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Nauru"
-      },
-      {
-        "first": "pl",
-        "second": "Nauru"
-      },
-      {
-        "first": "ua",
-        "second": "Науру"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Nauru",
+      "pl": "Nauru",
+      "ua": "Науру"
+    },
+    "visualFormatter": "### ####"
   },
   {
     "countryCode": "NP",
@@ -3272,21 +1938,12 @@
     "minPhoneLength": 10,
     "name": "Nepal",
     "prefix": "+977",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Nepal"
-      },
-      {
-        "first": "pl",
-        "second": "Nepal"
-      },
-      {
-        "first": "ua",
-        "second": "Непал"
-      }
-    ],
-    "visualFormatter": "## #### ####"
+    "translatedNames": {
+      "en": "Nepal",
+      "pl": "Nepal",
+      "ua": "Непал"
+    },
+    "visualFormatter": "## ### ###"
   },
   {
     "countryCode": "NL",
@@ -3295,21 +1952,12 @@
     "minPhoneLength": 9,
     "name": "Netherlands",
     "prefix": "+31",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Netherlands"
-      },
-      {
-        "first": "pl",
-        "second": "Holandia"
-      },
-      {
-        "first": "ua",
-        "second": "Нідерланди"
-      }
-    ],
-    "visualFormatter": "# ## ## ## ##"
+    "translatedNames": {
+      "en": "Netherlands",
+      "pl": "Holandia",
+      "ua": "Нідерланди"
+    },
+    "visualFormatter": "## ### ####"
   },
   {
     "countryCode": "NC",
@@ -3318,21 +1966,12 @@
     "minPhoneLength": 6,
     "name": "New Caledonia",
     "prefix": "+687",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "New Caledonia"
-      },
-      {
-        "first": "pl",
-        "second": "Nowa Kaledonia"
-      },
-      {
-        "first": "ua",
-        "second": "Нова Каледонія"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "New Caledonia",
+      "pl": "Nowa Kaledonia",
+      "ua": "Нова Каледонія"
+    },
+    "visualFormatter": "## ####"
   },
   {
     "countryCode": "NZ",
@@ -3341,21 +1980,12 @@
     "minPhoneLength": 8,
     "name": "New Zealand",
     "prefix": "+64",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "New Zealand"
-      },
-      {
-        "first": "pl",
-        "second": "Nowa Zelandia"
-      },
-      {
-        "first": "ua",
-        "second": "Нова Зеландія"
-      }
-    ],
-    "visualFormatter": "#### ####"
+    "translatedNames": {
+      "en": "New Zealand",
+      "pl": "Nowa Zelandia",
+      "ua": "Нова Зеландія"
+    },
+    "visualFormatter": "### ### ####"
   },
   {
     "countryCode": "NI",
@@ -3364,20 +1994,11 @@
     "minPhoneLength": 8,
     "name": "Nicaragua",
     "prefix": "+505",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Nicaragua"
-      },
-      {
-        "first": "pl",
-        "second": "Nikaragua"
-      },
-      {
-        "first": "ua",
-        "second": "Нікарагуа"
-      }
-    ],
+    "translatedNames": {
+      "en": "Nicaragua",
+      "pl": "Nikaragua",
+      "ua": "Нікарагуа"
+    },
     "visualFormatter": "#### ####"
   },
   {
@@ -3387,44 +2008,54 @@
     "minPhoneLength": 8,
     "name": "Niger",
     "prefix": "+227",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Niger"
-      },
-      {
-        "first": "pl",
-        "second": "Niger"
-      },
-      {
-        "first": "ua",
-        "second": "Нігер"
-      }
-    ],
-    "visualFormatter": "## ## ## ##"
+    "translatedNames": {
+      "en": "Niger",
+      "pl": "Niger",
+      "ua": "Нігер"
+    },
+    "visualFormatter": "## ## ####"
   },
   {
     "countryCode": "NG",
     "flag": "🇳🇬",
-    "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
     "name": "Nigeria",
     "prefix": "+234",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Nigeria"
-      },
-      {
-        "first": "pl",
-        "second": "Nigeria"
-      },
-      {
-        "first": "ua",
-        "second": "Нігерія"
-      }
-    ],
-    "visualFormatter": "## #### ####"
+    "translatedNames": {
+      "en": "Nigeria",
+      "pl": "Nigeria",
+      "ua": "Нігерія"
+    },
+    "visualFormatter": "### ### ####"
+  },
+  {
+    "countryCode": "KP",
+    "flag": "🇰🇵",
+    "maxPhoneLength": 13,
+    "minPhoneLength": 4,
+    "name": "North Korea",
+    "prefix": "+850",
+    "translatedNames": {
+      "en": "North Korea",
+      "pl": "Korea Północna",
+      "ua": "Північна Корея"
+    },
+    "visualFormatter": "#### #############"
+  },
+  {
+    "countryCode": "MK",
+    "flag": "🇲🇰",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Macedonia",
+    "prefix": "+389",
+    "translatedNames": {
+      "en": "North Macedonia",
+      "pl": "Północna Macedonia",
+      "ua": "Північна Македонія"
+    },
+    "visualFormatter": "## ### ###"
   },
   {
     "countryCode": "NO",
@@ -3433,20 +2064,11 @@
     "minPhoneLength": 8,
     "name": "Norway",
     "prefix": "+47",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Norway"
-      },
-      {
-        "first": "pl",
-        "second": "Norwegia"
-      },
-      {
-        "first": "ua",
-        "second": "Норвегія"
-      }
-    ],
+    "translatedNames": {
+      "en": "Norway",
+      "pl": "Norwegia",
+      "ua": "Норвегія"
+    },
     "visualFormatter": "### ## ###"
   },
   {
@@ -3456,21 +2078,12 @@
     "minPhoneLength": 8,
     "name": "Oman",
     "prefix": "+968",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Oman"
-      },
-      {
-        "first": "pl",
-        "second": "Oman"
-      },
-      {
-        "first": "ua",
-        "second": "Оман"
-      }
-    ],
-    "visualFormatter": "#### ####"
+    "translatedNames": {
+      "en": "Oman",
+      "pl": "Oman",
+      "ua": "Оман"
+    },
+    "visualFormatter": "## ### ###"
   },
   {
     "countryCode": "PK",
@@ -3479,20 +2092,11 @@
     "minPhoneLength": 10,
     "name": "Pakistan",
     "prefix": "+92",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Pakistan"
-      },
-      {
-        "first": "pl",
-        "second": "Pakistan"
-      },
-      {
-        "first": "ua",
-        "second": "Пакистан"
-      }
-    ],
+    "translatedNames": {
+      "en": "Pakistan",
+      "pl": "Pakistan",
+      "ua": "Пакистан"
+    },
     "visualFormatter": "### ### ####"
   },
   {
@@ -3502,21 +2106,12 @@
     "minPhoneLength": 7,
     "name": "Palau",
     "prefix": "+680",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Palau"
-      },
-      {
-        "first": "pl",
-        "second": "Palau"
-      },
-      {
-        "first": "ua",
-        "second": "Палау"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Palau",
+      "pl": "Palau",
+      "ua": "Палау"
+    },
+    "visualFormatter": "### ####"
   },
   {
     "countryCode": "PS",
@@ -3525,67 +2120,40 @@
     "minPhoneLength": 9,
     "name": "Palestine",
     "prefix": "+970",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Palestine"
-      },
-      {
-        "first": "pl",
-        "second": "Palestyna"
-      },
-      {
-        "first": "ua",
-        "second": "Палестина"
-      }
-    ],
-    "visualFormatter": "### ## ####"
+    "translatedNames": {
+      "en": "Palestine",
+      "pl": "Palestyna",
+      "ua": "Палестина"
+    },
+    "visualFormatter": "## ### ####"
   },
   {
     "countryCode": "PA",
     "flag": "🇵🇦",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
     "name": "Panama",
     "prefix": "+507",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Panama"
-      },
-      {
-        "first": "pl",
-        "second": "Panama"
-      },
-      {
-        "first": "ua",
-        "second": "Панама"
-      }
-    ],
-    "visualFormatter": "#### ####"
+    "translatedNames": {
+      "en": "Panama",
+      "pl": "Panama",
+      "ua": "Панама"
+    },
+    "visualFormatter": "### ####"
   },
   {
     "countryCode": "PG",
     "flag": "🇵🇬",
-    "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
     "name": "Papua New Guinea",
     "prefix": "+675",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Papua New Guinea"
-      },
-      {
-        "first": "pl",
-        "second": "Papua-Nowa Gwinea"
-      },
-      {
-        "first": "ua",
-        "second": "Папуа-Нова Гвінея"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Papua New Guinea",
+      "pl": "Papua-Nowa Gwinea",
+      "ua": "Папуа-Нова Гвінея"
+    },
+    "visualFormatter": "### ## ###"
   },
   {
     "countryCode": "PY",
@@ -3594,20 +2162,11 @@
     "minPhoneLength": 9,
     "name": "Paraguay",
     "prefix": "+595",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Paraguay"
-      },
-      {
-        "first": "pl",
-        "second": "Paragwaj"
-      },
-      {
-        "first": "ua",
-        "second": "Парагвай"
-      }
-    ],
+    "translatedNames": {
+      "en": "Paraguay",
+      "pl": "Paragwaj",
+      "ua": "Парагвай"
+    },
     "visualFormatter": "### ### ###"
   },
   {
@@ -3617,20 +2176,11 @@
     "minPhoneLength": 9,
     "name": "Peru",
     "prefix": "+51",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Peru"
-      },
-      {
-        "first": "pl",
-        "second": "Peru"
-      },
-      {
-        "first": "ua",
-        "second": "Перу"
-      }
-    ],
+    "translatedNames": {
+      "en": "Peru",
+      "pl": "Peru",
+      "ua": "Перу"
+    },
     "visualFormatter": "### ### ###"
   },
   {
@@ -3640,20 +2190,11 @@
     "minPhoneLength": 10,
     "name": "Philippines",
     "prefix": "+63",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Philippines"
-      },
-      {
-        "first": "pl",
-        "second": "Filipiny"
-      },
-      {
-        "first": "ua",
-        "second": "Філіппіни"
-      }
-    ],
+    "translatedNames": {
+      "en": "Philippines",
+      "pl": "Filipiny",
+      "ua": "Філіппіни"
+    },
     "visualFormatter": "### ### ####"
   },
   {
@@ -3663,20 +2204,11 @@
     "minPhoneLength": 9,
     "name": "Poland",
     "prefix": "+48",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Poland"
-      },
-      {
-        "first": "pl",
-        "second": "Polska"
-      },
-      {
-        "first": "ua",
-        "second": "Польща"
-      }
-    ],
+    "translatedNames": {
+      "en": "Poland",
+      "pl": "Polska",
+      "ua": "Польща"
+    },
     "visualFormatter": "### ### ###"
   },
   {
@@ -3686,44 +2218,26 @@
     "minPhoneLength": 9,
     "name": "Portugal",
     "prefix": "+351",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Portugal"
-      },
-      {
-        "first": "pl",
-        "second": "Portugalia"
-      },
-      {
-        "first": "ua",
-        "second": "Португалія"
-      }
-    ],
-    "visualFormatter": "### ### ###"
+    "translatedNames": {
+      "en": "Portugal",
+      "pl": "Portugalia",
+      "ua": "Португалія"
+    },
+    "visualFormatter": "## ### ####"
   },
   {
     "countryCode": "PR",
     "flag": "🇵🇷",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
     "name": "Puerto Rico",
     "prefix": "+1939",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Puerto Rico"
-      },
-      {
-        "first": "pl",
-        "second": "Portoryko"
-      },
-      {
-        "first": "ua",
-        "second": "Пуерто-Рико"
-      }
-    ],
-    "visualFormatter": "### ####"
+    "translatedNames": {
+      "en": "Puerto Rico",
+      "pl": "Portoryko",
+      "ua": "Пуерто-Рико"
+    },
+    "visualFormatter": ""
   },
   {
     "countryCode": "QA",
@@ -3732,21 +2246,12 @@
     "minPhoneLength": 8,
     "name": "Qatar",
     "prefix": "+974",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Qatar"
-      },
-      {
-        "first": "pl",
-        "second": "Katar"
-      },
-      {
-        "first": "ua",
-        "second": "Катар"
-      }
-    ],
-    "visualFormatter": "## ### ###"
+    "translatedNames": {
+      "en": "Qatar",
+      "pl": "Katar",
+      "ua": "Катар"
+    },
+    "visualFormatter": "#### ####"
   },
   {
     "countryCode": "RO",
@@ -3755,21 +2260,12 @@
     "minPhoneLength": 10,
     "name": "Romania",
     "prefix": "+40",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Romania"
-      },
-      {
-        "first": "pl",
-        "second": "Rumunia"
-      },
-      {
-        "first": "ua",
-        "second": "Румунія"
-      }
-    ],
-    "visualFormatter": "### ### ###"
+    "translatedNames": {
+      "en": "Romania",
+      "pl": "Rumunia",
+      "ua": "Румунія"
+    },
+    "visualFormatter": "## ### ####"
   },
   {
     "countryCode": "RU",
@@ -3778,21 +2274,12 @@
     "minPhoneLength": 10,
     "name": "Russia",
     "prefix": "+7",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Russia"
-      },
-      {
-        "first": "pl",
-        "second": "Rosja"
-      },
-      {
-        "first": "ua",
-        "second": "Росія"
-      }
-    ],
-    "visualFormatter": "### ### ####"
+    "translatedNames": {
+      "en": "Russia",
+      "pl": "Rosja",
+      "ua": "Росія"
+    },
+    "visualFormatter": "### ### ## ##"
   },
   {
     "countryCode": "RW",
@@ -3801,43 +2288,25 @@
     "minPhoneLength": 9,
     "name": "Rwanda",
     "prefix": "+250",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Rwanda"
-      },
-      {
-        "first": "pl",
-        "second": "Rwanda"
-      },
-      {
-        "first": "ua",
-        "second": "Руанда"
-      }
-    ],
+    "translatedNames": {
+      "en": "Rwanda",
+      "pl": "Rwanda",
+      "ua": "Руанда"
+    },
     "visualFormatter": "### ### ###"
   },
   {
     "countryCode": "KN",
     "flag": "🇰🇳",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
-    "name": "Saint Kitts & Nevis",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Saint Kitts and Nevis",
     "prefix": "+1869",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Saint Kitts and Nevis"
-      },
-      {
-        "first": "pl",
-        "second": "Saint Kitts i Nevis"
-      },
-      {
-        "first": "ua",
-        "second": "Сент-Кітс і Невіс"
-      }
-    ],
+    "translatedNames": {
+      "en": "Saint Kitts and Nevis",
+      "pl": "Saint Kitts i Nevis",
+      "ua": "Сент-Кітс і Невіс"
+    },
     "visualFormatter": "### ####"
   },
   {
@@ -3847,20 +2316,11 @@
     "minPhoneLength": 7,
     "name": "Saint Lucia",
     "prefix": "+1758",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Saint Lucia"
-      },
-      {
-        "first": "pl",
-        "second": "Saint Lucia"
-      },
-      {
-        "first": "ua",
-        "second": "Сент-Люсія"
-      }
-    ],
+    "translatedNames": {
+      "en": "Saint Lucia",
+      "pl": "Saint Lucia",
+      "ua": "Сент-Люсія"
+    },
     "visualFormatter": "### ####"
   },
   {
@@ -3868,91 +2328,55 @@
     "flag": "🇻🇨",
     "maxPhoneLength": 7,
     "minPhoneLength": 7,
-    "name": "Saint Vincent & the Grenadines",
+    "name": "Saint Vincent and the Grenadines",
     "prefix": "+1784",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Saint Vincent and the Grenadines"
-      },
-      {
-        "first": "pl",
-        "second": "Saint Vincent i Grenadyny"
-      },
-      {
-        "first": "ua",
-        "second": "Сент-Вінсент і Гренадини"
-      }
-    ],
+    "translatedNames": {
+      "en": "Saint Vincent and the Grenadines",
+      "pl": "Saint Vincent i Grenadyny",
+      "ua": "Сент-Вінсент і Гренадини"
+    },
     "visualFormatter": "### ####"
   },
   {
     "countryCode": "WS",
     "flag": "🇼🇸",
     "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "minPhoneLength": 5,
     "name": "Samoa",
     "prefix": "+685",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Samoa"
-      },
-      {
-        "first": "pl",
-        "second": "Samoa"
-      },
-      {
-        "first": "ua",
-        "second": "Самоа"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Samoa",
+      "pl": "Samoa",
+      "ua": "Самоа"
+    },
+    "visualFormatter": "## ####"
   },
   {
     "countryCode": "SM",
     "flag": "🇸🇲",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
     "name": "San Marino",
     "prefix": "+378",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "San Marino"
-      },
-      {
-        "first": "pl",
-        "second": "San Marino"
-      },
-      {
-        "first": "ua",
-        "second": "Сан-Марино"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "San Marino",
+      "pl": "San Marino",
+      "ua": "Сан-Марино"
+    },
+    "visualFormatter": "#### ######"
   },
   {
     "countryCode": "ST",
     "flag": "🇸🇹",
     "maxPhoneLength": 7,
     "minPhoneLength": 7,
-    "name": "Sao Tome & Principe",
+    "name": "Sao Tome and Principe",
     "prefix": "+239",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Sao Tome and Principe"
-      },
-      {
-        "first": "pl",
-        "second": "Wyspy Świętego Tomasza i Książęca"
-      },
-      {
-        "first": "ua",
-        "second": "Сент-Томе і Принсіпі"
-      }
-    ],
+    "translatedNames": {
+      "en": "Sao Tome and Principe",
+      "pl": "Wyspy Świętego Tomasza i Książęca",
+      "ua": "Сент-Томе і Принсіпі"
+    },
     "visualFormatter": "## #####"
   },
   {
@@ -3962,21 +2386,12 @@
     "minPhoneLength": 9,
     "name": "Saudi Arabia",
     "prefix": "+966",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Saudi Arabia"
-      },
-      {
-        "first": "pl",
-        "second": "Arabia Saudyjska"
-      },
-      {
-        "first": "ua",
-        "second": "Саудівська Аравія"
-      }
-    ],
-    "visualFormatter": "## ### ####"
+    "translatedNames": {
+      "en": "Saudi Arabia",
+      "pl": "Arabia Saudyjska",
+      "ua": "Саудівська Аравія"
+    },
+    "visualFormatter": "# ### ####"
   },
   {
     "countryCode": "SN",
@@ -3985,20 +2400,11 @@
     "minPhoneLength": 9,
     "name": "Senegal",
     "prefix": "+221",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Senegal"
-      },
-      {
-        "first": "pl",
-        "second": "Senegal"
-      },
-      {
-        "first": "ua",
-        "second": "Сенегал"
-      }
-    ],
+    "translatedNames": {
+      "en": "Senegal",
+      "pl": "Senegal",
+      "ua": "Сенегал"
+    },
     "visualFormatter": "## ### ####"
   },
   {
@@ -4008,21 +2414,12 @@
     "minPhoneLength": 9,
     "name": "Serbia",
     "prefix": "+381",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Serbia"
-      },
-      {
-        "first": "pl",
-        "second": "Serbia"
-      },
-      {
-        "first": "ua",
-        "second": "Сербія"
-      }
-    ],
-    "visualFormatter": "## ### ###"
+    "translatedNames": {
+      "en": "Serbia",
+      "pl": "Serbia",
+      "ua": "Сербія"
+    },
+    "visualFormatter": "## ### ####"
   },
   {
     "countryCode": "SC",
@@ -4031,21 +2428,12 @@
     "minPhoneLength": 7,
     "name": "Seychelles",
     "prefix": "+248",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Seychelles"
-      },
-      {
-        "first": "pl",
-        "second": "Seszele"
-      },
-      {
-        "first": "ua",
-        "second": "Сейшельські Острови"
-      }
-    ],
-    "visualFormatter": "# ## ## ##"
+    "translatedNames": {
+      "en": "Seychelles",
+      "pl": "Seszele",
+      "ua": "Сейшельські Острови"
+    },
+    "visualFormatter": "# ### ###"
   },
   {
     "countryCode": "SL",
@@ -4054,21 +2442,12 @@
     "minPhoneLength": 8,
     "name": "Sierra Leone",
     "prefix": "+232",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Sierra Leone"
-      },
-      {
-        "first": "pl",
-        "second": "Sierra Leone"
-      },
-      {
-        "first": "ua",
-        "second": "Сьєрра-Леоне"
-      }
-    ],
-    "visualFormatter": "## ### ###"
+    "translatedNames": {
+      "en": "Sierra Leone",
+      "pl": "Sierra Leone",
+      "ua": "Сьєрра-Леоне"
+    },
+    "visualFormatter": "## ######"
   },
   {
     "countryCode": "SG",
@@ -4077,66 +2456,39 @@
     "minPhoneLength": 8,
     "name": "Singapore",
     "prefix": "+65",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Singapore"
-      },
-      {
-        "first": "pl",
-        "second": "Singapur"
-      },
-      {
-        "first": "ua",
-        "second": "Сінгапур"
-      }
-    ],
+    "translatedNames": {
+      "en": "Singapore",
+      "pl": "Singapur",
+      "ua": "Сінгапур"
+    },
     "visualFormatter": "#### ####"
   },
   {
     "countryCode": "SK",
     "flag": "🇸🇰",
-    "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
     "name": "Slovakia",
     "prefix": "+421",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Slovakia"
-      },
-      {
-        "first": "pl",
-        "second": "Słowacja"
-      },
-      {
-        "first": "ua",
-        "second": "Словаччина"
-      }
-    ],
+    "translatedNames": {
+      "en": "Slovakia",
+      "pl": "Słowacja",
+      "ua": "Словаччина"
+    },
     "visualFormatter": "### ### ###"
   },
   {
     "countryCode": "SI",
     "flag": "🇸🇮",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
     "name": "Slovenia",
     "prefix": "+386",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Slovenia"
-      },
-      {
-        "first": "pl",
-        "second": "Słowenia"
-      },
-      {
-        "first": "ua",
-        "second": "Словенія"
-      }
-    ],
+    "translatedNames": {
+      "en": "Slovenia",
+      "pl": "Słowenia",
+      "ua": "Словенія"
+    },
     "visualFormatter": "## ### ###"
   },
   {
@@ -4146,44 +2498,26 @@
     "minPhoneLength": 7,
     "name": "Solomon Islands",
     "prefix": "+677",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Solomon Islands"
-      },
-      {
-        "first": "pl",
-        "second": "Wyspy Salomona"
-      },
-      {
-        "first": "ua",
-        "second": "Соломонові Острови"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Solomon Islands",
+      "pl": "Wyspy Salomona",
+      "ua": "Соломонові Острови"
+    },
+    "visualFormatter": "#####"
   },
   {
     "countryCode": "SO",
     "flag": "🇸🇴",
     "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "minPhoneLength": 8,
     "name": "Somalia",
     "prefix": "+252",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Somalia"
-      },
-      {
-        "first": "pl",
-        "second": "Somalia"
-      },
-      {
-        "first": "ua",
-        "second": "Сомалі"
-      }
-    ],
-    "visualFormatter": "## ### ###"
+    "translatedNames": {
+      "en": "Somalia",
+      "pl": "Somalia",
+      "ua": "Сомалі"
+    },
+    "visualFormatter": "# ### ###"
   },
   {
     "countryCode": "ZA",
@@ -4192,43 +2526,39 @@
     "minPhoneLength": 9,
     "name": "South Africa",
     "prefix": "+27",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "South Africa"
-      },
-      {
-        "first": "pl",
-        "second": "Południowa Afryka"
-      },
-      {
-        "first": "ua",
-        "second": "Південноафриканська Республіка"
-      }
-    ],
+    "translatedNames": {
+      "en": "South Africa",
+      "pl": "Południowa Afryka",
+      "ua": "Південноафриканська Республіка"
+    },
+    "visualFormatter": "## ### ####"
+  },
+  {
+    "countryCode": "KR",
+    "flag": "🇰🇷",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 7,
+    "name": "South Korea",
+    "prefix": "+82",
+    "translatedNames": {
+      "en": "South Korea",
+      "pl": "Korea Południowa",
+      "ua": "Південна Корея"
+    },
     "visualFormatter": "## ### ####"
   },
   {
     "countryCode": "SS",
     "flag": "🇸🇸",
-    "maxPhoneLength": 17,
-    "minPhoneLength": 17,
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
     "name": "South Sudan",
     "prefix": "+211",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "South Sudan"
-      },
-      {
-        "first": "pl",
-        "second": "Sudan Południowy"
-      },
-      {
-        "first": "ua",
-        "second": "Південний Судан"
-      }
-    ],
+    "translatedNames": {
+      "en": "South Sudan",
+      "pl": "Sudan Południowy",
+      "ua": "Південний Судан"
+    },
     "visualFormatter": "## ### ####"
   },
   {
@@ -4238,112 +2568,81 @@
     "minPhoneLength": 9,
     "name": "Spain",
     "prefix": "+34",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Spain"
-      },
-      {
-        "first": "pl",
-        "second": "Hiszpania"
-      },
-      {
-        "first": "ua",
-        "second": "Іспанія"
-      }
-    ],
+    "translatedNames": {
+      "en": "Spain",
+      "pl": "Hiszpania",
+      "ua": "Іспанія"
+    },
     "visualFormatter": "### ### ###"
   },
   {
     "countryCode": "LK",
     "flag": "🇱🇰",
-    "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
     "name": "Sri Lanka",
     "prefix": "+94",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Sri Lanka"
-      },
-      {
-        "first": "pl",
-        "second": "Sri Lanka"
-      },
-      {
-        "first": "ua",
-        "second": "Шрі-Ланка"
-      }
-    ],
+    "translatedNames": {
+      "en": "Sri Lanka",
+      "pl": "Sri Lanka",
+      "ua": "Шрі-Ланка"
+    },
     "visualFormatter": "## ### ####"
   },
   {
     "countryCode": "SD",
     "flag": "🇸🇩",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
     "name": "Sudan",
     "prefix": "+249",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Sudan"
-      },
-      {
-        "first": "pl",
-        "second": "Sudan"
-      },
-      {
-        "first": "ua",
-        "second": "Судан"
-      }
-    ],
+    "translatedNames": {
+      "en": "Sudan",
+      "pl": "Sudan",
+      "ua": "Судан"
+    },
     "visualFormatter": "## ### ####"
   },
   {
     "countryCode": "SR",
     "flag": "🇸🇷",
     "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "minPhoneLength": 6,
     "name": "Suriname",
     "prefix": "+597",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Suriname"
-      },
-      {
-        "first": "pl",
-        "second": "Surinam"
-      },
-      {
-        "first": "ua",
-        "second": "Суринам"
-      }
-    ],
-    "visualFormatter": "### ####"
+    "translatedNames": {
+      "en": "Suriname",
+      "pl": "Surinam",
+      "ua": "Суринам"
+    },
+    "visualFormatter": "### ###"
+  },
+  {
+    "countryCode": "SZ",
+    "flag": "🇸🇿",
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
+    "name": "Eswatini",
+    "prefix": "+268",
+    "translatedNames": {
+      "en": "Eswatini",
+      "pl": "Eswatini",
+      "ua": "Есватіні"
+    },
+    "visualFormatter": "## ## ####"
   },
   {
     "countryCode": "SE",
     "flag": "🇸🇪",
-    "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
     "name": "Sweden",
     "prefix": "+46",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Sweden"
-      },
-      {
-        "first": "pl",
-        "second": "Szwecja"
-      },
-      {
-        "first": "ua",
-        "second": "Швеція"
-      }
-    ],
+    "translatedNames": {
+      "en": "Sweden",
+      "pl": "Szwecja",
+      "ua": "Швеція"
+    },
     "visualFormatter": "## ### ####"
   },
   {
@@ -4353,67 +2652,40 @@
     "minPhoneLength": 9,
     "name": "Switzerland",
     "prefix": "+41",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Switzerland"
-      },
-      {
-        "first": "pl",
-        "second": "Szwajcaria"
-      },
-      {
-        "first": "ua",
-        "second": "Швейцарія"
-      }
-    ],
+    "translatedNames": {
+      "en": "Switzerland",
+      "pl": "Szwajcaria",
+      "ua": "Швейцарія"
+    },
     "visualFormatter": "## ### ####"
   },
   {
     "countryCode": "SY",
     "flag": "🇸🇾",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
     "name": "Syria",
     "prefix": "+963",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Syria"
-      },
-      {
-        "first": "pl",
-        "second": "Syria"
-      },
-      {
-        "first": "ua",
-        "second": "Сирія"
-      }
-    ],
-    "visualFormatter": "### ### ###"
+    "translatedNames": {
+      "en": "Syria",
+      "pl": "Syria",
+      "ua": "Сирія"
+    },
+    "visualFormatter": "## #### ###"
   },
   {
     "countryCode": "TW",
     "flag": "🇹🇼",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
     "name": "Taiwan",
     "prefix": "+886",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Taiwan"
-      },
-      {
-        "first": "pl",
-        "second": "Tajwan"
-      },
-      {
-        "first": "ua",
-        "second": "Тайвань"
-      }
-    ],
-    "visualFormatter": "### ### ###"
+    "translatedNames": {
+      "en": "Taiwan",
+      "pl": "Tajwan",
+      "ua": "Тайвань"
+    },
+    "visualFormatter": "#### ####"
   },
   {
     "countryCode": "TJ",
@@ -4422,43 +2694,25 @@
     "minPhoneLength": 9,
     "name": "Tajikistan",
     "prefix": "+992",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Tajikistan"
-      },
-      {
-        "first": "pl",
-        "second": "Tadżykistan"
-      },
-      {
-        "first": "ua",
-        "second": "Таджикистан"
-      }
-    ],
+    "translatedNames": {
+      "en": "Tajikistan",
+      "pl": "Tadżykistan",
+      "ua": "Таджикистан"
+    },
     "visualFormatter": "## ### ####"
   },
   {
     "countryCode": "TZ",
     "flag": "🇹🇿",
-    "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
     "name": "Tanzania",
     "prefix": "+255",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Tanzania"
-      },
-      {
-        "first": "pl",
-        "second": "Tanzania"
-      },
-      {
-        "first": "ua",
-        "second": "Танзанія"
-      }
-    ],
+    "translatedNames": {
+      "en": "Tanzania",
+      "pl": "Tanzania",
+      "ua": "Танзанія"
+    },
     "visualFormatter": "## ### ####"
   },
   {
@@ -4468,44 +2722,26 @@
     "minPhoneLength": 9,
     "name": "Thailand",
     "prefix": "+66",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Thailand"
-      },
-      {
-        "first": "pl",
-        "second": "Tajlandia"
-      },
-      {
-        "first": "ua",
-        "second": "Таїланд"
-      }
-    ],
-    "visualFormatter": "# #### ####"
+    "translatedNames": {
+      "en": "Thailand",
+      "pl": "Tajlandia",
+      "ua": "Таїланд"
+    },
+    "visualFormatter": "## ### ###"
   },
   {
-    "countryCode": "TL",
-    "flag": "🇹🇱",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
-    "name": "Timor-Leste",
-    "prefix": "+670",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Timor-Leste"
-      },
-      {
-        "first": "pl",
-        "second": "Timor-Leste"
-      },
-      {
-        "first": "ua",
-        "second": "Тімор-Лешті"
-      }
-    ],
-    "visualFormatter": "#"
+    "countryCode": "BS",
+    "flag": "🇧🇸",
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
+    "name": "Bahamas",
+    "prefix": "+1242",
+    "translatedNames": {
+      "en": "Bahamas",
+      "pl": "Bahamy",
+      "ua": "Багамські Острови"
+    },
+    "visualFormatter": "### ####"
   },
   {
     "countryCode": "TG",
@@ -4514,66 +2750,39 @@
     "minPhoneLength": 8,
     "name": "Togo",
     "prefix": "+228",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Togo"
-      },
-      {
-        "first": "pl",
-        "second": "Togo"
-      },
-      {
-        "first": "ua",
-        "second": "Того"
-      }
-    ],
+    "translatedNames": {
+      "en": "Togo",
+      "pl": "Togo",
+      "ua": "Того"
+    },
     "visualFormatter": "## ### ###"
   },
   {
     "countryCode": "TO",
     "flag": "🇹🇴",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 5,
+    "minPhoneLength": 5,
     "name": "Tonga",
     "prefix": "+676",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Tonga"
-      },
-      {
-        "first": "pl",
-        "second": "Tonga"
-      },
-      {
-        "first": "ua",
-        "second": "Тонга"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Tonga",
+      "pl": "Tonga",
+      "ua": "Тонга"
+    },
+    "visualFormatter": "#####"
   },
   {
     "countryCode": "TT",
     "flag": "🇹🇹",
     "maxPhoneLength": 7,
     "minPhoneLength": 7,
-    "name": "Trinidad & Tobago",
+    "name": "Trinidad and Tobago",
     "prefix": "+1868",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Trinidad and Tobago"
-      },
-      {
-        "first": "pl",
-        "second": "Trynidad i Tobago"
-      },
-      {
-        "first": "ua",
-        "second": "Тринідад і Тобаго"
-      }
-    ],
+    "translatedNames": {
+      "en": "Trinidad and Tobago",
+      "pl": "Trynidad i Tobago",
+      "ua": "Тринідад і Тобаго"
+    },
     "visualFormatter": "### ####"
   },
   {
@@ -4583,113 +2792,68 @@
     "minPhoneLength": 8,
     "name": "Tunisia",
     "prefix": "+216",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Tunisia"
-      },
-      {
-        "first": "pl",
-        "second": "Tunezja"
-      },
-      {
-        "first": "ua",
-        "second": "Туніс"
-      }
-    ],
+    "translatedNames": {
+      "en": "Tunisia",
+      "pl": "Tunezja",
+      "ua": "Туніс"
+    },
     "visualFormatter": "## ### ###"
   },
   {
     "countryCode": "TR",
     "flag": "🇹🇷",
-    "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "maxPhoneLength": 11,
+    "minPhoneLength": 11,
     "name": "Turkey",
     "prefix": "+90",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Turkey"
-      },
-      {
-        "first": "pl",
-        "second": "Turcja"
-      },
-      {
-        "first": "ua",
-        "second": "Туреччина"
-      }
-    ],
+    "translatedNames": {
+      "en": "Turkey",
+      "pl": "Turcja",
+      "ua": "Туреччина"
+    },
     "visualFormatter": "### ### ####"
   },
   {
     "countryCode": "TM",
     "flag": "🇹🇲",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
     "name": "Turkmenistan",
     "prefix": "+993",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Turkmenistan"
-      },
-      {
-        "first": "pl",
-        "second": "Turkmenistan"
-      },
-      {
-        "first": "ua",
-        "second": "Туркменістан"
-      }
-    ],
-    "visualFormatter": "## ######"
+    "translatedNames": {
+      "en": "Turkmenistan",
+      "pl": "Turkmenistan",
+      "ua": "Туркменістан"
+    },
+    "visualFormatter": "# ### ####"
   },
   {
     "countryCode": "TV",
     "flag": "🇹🇻",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 5,
+    "minPhoneLength": 5,
     "name": "Tuvalu",
     "prefix": "+688",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Tuvalu"
-      },
-      {
-        "first": "pl",
-        "second": "Tuvalu"
-      },
-      {
-        "first": "ua",
-        "second": "Тувалу"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Tuvalu",
+      "pl": "Tuvalu",
+      "ua": "Тувалу"
+    },
+    "visualFormatter": "####"
   },
   {
     "countryCode": "UG",
     "flag": "🇺🇬",
-    "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
     "name": "Uganda",
     "prefix": "+256",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Uganda"
-      },
-      {
-        "first": "pl",
-        "second": "Uganda"
-      },
-      {
-        "first": "ua",
-        "second": "Уганда"
-      }
-    ],
-    "visualFormatter": "## ### ####"
+    "translatedNames": {
+      "en": "Uganda",
+      "pl": "Uganda",
+      "ua": "Уганда"
+    },
+    "visualFormatter": "### ### ###"
   },
   {
     "countryCode": "UA",
@@ -4698,20 +2862,11 @@
     "minPhoneLength": 9,
     "name": "Ukraine",
     "prefix": "+380",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Ukraine"
-      },
-      {
-        "first": "pl",
-        "second": "Ukraina"
-      },
-      {
-        "first": "ua",
-        "second": "Україна"
-      }
-    ],
+    "translatedNames": {
+      "en": "Ukraine",
+      "pl": "Ukraina",
+      "ua": "Україна"
+    },
     "visualFormatter": "## ### ## ##"
   },
   {
@@ -4721,21 +2876,12 @@
     "minPhoneLength": 9,
     "name": "United Arab Emirates",
     "prefix": "+971",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "United Arab Emirates"
-      },
-      {
-        "first": "pl",
-        "second": "Zjednoczone Emiraty Arabskie"
-      },
-      {
-        "first": "ua",
-        "second": "Об'єднані Арабські Емірати"
-      }
-    ],
-    "visualFormatter": "## ### ####"
+    "translatedNames": {
+      "en": "United Arab Emirates",
+      "pl": "Zjednoczone Emiraty Arabskie",
+      "ua": "Об'єднані Арабські Емірати"
+    },
+    "visualFormatter": "# ### ####"
   },
   {
     "countryCode": "GB",
@@ -4744,21 +2890,12 @@
     "minPhoneLength": 10,
     "name": "United Kingdom",
     "prefix": "+44",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "United Kingdom"
-      },
-      {
-        "first": "pl",
-        "second": "Wielka Brytania"
-      },
-      {
-        "first": "ua",
-        "second": "Великобританія"
-      }
-    ],
-    "visualFormatter": "#### ######"
+    "translatedNames": {
+      "en": "United Kingdom",
+      "pl": "Wielka Brytania",
+      "ua": "Великобританія"
+    },
+    "visualFormatter": ""
   },
   {
     "countryCode": "US",
@@ -4767,20 +2904,11 @@
     "minPhoneLength": 10,
     "name": "USA",
     "prefix": "+1",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "United States"
-      },
-      {
-        "first": "pl",
-        "second": "Stany Zjednoczone"
-      },
-      {
-        "first": "ua",
-        "second": "Сполучені Штати"
-      }
-    ],
+    "translatedNames": {
+      "en": "United States",
+      "pl": "Stany Zjednoczone",
+      "ua": "Сполучені Штати"
+    },
     "visualFormatter": "### ### ####"
   },
   {
@@ -4790,21 +2918,12 @@
     "minPhoneLength": 8,
     "name": "Uruguay",
     "prefix": "+598",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Uruguay"
-      },
-      {
-        "first": "pl",
-        "second": "Urugwaj"
-      },
-      {
-        "first": "ua",
-        "second": "Уругвай"
-      }
-    ],
-    "visualFormatter": "# ### ####"
+    "translatedNames": {
+      "en": "Uruguay",
+      "pl": "Urugwaj",
+      "ua": "Уругвай"
+    },
+    "visualFormatter": "# ### ## ##"
   },
   {
     "countryCode": "UZ",
@@ -4813,66 +2932,39 @@
     "minPhoneLength": 9,
     "name": "Uzbekistan",
     "prefix": "+998",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Uzbekistan"
-      },
-      {
-        "first": "pl",
-        "second": "Uzbekistan"
-      },
-      {
-        "first": "ua",
-        "second": "Узбекистан"
-      }
-    ],
-    "visualFormatter": "## ### ## ##"
+    "translatedNames": {
+      "en": "Uzbekistan",
+      "pl": "Uzbekistan",
+      "ua": "Узбекистан"
+    },
+    "visualFormatter": "## ### ####"
   },
   {
     "countryCode": "VU",
     "flag": "🇻🇺",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 5,
+    "minPhoneLength": 5,
     "name": "Vanuatu",
     "prefix": "+678",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Vanuatu"
-      },
-      {
-        "first": "pl",
-        "second": "Vanuatu"
-      },
-      {
-        "first": "ua",
-        "second": "Вануату"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Vanuatu",
+      "pl": "Vanuatu",
+      "ua": "Вануату"
+    },
+    "visualFormatter": "#####"
   },
   {
     "countryCode": "VE",
     "flag": "🇻🇪",
-    "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
     "name": "Venezuela",
     "prefix": "+58",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Venezuela"
-      },
-      {
-        "first": "pl",
-        "second": "Wenezuela"
-      },
-      {
-        "first": "ua",
-        "second": "Венесуела"
-      }
-    ],
+    "translatedNames": {
+      "en": "Venezuela",
+      "pl": "Wenezuela",
+      "ua": "Венесуела"
+    },
     "visualFormatter": "### ### ####"
   },
   {
@@ -4882,21 +2974,12 @@
     "minPhoneLength": 9,
     "name": "Vietnam",
     "prefix": "+84",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Vietnam"
-      },
-      {
-        "first": "pl",
-        "second": "Wietnam"
-      },
-      {
-        "first": "ua",
-        "second": "В'єтнам"
-      }
-    ],
-    "visualFormatter": "#"
+    "translatedNames": {
+      "en": "Vietnam",
+      "pl": "Wietnam",
+      "ua": "В'єтнам"
+    },
+    "visualFormatter": "### #### ###"
   },
   {
     "countryCode": "YE",
@@ -4905,43 +2988,25 @@
     "minPhoneLength": 9,
     "name": "Yemen",
     "prefix": "+967",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Yemen"
-      },
-      {
-        "first": "pl",
-        "second": "Jemen"
-      },
-      {
-        "first": "ua",
-        "second": "Ємен"
-      }
-    ],
-    "visualFormatter": "### ### ###"
+    "translatedNames": {
+      "en": "Yemen",
+      "pl": "Jemen",
+      "ua": "Ємен"
+    },
+    "visualFormatter": "## ### ###"
   },
   {
     "countryCode": "ZM",
     "flag": "🇿🇲",
-    "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
     "name": "Zambia",
     "prefix": "+260",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Zambia"
-      },
-      {
-        "first": "pl",
-        "second": "Zambia"
-      },
-      {
-        "first": "ua",
-        "second": "Замбія"
-      }
-    ],
+    "translatedNames": {
+      "en": "Zambia",
+      "pl": "Zambia",
+      "ua": "Замбія"
+    },
     "visualFormatter": "## ### ####"
   },
   {
@@ -4951,20 +3016,11 @@
     "minPhoneLength": 9,
     "name": "Zimbabwe",
     "prefix": "+263",
-    "translatedNames": [
-      {
-        "first": "en",
-        "second": "Zimbabwe"
-      },
-      {
-        "first": "pl",
-        "second": "Zimbabwe"
-      },
-      {
-        "first": "ua",
-        "second": "Зімбабве"
-      }
-    ],
-    "visualFormatter": "## ### ####"
+    "translatedNames": {
+      "en": "Zimbabwe",
+      "pl": "Zimbabwe",
+      "ua": "Зімбабве"
+    },
+    "visualFormatter": "# ######"
   }
 ]

@@ -9,25 +9,43 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "AF",
-        translatedNames = listOf(
-            Pair("en", "Afghanistan"),
-            Pair("pl", "Afganistan"),
-            Pair("ua", "Афганістан")
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "Afghanistan",
+            "pl" to "Afganistan",
+            "ua" to "Афганістан",
+            "cn" to "阿富汗",
+            "de" to "Afghanistan",
+            "es" to "Afganistán",
+            "fr" to "Afghanistan",
+            "ja" to "アフガニスタン",
+            "kr" to "아프가니스탄",
+            "pt" to "Afeganistão"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Albania",
         prefix = "+355",
         flag = R.drawable.al,
         flagEmoji = "🇦🇱",
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
         countryCode = "AL",
-        translatedNames = listOf(
-            Pair("en", "Albania"),
-            Pair("pl", "Albania"),
-            Pair("ua", "Албанія")
+        visualFormatter = "### ### ###",
+        translatedNames = mapOf(
+            "en" to "Albania",
+            "pl" to "Albania",
+            "ua" to "Албанія",
+            "cn" to "阿尔巴尼亚",
+            "de" to "Albanien",
+            "es" to "Albania",
+            "fr" to "Albanie",
+            "ja" to "アルバニア",
+            "kr" to "알바니아",
+            "pt" to "Albânia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Algeria",
         prefix = "+213",
         flag = R.drawable.dz,
@@ -35,25 +53,43 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "DZ",
-        translatedNames = listOf(
-            Pair("en", "Algeria"),
-            Pair("pl", "Algieria"),
-            Pair("ua", "Алжир")
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "Algeria",
+            "pl" to "Algieria",
+            "ua" to "Алжир",
+            "cn" to "阿尔及利亚",
+            "de" to "Algerien",
+            "es" to "Argelia",
+            "fr" to "Algérie",
+            "ja" to "アルジェリア",
+            "kr" to "알제리",
+            "pt" to "Argélia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "American Samoa",
         prefix = "+1684",
         flag = R.drawable.`as`,
         flagEmoji = "🇦🇸",
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
         countryCode = "AS",
-        translatedNames = listOf(
-            Pair("en", "American Samoa"),
-            Pair("pl", "Samoa Amerykańskie"),
-            Pair("ua", "Американське Самоа")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "American Samoa",
+            "pl" to "Samoa Amerykańskie",
+            "ua" to "Американське Самоа",
+            "cn" to "美属萨摩亚",
+            "de" to "Amerikanisch-Samoa",
+            "es" to "Samoa Americana",
+            "fr" to "Samoa américaines",
+            "ja" to "アメリカ領サモア",
+            "kr" to "아메리칸사모아",
+            "pt" to "Samoa Americana"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Andorra",
         prefix = "+376",
         flag = R.drawable.ad,
@@ -61,12 +97,21 @@ val countries = listOf(
         minPhoneLength = 6,
         maxPhoneLength = 6,
         countryCode = "AD",
-        translatedNames = listOf(
-            Pair("en", "Andorra"),
-            Pair("pl", "Andora"),
-            Pair("ua", "Андорра")
+        visualFormatter = "### ###",
+        translatedNames = mapOf(
+            "en" to "Andorra",
+            "pl" to "Andora",
+            "ua" to "Андорра",
+            "cn" to "安道尔",
+            "de" to "Andorra",
+            "es" to "Andorra",
+            "fr" to "Andorre",
+            "ja" to "アンドラ",
+            "kr" to "안도라",
+            "pt" to "Andorra"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Angola",
         prefix = "+244",
         flag = R.drawable.ao,
@@ -74,64 +119,109 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "AO",
-        translatedNames = listOf(
-            Pair("en", "Angola"),
-            Pair("pl", "Angola"),
-            Pair("ua", "Ангола")
+        visualFormatter = "### ### ###",
+        translatedNames = mapOf(
+            "en" to "Angola",
+            "pl" to "Angola",
+            "ua" to "Ангола",
+            "cn" to "安哥拉",
+            "de" to "Angola",
+            "es" to "Angola",
+            "fr" to "Angola",
+            "ja" to "アンゴラ",
+            "kr" to "앙골라",
+            "pt" to "Angola"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Anguilla",
         prefix = "+1264",
         flag = R.drawable.ai,
         flagEmoji = "🇦🇮",
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
         countryCode = "AI",
-        translatedNames = listOf(
-            Pair("en", "Anguilla"),
-            Pair("pl", "Anguilla"),
-            Pair("ua", "Ангілья")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Anguilla",
+            "pl" to "Anguilla",
+            "ua" to "Ангілья ",
+            "cn" to "安圭拉",
+            "de" to "Anguilla",
+            "es" to "Anguilla",
+            "fr" to "Anguilla",
+            "ja" to "アンギラ",
+            "kr" to "앵귈라",
+            "pt" to "Anguila"
         )
-    ),CountryCallingData(
-        name = "Antigua & Barbuda",
+    ),
+    CountryCallingData(
+        name = "Antigua and Barbuda",
         prefix = "+1268",
         flag = R.drawable.ag,
         flagEmoji = "🇦🇬",
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
         countryCode = "AG",
-        translatedNames = listOf(
-            Pair("en", "Antigua and Barbuda"),
-            Pair("pl", "Antigua i Barbuda"),
-            Pair("ua", "Антигуа і Барбуда")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Antigua and Barbuda",
+            "pl" to "Antigua i Barbuda",
+            "ua" to "Антигуа і Барбуда",
+            "cn" to "安提瓜和巴布达",
+            "de" to "Antigua und Barbuda",
+            "es" to "Antigua y Barbuda",
+            "fr" to "Antigua-et-Barbuda",
+            "ja" to "アンティグア・バーブーダ",
+            "kr" to "앤티가 바부다",
+            "pt" to "Antígua e Barbuda"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Argentina",
         prefix = "+54",
         flag = R.drawable.ar,
         flagEmoji = "🇦🇷",
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
+        minPhoneLength = 6,
+        maxPhoneLength = 8,
         countryCode = "AR",
-        translatedNames = listOf(
-            Pair("en", "Argentina"),
-            Pair("pl", "Argentyna"),
-            Pair("ua", "Аргентина")
+        visualFormatter = "### ### ####",
+        translatedNames = mapOf(
+            "en" to "Argentina",
+            "pl" to "Argentyna",
+            "ua" to "Аргентина",
+            "cn" to "阿根廷",
+            "de" to "Argentinien",
+            "es" to "Argentina",
+            "fr" to "Argentine",
+            "ja" to "アルゼンチン",
+            "kr" to "아르헨티나",
+            "pt" to "Argentina"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Armenia",
         prefix = "+374",
         flag = R.drawable.am,
         flagEmoji = "🇦🇲",
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
+        minPhoneLength = 6,
+        maxPhoneLength = 6,
         countryCode = "AM",
-        translatedNames = listOf(
-            Pair("en", "Armenia"),
-            Pair("pl", "Armenia"),
-            Pair("ua", "Вірменія")
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "Armenia",
+            "pl" to "Armenia",
+            "ua" to "Вірменія",
+            "cn" to "亚美尼亚",
+            "de" to "Armenien",
+            "es" to "Armenia",
+            "fr" to "Arménie",
+            "ja" to "アルメニア",
+            "kr" to "아르메니아",
+            "pt" to "Arménia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Aruba",
         prefix = "+297",
         flag = R.drawable.aw,
@@ -139,12 +229,21 @@ val countries = listOf(
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "AW",
-        translatedNames = listOf(
-            Pair("en", "Aruba"),
-            Pair("pl", "Aruba"),
-            Pair("ua", "Аруба")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Aruba",
+            "pl" to "Aruba",
+            "ua" to "Аруба",
+            "cn" to "阿鲁巴",
+            "de" to "Aruba",
+            "es" to "Aruba",
+            "fr" to "Aruba",
+            "ja" to "アルバ",
+            "kr" to "아루바",
+            "pt" to "Aruba"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Australia",
         prefix = "+61",
         flag = R.drawable.au,
@@ -152,25 +251,43 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "AU",
-        translatedNames = listOf(
-            Pair("en", "Australia"),
-            Pair("pl", "Australia"),
-            Pair("ua", "Австралія")
+        visualFormatter = "# #### ####",
+        translatedNames = mapOf(
+            "en" to "Australia",
+            "pl" to "Australia",
+            "ua" to "Австралія",
+            "cn" to "澳大利亚",
+            "de" to "Australien",
+            "es" to "Australia",
+            "fr" to "Australie",
+            "ja" to "オーストラリア",
+            "kr" to "호주",
+            "pt" to "Austrália"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Austria",
         prefix = "+43",
         flag = R.drawable.at,
         flagEmoji = "🇦🇹",
         minPhoneLength = 10,
-        maxPhoneLength = 10,
+        maxPhoneLength = 11,
         countryCode = "AT",
-        translatedNames = listOf(
-            Pair("en", "Austria"),
-            Pair("pl", "Austria"),
-            Pair("ua", "Австрія")
+        visualFormatter = "### ### ####",
+        translatedNames = mapOf(
+            "en" to "Austria",
+            "pl" to "Austria",
+            "ua" to "Австрія",
+            "cn" to "奥地利",
+            "de" to "Österreich",
+            "es" to "Austria",
+            "fr" to "Autriche",
+            "ja" to "オーストリア",
+            "kr" to "오스트리아",
+            "pt" to "áustria"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Azerbaijan",
         prefix = "+994",
         flag = R.drawable.az,
@@ -178,25 +295,21 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "AZ",
-        translatedNames = listOf(
-            Pair("en", "Azerbaijan"),
-            Pair("pl", "Azerbejdżan"),
-            Pair("ua", "Азербайджан")
+        visualFormatter = "## ### ## ##",
+        translatedNames = mapOf(
+            "en" to "Azerbaijan",
+            "pl" to "Azerbejdżan",
+            "ua" to "Азербайджан",
+            "cn" to "阿塞拜疆",
+            "de" to "Aserbaidschan",
+            "es" to "Azerbaiyán",
+            "fr" to "Azerbaïdjan",
+            "ja" to "アゼルバイジャン",
+            "kr" to "아제르바이잔",
+            "pt" to "Azerbaijão"
         )
-    ),CountryCallingData(
-        name = "Bahamas",
-        prefix = "+1242",
-        flag = R.drawable.bs,
-        flagEmoji = "🇧🇸",
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "BS",
-        translatedNames = listOf(
-            Pair("en", "Bahamas"),
-            Pair("pl", "Bahamy"),
-            Pair("ua", "Багамські Острови")
-        )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Bahrain",
         prefix = "+973",
         flag = R.drawable.bh,
@@ -204,12 +317,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "BH",
-        translatedNames = listOf(
-            Pair("en", "Bahrain"),
-            Pair("pl", "Bahrajn"),
-            Pair("ua", "Бахрейн")
+        visualFormatter = "#### ####",
+        translatedNames = mapOf(
+            "en" to "Bahrain",
+            "pl" to "Bahrajn",
+            "ua" to "Бахрейн",
+            "cn" to "巴林",
+            "de" to "Bahrain",
+            "es" to "Bahrein",
+            "fr" to "Bahreïn",
+            "ja" to "バーレーン",
+            "kr" to "바레인",
+            "pt" to "Barém"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Bangladesh",
         prefix = "+880",
         flag = R.drawable.bd,
@@ -217,25 +339,43 @@ val countries = listOf(
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "BD",
-        translatedNames = listOf(
-            Pair("en", "Bangladesh"),
-            Pair("pl", "Bangladesz"),
-            Pair("ua", "Бангладеш")
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "Bangladesh",
+            "pl" to "Bangladesz",
+            "ua" to "Бангладеш",
+            "cn" to "孟加拉",
+            "de" to "Bangladesch",
+            "es" to "Bangladesh",
+            "fr" to "Bangladesh",
+            "ja" to "バングラデシュ",
+            "kr" to "방글라데시",
+            "pt" to "Bangladeche"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Barbados",
         prefix = "+1246",
         flag = R.drawable.bb,
         flagEmoji = "🇧🇧",
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
         countryCode = "BB",
-        translatedNames = listOf(
-            Pair("en", "Barbados"),
-            Pair("pl", "Barbados"),
-            Pair("ua", "Барбадос")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Barbados",
+            "pl" to "Barbados",
+            "ua" to "Барбадос",
+            "cn" to "巴巴多斯",
+            "de" to "Barbados",
+            "es" to "Barbados",
+            "fr" to "Barbade",
+            "ja" to "バルバドス",
+            "kr" to "바베이도스",
+            "pt" to "Barbados"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Belarus",
         prefix = "+375",
         flag = R.drawable.by,
@@ -243,25 +383,43 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "BY",
-        translatedNames = listOf(
-            Pair("en", "Belarus"),
-            Pair("pl", "Białoruś"),
-            Pair("ua", "Білорусь")
+        visualFormatter = "## ### ## ##",
+        translatedNames = mapOf(
+            "en" to "Belarus",
+            "pl" to "Białoruś",
+            "ua" to "Білорусь",
+            "cn" to "白俄罗斯",
+            "de" to "Weißrussland",
+            "es" to "Bielorrusia",
+            "fr" to "Biélorussie",
+            "ja" to "ベラルーシ",
+            "kr" to "벨라루스",
+            "pt" to "Bielorrússia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Belgium",
         prefix = "+32",
         flag = R.drawable.be,
         flagEmoji = "🇧🇪",
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
         countryCode = "BE",
-        translatedNames = listOf(
-            Pair("en", "Belgium"),
-            Pair("pl", "Belgia"),
-            Pair("ua", "Бельгія")
+        visualFormatter = "### ### ###",
+        translatedNames = mapOf(
+            "en" to "Belgium",
+            "pl" to "Belgia",
+            "ua" to "Бельгія",
+            "cn" to "比利时",
+            "de" to "Belgien",
+            "es" to "Bélgica",
+            "fr" to "Belgique",
+            "ja" to "ベルギー",
+            "kr" to "벨기에",
+            "pt" to "Bélgica"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Belize",
         prefix = "+501",
         flag = R.drawable.bz,
@@ -269,12 +427,21 @@ val countries = listOf(
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "BZ",
-        translatedNames = listOf(
-            Pair("en", "Belize"),
-            Pair("pl", "Belize"),
-            Pair("ua", "Беліз")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Belize",
+            "pl" to "Belize",
+            "ua" to "Беліз",
+            "cn" to "伯利兹",
+            "de" to "Belize",
+            "es" to "Belice",
+            "fr" to "Belize",
+            "ja" to "ベリーズ",
+            "kr" to "벨리즈",
+            "pt" to "Belize"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Benin",
         prefix = "+229",
         flag = R.drawable.bj,
@@ -282,64 +449,109 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "BJ",
-        translatedNames = listOf(
-            Pair("en", "Benin"),
-            Pair("pl", "Benin"),
-            Pair("ua", "Бенін")
+        visualFormatter = "## ## ####",
+        translatedNames = mapOf(
+            "en" to "Benin",
+            "pl" to "Benin",
+            "ua" to "Бенін",
+            "cn" to "贝宁",
+            "de" to "Benin",
+            "es" to "Benín",
+            "fr" to "Bénin",
+            "ja" to "ベナン",
+            "kr" to "베냉",
+            "pt" to "Benim"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Bermuda",
         prefix = "+1441",
         flag = R.drawable.bm,
         flagEmoji = "🇧🇲",
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
         countryCode = "BM",
-        translatedNames = listOf(
-            Pair("en", "Bermuda"),
-            Pair("pl", "Bermudy"),
-            Pair("ua", "Бермуди")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Bermuda",
+            "pl" to "Bermudy",
+            "ua" to "Бермуди",
+            "cn" to "百慕大",
+            "de" to "Bermuda",
+            "es" to "Bermudas",
+            "fr" to "Bermudes",
+            "ja" to "バミューダ",
+            "kr" to "버뮤다",
+            "pt" to "Bermudas"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Bhutan",
         prefix = "+975",
         flag = R.drawable.bt,
         flagEmoji = "🇧🇹",
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
         countryCode = "BT",
-        translatedNames = listOf(
-            Pair("en", "Bhutan"),
-            Pair("pl", "Bhutan"),
-            Pair("ua", "Бутан")
+        visualFormatter = "# ### ###",
+        translatedNames = mapOf(
+            "en" to "Bhutan",
+            "pl" to "Bhutan",
+            "ua" to "Бутан",
+            "cn" to "不丹",
+            "de" to "Bhutan",
+            "es" to "Bután",
+            "fr" to "Bhoutan",
+            "ja" to "ブータン",
+            "kr" to "부탄",
+            "pt" to "Butão"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Bolivia",
         prefix = "+591",
         flag = R.drawable.bo,
         flagEmoji = "🇧🇴",
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
         countryCode = "BO",
-        translatedNames = listOf(
-            Pair("en", "Bolivia"),
-            Pair("pl", "Boliwia"),
-            Pair("ua", "Болівія")
+        visualFormatter = "# ### ####",
+        translatedNames = mapOf(
+            "en" to "Bolivia",
+            "pl" to "Boliwia",
+            "ua" to "Болівія",
+            "cn" to "玻利维亚",
+            "de" to "Bolivien",
+            "es" to "Bolivia",
+            "fr" to "Bolivie",
+            "ja" to "ボリビア多民族国",
+            "kr" to "볼리비아",
+            "pt" to "Bolívia"
         )
-    ),CountryCallingData(
-        name = "Bosnia & Herzegovina",
+    ),
+    CountryCallingData(
+        name = "Bosnia and Herzegovina",
         prefix = "+387",
         flag = R.drawable.ba,
         flagEmoji = "🇧🇦",
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "BA",
-        translatedNames = listOf(
-            Pair("en", "Bosnia and Herzegovina"),
-            Pair("pl", "Bośnia i Hercegowina"),
-            Pair("ua", "Боснія і Герцеговина")
+        visualFormatter = "## ####",
+        translatedNames = mapOf(
+            "en" to "Bosnia and Herzegovina",
+            "pl" to "Bośnia i Hercegowina",
+            "ua" to "Боснія і Герцеговина",
+            "cn" to "波斯尼亚和黑塞哥维那",
+            "de" to "Bosnien und Herzegowina",
+            "es" to "Bosnia y Herzegovina",
+            "fr" to "Bosnie-Herzégovine",
+            "ja" to "ボスニア・ヘルツェゴビナ",
+            "kr" to "보스니아 헤르체고비나",
+            "pt" to "Bósnia e Herzegovina"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Botswana",
         prefix = "+267",
         flag = R.drawable.bw,
@@ -347,25 +559,43 @@ val countries = listOf(
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "BW",
-        translatedNames = listOf(
-            Pair("en", "Botswana"),
-            Pair("pl", "Botswana"),
-            Pair("ua", "Ботсвана")
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "Botswana",
+            "pl" to "Botswana",
+            "ua" to "Ботсвана",
+            "cn" to "博茨瓦纳",
+            "de" to "Botswana",
+            "es" to "Botswana",
+            "fr" to "Botswana",
+            "ja" to "ボツワナ",
+            "kr" to "보츠와나",
+            "pt" to "Botsuana"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Brazil",
         prefix = "+55",
         flag = R.drawable.br,
         flagEmoji = "🇧🇷",
-        minPhoneLength = 10,
+        minPhoneLength = 11,
         maxPhoneLength = 11,
         countryCode = "BR",
-        translatedNames = listOf(
-            Pair("en", "Brazil"),
-            Pair("pl", "Brazylia"),
-            Pair("ua", "Бразилія")
+        visualFormatter = "## #### ####",
+        translatedNames = mapOf(
+            "en" to "Brazil",
+            "pl" to "Brazylia",
+            "ua" to "Бразилія",
+            "cn" to "巴西",
+            "de" to "Brasilien",
+            "es" to "Brasil",
+            "fr" to "Brésil",
+            "ja" to "ブラジル",
+            "kr" to "브라질",
+            "pt" to "Brasil"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "British Virgin Islands",
         prefix = "+1284",
         flag = R.drawable.io,
@@ -373,12 +603,21 @@ val countries = listOf(
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "IO",
-        translatedNames = listOf(
-            Pair("en", "British Virgin Islands"),
-            Pair("pl", "Brytyjskie Wyspy Dziewicze"),
-            Pair("ua", "Британські Віргінські Острови")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "British Virgin Islands",
+            "pl" to "Brytyjskie Wyspy Dziewicze",
+            "ua" to "Британські Віргінські Острови",
+            "cn" to "英属印度洋领地",
+            "de" to "Britisches Territorium im Indischen Ozean",
+            "es" to "Territorio Británico del Océano Índico",
+            "fr" to "Territoire britannique de l'océan Indien",
+            "ja" to "イギリス領インド洋地域",
+            "kr" to "영국령 인도양 지역",
+            "pt" to "Território Britânico do Oceano Índico"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Brunei Darussalam",
         prefix = "+673",
         flag = R.drawable.bn,
@@ -386,25 +625,43 @@ val countries = listOf(
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "BN",
-        translatedNames = listOf(
-            Pair("en", "Brunei"),
-            Pair("pl", "Brunei"),
-            Pair("ua", "Бруней")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Brunei",
+            "pl" to "Brunei",
+            "ua" to "Бруней",
+            "cn" to "文莱",
+            "de" to "Brunei",
+            "es" to "Brunei",
+            "fr" to "Brunei",
+            "ja" to "ブルネイ・ダルサラーム",
+            "kr" to "브루나이",
+            "pt" to "Brunei"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Bulgaria",
         prefix = "+359",
         flag = R.drawable.bg,
         flagEmoji = "🇧🇬",
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
         countryCode = "BG",
-        translatedNames = listOf(
-            Pair("en", "Bulgaria"),
-            Pair("pl", "Bułgaria"),
-            Pair("ua", "Болгарія")
+        visualFormatter = "### ### ###",
+        translatedNames = mapOf(
+            "en" to "Bulgaria",
+            "pl" to "Bułgaria",
+            "ua" to "Болгарія",
+            "cn" to "保加利亚",
+            "de" to "Bulgarien",
+            "es" to "Bulgaria",
+            "fr" to "Bulgarie",
+            "ja" to "ブルガリア",
+            "kr" to "불가리아",
+            "pt" to "Bulgária"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Burkina Faso",
         prefix = "+226",
         flag = R.drawable.bf,
@@ -412,12 +669,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "BF",
-        translatedNames = listOf(
-            Pair("en", "Burkina Faso"),
-            Pair("pl", "Burkina Faso"),
-            Pair("ua", "Буркіна-Фасо")
+        visualFormatter = "## ## ####",
+        translatedNames = mapOf(
+            "en" to "Burkina Faso",
+            "pl" to "Burkina Faso",
+            "ua" to "Буркіна-Фасо",
+            "cn" to "布基纳法索",
+            "de" to "Burkina Faso",
+            "es" to "Burkina Faso",
+            "fr" to "Burkina Faso",
+            "ja" to "ブルキナファソ",
+            "kr" to "부르키나 파소",
+            "pt" to "Burquina Faso"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Burundi",
         prefix = "+257",
         flag = R.drawable.bi,
@@ -425,25 +691,43 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "BI",
-        translatedNames = listOf(
-            Pair("en", "Burundi"),
-            Pair("pl", "Burundi"),
-            Pair("ua", "Бурунді")
+        visualFormatter = "## ## ####",
+        translatedNames = mapOf(
+            "en" to "Burundi",
+            "pl" to "Burundi",
+            "ua" to "Бурунді",
+            "cn" to "布隆迪",
+            "de" to "Burundi",
+            "es" to "Burundi",
+            "fr" to "Burundi",
+            "ja" to "ブルンジ",
+            "kr" to "부룬디",
+            "pt" to "Burúndi"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Cambodia",
         prefix = "+855",
         flag = R.drawable.kh,
         flagEmoji = "🇰🇭",
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
         countryCode = "KH",
-        translatedNames = listOf(
-            Pair("en", "Cambodia"),
-            Pair("pl", "Kambodża"),
-            Pair("ua", "Камбоджа")
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "Cambodia",
+            "pl" to "Kambodża",
+            "ua" to "Камбоджа",
+            "cn" to "柬埔寨",
+            "de" to "Kambodscha",
+            "es" to "Camboya",
+            "fr" to "Cambodge",
+            "ja" to "カンボジア",
+            "kr" to "캄보디아",
+            "pt" to "Camboja"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Cameroon",
         prefix = "+237",
         flag = R.drawable.cm,
@@ -451,12 +735,21 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "CM",
-        translatedNames = listOf(
-            Pair("en", "Cameroon"),
-            Pair("pl", "Kamerun"),
-            Pair("ua", "Камерун")
+        visualFormatter = "#### ####",
+        translatedNames = mapOf(
+            "en" to "Cameroon",
+            "pl" to "Kamerun",
+            "ua" to "Камерун",
+            "cn" to "喀麦隆",
+            "de" to "Kamerun",
+            "es" to "Camerún",
+            "fr" to "Cameroun",
+            "ja" to "カメルーン",
+            "kr" to "카메룬",
+            "pt" to "Camarões"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Canada",
         prefix = "+1",
         flag = R.drawable.ca,
@@ -464,12 +757,21 @@ val countries = listOf(
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "CA",
-        translatedNames = listOf(
-            Pair("en", "Canada"),
-            Pair("pl", "Kanada"),
-            Pair("ua", "Канада")
+        visualFormatter = "### ### ####",
+        translatedNames = mapOf(
+            "en" to "Canada",
+            "pl" to "Kanada",
+            "ua" to "Канада",
+            "cn" to "加拿大",
+            "de" to "Kanada",
+            "es" to "Canadá",
+            "fr" to "Canada",
+            "ja" to "カナダ",
+            "kr" to "캐나다",
+            "pt" to "Canadá"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Cape Verde",
         prefix = "+238",
         flag = R.drawable.cv,
@@ -477,12 +779,21 @@ val countries = listOf(
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "CV",
-        translatedNames = listOf(
-            Pair("en", "Cabo Verde"),
-            Pair("pl", "Cabo Verde"),
-            Pair("ua", "Кабо-Верде")
+        visualFormatter = "### ## ##",
+        translatedNames = mapOf(
+            "en" to "Cabo Verde",
+            "pl" to "Cabo Verde",
+            "ua" to "Кабо-Верде",
+            "cn" to "佛得角",
+            "de" to "Kap Verde",
+            "es" to "Cabo Verde",
+            "fr" to "Cap Vert",
+            "ja" to "カーボベルデ",
+            "kr" to "카보베르데",
+            "pt" to "Cabo Verde"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Cayman Islands",
         prefix = "+1345",
         flag = R.drawable.ky,
@@ -490,38 +801,65 @@ val countries = listOf(
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "KY",
-        translatedNames = listOf(
-            Pair("en", "Cayman Islands"),
-            Pair("pl", "Kajmany"),
-            Pair("ua", "Острови Кайман")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Cayman Islands",
+            "pl" to "Kajmany",
+            "ua" to "Острови Кайман",
+            "cn" to "开曼群岛",
+            "de" to "Kaimaninseln",
+            "es" to "Islas Caimán",
+            "fr" to "Îles Caïmans",
+            "ja" to "ケイマン諸島",
+            "kr" to "케이먼 제도",
+            "pt" to "Ilhas Caimão"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Central African Rep.",
         prefix = "+236",
         flag = R.drawable.cf,
         flagEmoji = "🇨🇫",
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
         countryCode = "CF",
-        translatedNames = listOf(
-            Pair("en", "Central African Republic"),
-            Pair("pl", "Republika Środkowoafrykańska"),
-            Pair("ua", "Центральноафриканська Республіка")
+        visualFormatter = "## ## ####",
+        translatedNames = mapOf(
+            "en" to "Central African Republic",
+            "pl" to "Republika Środkowoafrykańska",
+            "ua" to "Центральноафриканська Республіка",
+            "cn" to "中非",
+            "de" to "Zentralafrikanische Republik",
+            "es" to "República Centroafricana",
+            "fr" to "République centrafricaine",
+            "ja" to "中央アフリカ共和国",
+            "kr" to "중앙아프리카 공화국",
+            "pt" to "República Centro-Africana"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Chad",
         prefix = "+235",
         flag = R.drawable.td,
         flagEmoji = "🇹🇩",
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
+        minPhoneLength = 6,
+        maxPhoneLength = 6,
         countryCode = "TD",
-        translatedNames = listOf(
-            Pair("en", "Chad"),
-            Pair("pl", "Czad"),
-            Pair("ua", "Чад")
+        visualFormatter = "## ## ## ##",
+        translatedNames = mapOf(
+            "en" to "Chad",
+            "pl" to "Czad",
+            "ua" to "Чад",
+            "cn" to "乍得",
+            "de" to "Tschad",
+            "es" to "Chad",
+            "fr" to "Tchad",
+            "ja" to "チャド",
+            "kr" to "차드",
+            "pt" to "Chade"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Chile",
         prefix = "+56",
         flag = R.drawable.cl,
@@ -529,12 +867,21 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "CL",
-        translatedNames = listOf(
-            Pair("en", "Chile"),
-            Pair("pl", "Chile"),
-            Pair("ua", "Чилі")
+        visualFormatter = "# #### ####",
+        translatedNames = mapOf(
+            "en" to "Chile",
+            "pl" to "Chile",
+            "ua" to "Чилі",
+            "cn" to "智利",
+            "de" to "Chile",
+            "es" to "Chile",
+            "fr" to "Chili",
+            "ja" to "チリ",
+            "kr" to "칠리",
+            "pt" to "Chile"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "China",
         prefix = "+86",
         flag = R.drawable.cn,
@@ -542,12 +889,21 @@ val countries = listOf(
         minPhoneLength = 11,
         maxPhoneLength = 11,
         countryCode = "CN",
-        translatedNames = listOf(
-            Pair("en", "China"),
-            Pair("pl", "Chiny"),
-            Pair("ua", "Китай")
+        visualFormatter = "## ##### #####",
+        translatedNames = mapOf(
+            "en" to "China",
+            "pl" to "Chiny",
+            "ua" to "Китай",
+            "cn" to "中国",
+            "de" to "China",
+            "es" to "China",
+            "fr" to "Chine",
+            "ja" to "中国",
+            "kr" to "중국",
+            "pt" to "China"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Colombia",
         prefix = "+57",
         flag = R.drawable.co,
@@ -555,12 +911,21 @@ val countries = listOf(
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "CO",
-        translatedNames = listOf(
-            Pair("en", "Colombia"),
-            Pair("pl", "Kolumbia"),
-            Pair("ua", "Колумбія")
+        visualFormatter = "### ### ####",
+        translatedNames = mapOf(
+            "en" to "Colombia",
+            "pl" to "Kolumbia",
+            "ua" to "Колумбія",
+            "cn" to "哥伦比亚",
+            "de" to "Kolumbien",
+            "es" to "Colombia",
+            "fr" to "Colombie",
+            "ja" to "コロンビア",
+            "kr" to "콜롬비아",
+            "pt" to "Colômbia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Comoros",
         prefix = "+269",
         flag = R.drawable.km,
@@ -568,38 +933,43 @@ val countries = listOf(
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "KM",
-        translatedNames = listOf(
-            Pair("en", "Comoros"),
-            Pair("pl", "Komory"),
-            Pair("ua", "Коморські Острови")
+        visualFormatter = "## #####",
+        translatedNames = mapOf(
+            "en" to "Comoros",
+            "pl" to "Komory",
+            "ua" to "Коморські Острови",
+            "cn" to "科摩罗",
+            "de" to "Union der Komoren",
+            "es" to "Comoras",
+            "fr" to "Comores",
+            "ja" to "コモロ",
+            "kr" to "코모로",
+            "pt" to "Comores"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Congo (Rep.)",
         prefix = "+242",
         flag = R.drawable.cg,
         flagEmoji = "🇨🇬",
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
-        countryCode = "CG",
-        translatedNames = listOf(
-            Pair("en", "Congo, Republic of the"),
-            Pair("pl", "Republika Konga"),
-            Pair("ua", "Республіка Конго")
-        )
-    ),CountryCallingData(
-        name = "Congo (Dem. Rep.)",
-        prefix = "+243",
-        flag = R.drawable.cd,
-        flagEmoji = "🇨🇩",
         minPhoneLength = 9,
         maxPhoneLength = 9,
-        countryCode = "CD",
-        translatedNames = listOf(
-            Pair("en", "Congo, Democratic Republic of the"),
-            Pair("pl", "Demokratyczna Republika Konga"),
-            Pair("ua", "Демократична Республіка Конго")
+        countryCode = "CG",
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "Congo, Republic of the",
+            "pl" to "Republika Konga",
+            "ua" to "Республіка Конго",
+            "cn" to "刚果",
+            "de" to "Kongo",
+            "es" to "Congo",
+            "fr" to "Congo",
+            "ja" to "コンゴ共和国",
+            "kr" to "콩고",
+            "pt" to "Congo"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Cook Islands",
         prefix = "+682",
         flag = R.drawable.ck,
@@ -607,12 +977,21 @@ val countries = listOf(
         minPhoneLength = 5,
         maxPhoneLength = 5,
         countryCode = "CK",
-        translatedNames = listOf(
-            Pair("en", "Cook Islands"),
-            Pair("pl", "Wyspy Cooka"),
-            Pair("ua", "Острови Кука")
+        visualFormatter = "## ###",
+        translatedNames = mapOf(
+            "en" to "Cook Islands",
+            "pl" to "Wyspy Cooka",
+            "ua" to "Острови Кука",
+            "cn" to "库克群岛",
+            "de" to "Cookinseln",
+            "es" to "Islas Cook",
+            "fr" to "Îles Cook",
+            "ja" to "クック諸島",
+            "kr" to "쿡 제도",
+            "pt" to "Ilhas Cook"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Costa Rica",
         prefix = "+506",
         flag = R.drawable.cr,
@@ -620,12 +999,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "CR",
-        translatedNames = listOf(
-            Pair("en", "Costa Rica"),
-            Pair("pl", "Kostaryka"),
-            Pair("ua", "Коста-Рика")
+        visualFormatter = "#### ####",
+        translatedNames = mapOf(
+            "en" to "Costa Rica",
+            "pl" to "Kostaryka",
+            "ua" to "Коста-Рика",
+            "cn" to "哥斯达黎加",
+            "de" to "Costa Rica",
+            "es" to "Costa Rica",
+            "fr" to "Costa Rica",
+            "ja" to "コスタリカ",
+            "kr" to "코스타리카",
+            "pt" to "Costa Rica"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Cote d'Ivoire",
         prefix = "+225",
         flag = R.drawable.ci,
@@ -633,25 +1021,43 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "CI",
-        translatedNames = listOf(
-            Pair("en", "Ivory Coast"),
-            Pair("pl", "Wybrzeże Kości Słoniowej"),
-            Pair("ua", "Берег Слонової Кості")
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "Ivory Coast",
+            "pl" to "Wybrzeże Kości Słoniowej",
+            "ua" to "Берег Слонової Кості",
+            "cn" to "科特迪瓦",
+            "de" to "Elfenbeinküste",
+            "es" to "Costa de Marfil",
+            "fr" to "Côte d'Ivoire",
+            "ja" to "コートジボワール",
+            "kr" to "코트디부아르",
+            "pt" to "Costa do Marfim"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Croatia",
         prefix = "+385",
         flag = R.drawable.hr,
         flagEmoji = "🇭🇷",
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
         countryCode = "HR",
-        translatedNames = listOf(
-            Pair("en", "Croatia"),
-            Pair("pl", "Chorwacja"),
-            Pair("ua", "Хорватія")
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "Croatia",
+            "pl" to "Chorwacja",
+            "ua" to "Хорватія",
+            "cn" to "克罗地亚",
+            "de" to "Kroatien",
+            "es" to "Croacia",
+            "fr" to "Croatie",
+            "ja" to "クロアチア",
+            "kr" to "크로아티아",
+            "pt" to "Croácia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Cuba",
         prefix = "+53",
         flag = R.drawable.cu,
@@ -659,12 +1065,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "CU",
-        translatedNames = listOf(
-            Pair("en", "Cuba"),
-            Pair("pl", "Kuba"),
-            Pair("ua", "Куба")
+        visualFormatter = "# ### ####",
+        translatedNames = mapOf(
+            "en" to "Cuba",
+            "pl" to "Kuba",
+            "ua" to "Куба",
+            "cn" to "古巴",
+            "de" to "Kuba",
+            "es" to "Cuba",
+            "fr" to "Cuba",
+            "ja" to "キューバ",
+            "kr" to "쿠바",
+            "pt" to "Cuba"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Cyprus",
         prefix = "+357",
         flag = R.drawable.cy,
@@ -672,12 +1087,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "CY",
-        translatedNames = listOf(
-            Pair("en", "Cyprus"),
-            Pair("pl", "Cypr"),
-            Pair("ua", "Кіпр")
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "Cyprus",
+            "pl" to "Cypr",
+            "ua" to "Кіпр",
+            "cn" to "塞浦路斯",
+            "de" to "Zypern",
+            "es" to "Chipre",
+            "fr" to "Chypre",
+            "ja" to "キプロス",
+            "kr" to "키프로스",
+            "pt" to "Chipre"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Czech Republic",
         prefix = "+420",
         flag = R.drawable.cz,
@@ -685,12 +1109,43 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "CZ",
-        translatedNames = listOf(
-            Pair("en", "Czech Republic"),
-            Pair("pl", "Czechy"),
-            Pair("ua", "Чехія")
+        visualFormatter = "### ### ###",
+        translatedNames = mapOf(
+            "en" to "Czech Republic",
+            "pl" to "Czechy",
+            "ua" to "Чехія",
+            "cn" to "捷克",
+            "de" to "Tschechische Republik",
+            "es" to "República Checa",
+            "fr" to "République tchèque",
+            "ja" to "チェコ",
+            "kr" to "체코",
+            "pt" to "República Checa"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
+        name = "Congo (Dem. Rep.)",
+        prefix = "+243",
+        flag = R.drawable.cd,
+        flagEmoji = "🇨🇩",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "CD",
+        visualFormatter = "### ### ###",
+        translatedNames = mapOf(
+            "en" to "Congo, Democratic Republic of the",
+            "pl" to "Demokratyczna Republika Konga",
+            "ua" to "Демократична Республіка Конго",
+            "cn" to "刚果（金）",
+            "de" to "Kongo (Dem. Rep.)",
+            "es" to "Congo (Rep. Dem.)",
+            "fr" to "Congo (Rép. dém.)",
+            "ja" to "コンゴ民主共和国",
+            "kr" to "콩고 민주 공화국",
+            "pt" to "RD Congo"
+        )
+    ),
+    CountryCallingData(
         name = "Denmark",
         prefix = "+45",
         flag = R.drawable.dk,
@@ -698,51 +1153,109 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "DK",
-        translatedNames = listOf(
-            Pair("en", "Denmark"),
-            Pair("pl", "Dania"),
-            Pair("ua", "Данія")
+        visualFormatter = "## ## ## ##",
+        translatedNames = mapOf(
+            "en" to "Denmark",
+            "pl" to "Dania",
+            "ua" to "Данія",
+            "cn" to "丹麦",
+            "de" to "Dänemark",
+            "es" to "Dinamarca",
+            "fr" to "Danemark",
+            "ja" to "デンマーク",
+            "kr" to "덴마크",
+            "pt" to "Dinamarca"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Djibouti",
         prefix = "+253",
         flag = R.drawable.dj,
         flagEmoji = "🇩🇯",
-        minPhoneLength = 6,
-        maxPhoneLength = 6,
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
         countryCode = "DJ",
-        translatedNames = listOf(
-            Pair("en", "Djibouti"),
-            Pair("pl", "Dżibuti"),
-            Pair("ua", "Джибуті")
+        visualFormatter = "## ## ## ##",
+        translatedNames = mapOf(
+            "en" to "Djibouti",
+            "pl" to "Dżibuti",
+            "ua" to "Джибуті",
+            "cn" to "吉布提",
+            "de" to "Dschibuti",
+            "es" to "Yibuti",
+            "fr" to "Djibouti",
+            "ja" to "ジブチ",
+            "kr" to "지부티",
+            "pt" to "Djibuti"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Dominica",
         prefix = "+1767",
         flag = R.drawable.dm,
         flagEmoji = "🇩🇲",
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
         countryCode = "DM",
-        translatedNames = listOf(
-            Pair("en", "Dominica"),
-            Pair("pl", "Dominika"),
-            Pair("ua", "Домініка")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Dominica",
+            "pl" to "Dominika",
+            "ua" to "Домініка",
+            "cn" to "多米尼加",
+            "de" to "Dominica",
+            "es" to "Dominica",
+            "fr" to "Dominique",
+            "ja" to "ドミニカ国",
+            "kr" to "도미니카 연방",
+            "pt" to "Dominica"
         )
-    ),CountryCallingData(
-        name = "Dominican Republic",
+    ),
+    CountryCallingData(
+        name = "Dominican Rep.",
         prefix = "+1809",
         flag = R.drawable.dom,
         flagEmoji = "🇩🇴",
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "DO",
-        translatedNames = listOf(
-            Pair("en", "Dominican Republic"),
-            Pair("pl", "Republika Dominikańska"),
-            Pair("ua", "Домініканська Республіка")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Dominican Republic",
+            "pl" to "Republika Dominikańska",
+            "ua" to "Домініканська Республіка",
+            "cn" to "多明尼加共和国",
+            "de" to "Dominikanische Republik",
+            "es" to "República Dominicana",
+            "fr" to "République dominicaine",
+            "ja" to "ドミニカ共和国",
+            "kr" to "도미니카 공화국",
+            "pt" to "República Dominicana"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
+        name = "Timor-Leste",
+        prefix = "+670",
+        flag = R.drawable.tl,
+        flagEmoji = "🇹🇱",
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
+        countryCode = "TL",
+        visualFormatter = "# #####",
+        translatedNames = mapOf(
+            "en" to "Timor-Leste",
+            "pl" to "Timor-Leste",
+            "ua" to "Тімор-Лешті",
+            "cn" to "东帝汶",
+            "de" to "Timor-Leste",
+            "es" to "Timor Oriental",
+            "fr" to "Timor oriental",
+            "ja" to "東ティモール",
+            "kr" to "동티모르",
+            "pt" to "Timor Leste"
+        )
+    ),
+    CountryCallingData(
         name = "Ecuador",
         prefix = "+593",
         flag = R.drawable.ec,
@@ -750,12 +1263,21 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "EC",
-        translatedNames = listOf(
-            Pair("en", "Ecuador"),
-            Pair("pl", "Ekwador"),
-            Pair("ua", "Еквадор")
+        visualFormatter = "# ### ####",
+        translatedNames = mapOf(
+            "en" to "Ecuador",
+            "pl" to "Ekwador",
+            "ua" to "Еквадор",
+            "cn" to "厄瓜多尔",
+            "de" to "Ecuador",
+            "es" to "Ecuador",
+            "fr" to "Équateur",
+            "ja" to "エクアドル",
+            "kr" to "에콰도르",
+            "pt" to "Equador"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Egypt",
         prefix = "+20",
         flag = R.drawable.eg,
@@ -763,12 +1285,21 @@ val countries = listOf(
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "EG",
-        translatedNames = listOf(
-            Pair("en", "Egypt"),
-            Pair("pl", "Egipt"),
-            Pair("ua", "Єгипет")
+        visualFormatter = "### ### ####",
+        translatedNames = mapOf(
+            "en" to "Egypt",
+            "pl" to "Egipt",
+            "ua" to "Єгипет",
+            "cn" to "埃及",
+            "de" to "Ägypten",
+            "es" to "Egipto",
+            "fr" to "Égypte",
+            "ja" to "エジプト",
+            "kr" to "이집트",
+            "pt" to "Egipto"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "El Salvador",
         prefix = "+503",
         flag = R.drawable.sv,
@@ -776,12 +1307,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "SV",
-        translatedNames = listOf(
-            Pair("en", "El Salvador"),
-            Pair("pl", "Salwador"),
-            Pair("ua", "Сальвадор")
+        visualFormatter = "## ## ####",
+        translatedNames = mapOf(
+            "en" to "El Salvador",
+            "pl" to "Salwador",
+            "ua" to "Сальвадор",
+            "cn" to "萨尔瓦多",
+            "de" to "El Salvador",
+            "es" to "El Salvador",
+            "fr" to "Salvador",
+            "ja" to "エルサルバドル",
+            "kr" to "엘살바도르",
+            "pt" to "El Salvador"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Equatorial Guinea",
         prefix = "+240",
         flag = R.drawable.gq,
@@ -789,77 +1329,109 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "GQ",
-        translatedNames = listOf(
-            Pair("en", "Equatorial Guinea"),
-            Pair("pl", "Gwinea Równikowa"),
-            Pair("ua", "Екваторіальна Гвінея")
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "Equatorial Guinea",
+            "pl" to "Gwinea Równikowa",
+            "ua" to "Екваторіальна Гвінея",
+            "cn" to "赤道几内亚",
+            "de" to "Äquatorial-Guinea",
+            "es" to "Guinea Ecuatorial",
+            "fr" to "Guinée-Équatoriale",
+            "ja" to "赤道ギニア",
+            "kr" to "적도 기니",
+            "pt" to "Guiné Equatorial"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Eritrea",
         prefix = "+291",
         flag = R.drawable.er,
         flagEmoji = "🇪🇷",
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
         countryCode = "ER",
-        translatedNames = listOf(
-            Pair("en", "Eritrea"),
-            Pair("pl", "Erytrea"),
-            Pair("ua", "Еритрея")
+        visualFormatter = "# ### ###",
+        translatedNames = mapOf(
+            "en" to "Eritrea",
+            "pl" to "Erytrea",
+            "ua" to "Еритрея",
+            "cn" to "厄立特里亚",
+            "de" to "Eritrea",
+            "es" to "Eritrea",
+            "fr" to "Érythrée",
+            "ja" to "エリトリア",
+            "kr" to "에리트레아",
+            "pt" to "Eritreia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Estonia",
         prefix = "+372",
         flag = R.drawable.ee,
         flagEmoji = "🇪🇪",
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "EE",
-        translatedNames = listOf(
-            Pair("en", "Estonia"),
-            Pair("pl", "Estonia"),
-            Pair("ua", "Естонія")
-        )
-    ),CountryCallingData(
-        name = "Eswatini",
-        prefix = "+268",
-        flag = R.drawable.sz,
-        flagEmoji = "🇸🇿",
         minPhoneLength = 8,
         maxPhoneLength = 8,
-        countryCode = "SZ",
-        translatedNames = listOf(
-            Pair("en", "Eswatini"),
-            Pair("pl", "Eswatini"),
-            Pair("ua", "Есватіні")
+        countryCode = "EE",
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Estonia",
+            "pl" to "Estonia",
+            "ua" to "Естонія",
+            "cn" to "爱沙尼亚",
+            "de" to "Estland",
+            "es" to "Estonia",
+            "fr" to "Estonie",
+            "ja" to "エストニア",
+            "kr" to "에스토니아",
+            "pt" to "Estónia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Ethiopia",
         prefix = "+251",
         flag = R.drawable.et,
         flagEmoji = "🇪🇹",
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
         countryCode = "ET",
-        translatedNames = listOf(
-            Pair("en", "Ethiopia"),
-            Pair("pl", "Etiopia"),
-            Pair("ua", "Ефіопія")
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "Ethiopia",
+            "pl" to "Etiopia",
+            "ua" to "Ефіопія",
+            "cn" to "埃塞俄比亚",
+            "de" to "Äthiopien",
+            "es" to "Etiopía",
+            "fr" to "Éthiopie",
+            "ja" to "エチオピア",
+            "kr" to "에티오피아",
+            "pt" to "Etiópia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Faroe Islands",
         prefix = "+298",
         flag = R.drawable.fo,
         flagEmoji = "🇫🇴",
-        minPhoneLength = 6,
-        maxPhoneLength = 6,
+        minPhoneLength = 5,
+        maxPhoneLength = 5,
         countryCode = "FO",
-        translatedNames = listOf(
-            Pair("en", "Faroe Islands"),
-            Pair("pl", "Wyspy Owcze"),
-            Pair("ua", "Фарерські острови")
+        visualFormatter = "### ###",
+        translatedNames = mapOf(
+            "en" to "Faroe Islands",
+            "pl" to "Wyspy Owcze",
+            "ua" to "Фарерські острови",
+            "cn" to "法罗群岛",
+            "de" to "Färöer-Inseln",
+            "es" to "Islas Faroe",
+            "fr" to "Îles Féroé",
+            "ja" to "フェロー諸島",
+            "kr" to "페로 제도",
+            "pt" to "Ilhas Faroé"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Fiji",
         prefix = "+679",
         flag = R.drawable.fj,
@@ -867,25 +1439,43 @@ val countries = listOf(
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "FJ",
-        translatedNames = listOf(
-            Pair("en", "Fiji"),
-            Pair("pl", "Fidżi"),
-            Pair("ua", "Фіджі")
+        visualFormatter = "## #####",
+        translatedNames = mapOf(
+            "en" to "Fiji",
+            "pl" to "Fidżi",
+            "ua" to "Фіджі",
+            "cn" to "斐济",
+            "de" to "Fidschi",
+            "es" to "Fiyi",
+            "fr" to "Fidji",
+            "ja" to "フィジー",
+            "kr" to "피지",
+            "pt" to "Fiji"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Finland",
         prefix = "+358",
         flag = R.drawable.fi,
         flagEmoji = "🇫🇮",
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
+        minPhoneLength = 0,
+        maxPhoneLength = 0,
         countryCode = "FI",
-        translatedNames = listOf(
-            Pair("en", "Finland"),
-            Pair("pl", "Finlandia"),
-            Pair("ua", "Фінляндія")
+        visualFormatter = "### ### ## ##",
+        translatedNames = mapOf(
+            "en" to "Finland",
+            "pl" to "Finlandia",
+            "ua" to "Фінляндія",
+            "cn" to "芬兰",
+            "de" to "Finnland",
+            "es" to "Finlandia",
+            "fr" to "Finlande",
+            "ja" to "フィンランド",
+            "kr" to "핀란드",
+            "pt" to "Finlândia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "France",
         prefix = "+33",
         flag = R.drawable.fr,
@@ -893,12 +1483,21 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "FR",
-        translatedNames = listOf(
-            Pair("en", "France"),
-            Pair("pl", "Francja"),
-            Pair("ua", "Франція")
+        visualFormatter = "### ### ###",
+        translatedNames = mapOf(
+            "en" to "France",
+            "pl" to "Francja",
+            "ua" to "Франція",
+            "cn" to "法国",
+            "de" to "Frankreich",
+            "es" to "Francia",
+            "fr" to "France",
+            "ja" to "フランス",
+            "kr" to "프랑스",
+            "pt" to "França"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "French Guiana",
         prefix = "+594",
         flag = R.drawable.gf,
@@ -906,25 +1505,43 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "GF",
-        translatedNames = listOf(
-            Pair("en", "French Guiana"),
-            Pair("pl", "Gujana Francuska"),
-            Pair("ua", "Французька Гвіана")
+        visualFormatter = "##### ####",
+        translatedNames = mapOf(
+            "en" to "French Guiana",
+            "pl" to "Gujana Francuska",
+            "ua" to "Французька Гвіана",
+            "cn" to "法属圭亚那",
+            "de" to "Französisch Guyana",
+            "es" to "Guayana Francesa",
+            "fr" to "Guayane",
+            "ja" to "フランス領ギアナ",
+            "kr" to "프랑스령 기아나",
+            "pt" to "Guiana Francesa"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "French Polynesia",
         prefix = "+689",
         flag = R.drawable.pf,
         flagEmoji = "🇵🇫",
-        minPhoneLength = 6,
-        maxPhoneLength = 6,
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
         countryCode = "PF",
-        translatedNames = listOf(
-            Pair("en", "French Polynesia"),
-            Pair("pl", "Polinezja Francuska"),
-            Pair("ua", "Французька Полінезія")
+        visualFormatter = "## ## ##",
+        translatedNames = mapOf(
+            "en" to "French Polynesia",
+            "pl" to "Polinezja Francuska",
+            "ua" to "Французька Полінезія",
+            "cn" to "法属波利尼西亚",
+            "de" to "Französisch-Polynesien",
+            "es" to "Polinesia Francesa",
+            "fr" to "Polynésie française",
+            "ja" to "フランス領ポリネシア",
+            "kr" to "프랑스령 폴리네시아",
+            "pt" to "Polinésia Francesa"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Gabon",
         prefix = "+241",
         flag = R.drawable.ga,
@@ -932,12 +1549,21 @@ val countries = listOf(
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "GA",
-        translatedNames = listOf(
-            Pair("en", "Gabon"),
-            Pair("pl", "Gabon"),
-            Pair("ua", "Габон")
+        visualFormatter = "# ## ## ##",
+        translatedNames = mapOf(
+            "en" to "Gabon",
+            "pl" to "Gabon",
+            "ua" to "Габон",
+            "cn" to "加蓬",
+            "de" to "Gabun",
+            "es" to "Gabón",
+            "fr" to "Gabon",
+            "ja" to "ガボン",
+            "kr" to "가봉",
+            "pt" to "Gabão"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Gambia",
         prefix = "+220",
         flag = R.drawable.gm,
@@ -945,12 +1571,21 @@ val countries = listOf(
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "GM",
-        translatedNames = listOf(
-            Pair("en", "Gambia"),
-            Pair("pl", "Gambia"),
-            Pair("ua", "Гамбія")
+        visualFormatter = "### ## ##",
+        translatedNames = mapOf(
+            "en" to "Gambia",
+            "pl" to "Gambia",
+            "ua" to "Гамбія",
+            "cn" to "冈比亚",
+            "de" to "Gambia",
+            "es" to "Gambia",
+            "fr" to "Gambie",
+            "ja" to "ガンビア",
+            "kr" to "감비아",
+            "pt" to "Gâmbia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Georgia",
         prefix = "+995",
         flag = R.drawable.ge,
@@ -958,25 +1593,43 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "GE",
-        translatedNames = listOf(
-            Pair("en", "Georgia"),
-            Pair("pl", "Gruzja"),
-            Pair("ua", "Грузія")
+        visualFormatter = "### ### ###",
+        translatedNames = mapOf(
+            "en" to "Georgia",
+            "pl" to "Gruzja",
+            "ua" to "Грузія",
+            "cn" to "格鲁吉亚",
+            "de" to "Georgien",
+            "es" to "Georgia",
+            "fr" to "Géorgie",
+            "ja" to "グルジア",
+            "kr" to "조지아",
+            "pt" to "Geórgia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Germany",
         prefix = "+49",
         flag = R.drawable.de,
         flagEmoji = "🇩🇪",
-        minPhoneLength = 11,
-        maxPhoneLength = 11,
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
         countryCode = "DE",
-        translatedNames = listOf(
-            Pair("en", "Germany"),
-            Pair("pl", "Niemcy"),
-            Pair("ua", "Німеччина")
+        visualFormatter = "### ###",
+        translatedNames = mapOf(
+            "en" to "Germany",
+            "pl" to "Niemcy",
+            "ua" to "Німеччина",
+            "cn" to "德国",
+            "de" to "Deutschland",
+            "es" to "Alemania",
+            "fr" to "Allemagne",
+            "ja" to "ドイツ",
+            "kr" to "독일",
+            "pt" to "Alemanha"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Ghana",
         prefix = "+233",
         flag = R.drawable.gh,
@@ -984,12 +1637,21 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "GH",
-        translatedNames = listOf(
-            Pair("en", "Ghana"),
-            Pair("pl", "Ghana"),
-            Pair("ua", "Гана")
+        visualFormatter = "### ### ###",
+        translatedNames = mapOf(
+            "en" to "Ghana",
+            "pl" to "Ghana",
+            "ua" to "Гана",
+            "cn" to "加纳",
+            "de" to "Ghana",
+            "es" to "Ghana",
+            "fr" to "Ghana",
+            "ja" to "ガーナ",
+            "kr" to "가나",
+            "pt" to "Gana"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Gibraltar",
         prefix = "+350",
         flag = R.drawable.gi,
@@ -997,12 +1659,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "GI",
-        translatedNames = listOf(
-            Pair("en", "Gibraltar"),
-            Pair("pl", "Gibraltar"),
-            Pair("ua", "Гібралтар")
+        visualFormatter = "### #####",
+        translatedNames = mapOf(
+            "en" to "Gibraltar",
+            "pl" to "Gibraltar",
+            "ua" to "Гібралтар",
+            "cn" to "直布罗陀",
+            "de" to "Gibraltar",
+            "es" to "Gibraltar",
+            "fr" to "Gibraltar",
+            "ja" to "ジブラルタル",
+            "kr" to "지브롤터",
+            "pt" to "Gibraltar"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Greece",
         prefix = "+30",
         flag = R.drawable.gr,
@@ -1010,12 +1681,21 @@ val countries = listOf(
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "GR",
-        translatedNames = listOf(
-            Pair("en", "Greece"),
-            Pair("pl", "Grecja"),
-            Pair("ua", "Греція")
+        visualFormatter = "### ### ####",
+        translatedNames = mapOf(
+            "en" to "Greece",
+            "pl" to "Grecja",
+            "ua" to "Греція",
+            "cn" to "希腊",
+            "de" to "Griechenland",
+            "es" to "Grecia",
+            "fr" to "Grèce",
+            "ja" to "ギリシャ",
+            "kr" to "그리스",
+            "pt" to "Grécia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Greenland",
         prefix = "+299",
         flag = R.drawable.gl,
@@ -1023,25 +1703,43 @@ val countries = listOf(
         minPhoneLength = 6,
         maxPhoneLength = 6,
         countryCode = "GL",
-        translatedNames = listOf(
-            Pair("en", "Greenland"),
-            Pair("pl", "Grenlandia"),
-            Pair("ua", "Гренландія")
+        visualFormatter = "## ## ##",
+        translatedNames = mapOf(
+            "en" to "Greenland",
+            "pl" to "Grenlandia",
+            "ua" to "Гренландія",
+            "cn" to "格陵兰岛",
+            "de" to "Grönland",
+            "es" to "Groenlandia",
+            "fr" to "Groenland",
+            "ja" to "グリーンランド",
+            "kr" to "그린란드",
+            "pt" to "Gronelândia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Grenada",
         prefix = "+1473",
         flag = R.drawable.gd,
         flagEmoji = "🇬🇩",
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
         countryCode = "GD",
-        translatedNames = listOf(
-            Pair("en", "Grenada"),
-            Pair("pl", "Grenada"),
-            Pair("ua", "Гренада")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Grenada",
+            "pl" to "Grenada",
+            "ua" to "Гренада",
+            "cn" to "格林纳达",
+            "de" to "Grenada",
+            "es" to "Grenada",
+            "fr" to "Grenade",
+            "ja" to "グレナダ",
+            "kr" to "그레나다",
+            "pt" to "Granada"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Guadeloupe",
         prefix = "+590",
         flag = R.drawable.gp,
@@ -1049,25 +1747,43 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "GP",
-        translatedNames = listOf(
-            Pair("en", "Guadeloupe"),
-            Pair("pl", "Gwadelupa"),
-            Pair("ua", "Гваделупа")
+        visualFormatter = "",
+        translatedNames = mapOf(
+            "en" to "Guadeloupe",
+            "pl" to "Gwadelupa",
+            "ua" to "Гваделупа",
+            "cn" to "瓜德罗普岛",
+            "de" to "Guadeloupe",
+            "es" to "Guadalupe",
+            "fr" to "Guadeloupe",
+            "ja" to "グアドループ",
+            "kr" to "과들루프",
+            "pt" to "Guadalupe"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Guam",
         prefix = "+1671",
         flag = R.drawable.gu,
         flagEmoji = "🇬🇺",
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
         countryCode = "GU",
-        translatedNames = listOf(
-            Pair("en", "Guam"),
-            Pair("pl", "Guam"),
-            Pair("ua", "Гуам")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Guam",
+            "pl" to "Guam",
+            "ua" to "Гуам",
+            "cn" to "关岛",
+            "de" to "Guam",
+            "es" to "Guam",
+            "fr" to "Guam",
+            "ja" to "グアム",
+            "kr" to "괌",
+            "pt" to "Guame"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Guatemala",
         prefix = "+502",
         flag = R.drawable.gt,
@@ -1075,12 +1791,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "GT",
-        translatedNames = listOf(
-            Pair("en", "Guatemala"),
-            Pair("pl", "Gwatemala"),
-            Pair("ua", "Гватемала")
+        visualFormatter = "# ### ####",
+        translatedNames = mapOf(
+            "en" to "Guatemala",
+            "pl" to "Gwatemala",
+            "ua" to "Гватемала",
+            "cn" to "危地马拉",
+            "de" to "Guatemala",
+            "es" to "Guatemala",
+            "fr" to "Guatemala",
+            "ja" to "グアテマラ",
+            "kr" to "과테말라",
+            "pt" to "Guatemala"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Guinea",
         prefix = "+224",
         flag = R.drawable.gn,
@@ -1088,25 +1813,43 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "GN",
-        translatedNames = listOf(
-            Pair("en", "Guinea"),
-            Pair("pl", "Gwinea"),
-            Pair("ua", "Гвінея")
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "Guinea",
+            "pl" to "Gwinea",
+            "ua" to "Гвінея",
+            "cn" to "几内亚",
+            "de" to "Guinea",
+            "es" to "Guinea",
+            "fr" to "Guinée",
+            "ja" to "ギニア",
+            "kr" to "기니",
+            "pt" to "Guiné"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Guinea-Bissau",
         prefix = "+245",
         flag = R.drawable.gw,
         flagEmoji = "🇬🇼",
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
         countryCode = "GW",
-        translatedNames = listOf(
-            Pair("en", "Guinea-Bissau"),
-            Pair("pl", "Gwinea-Bissau"),
-            Pair("ua", "Гвінея-Біссау")
+        visualFormatter = "# ######",
+        translatedNames = mapOf(
+            "en" to "Guinea-Bissau",
+            "pl" to "Gwinea-Bissau",
+            "ua" to "Гвінея-Біссау",
+            "cn" to "几内亚比绍",
+            "de" to "Guinea-Bissau",
+            "es" to "Guinea-Bisáu",
+            "fr" to "Guinée-Bissau",
+            "ja" to "ギニアビサウ",
+            "kr" to "기니비사우",
+            "pt" to "Guiné-Bissau"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Guyana",
         prefix = "+592",
         flag = R.drawable.gy,
@@ -1114,12 +1857,21 @@ val countries = listOf(
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "GY",
-        translatedNames = listOf(
-            Pair("en", "Guyana"),
-            Pair("pl", "Gujana"),
-            Pair("ua", "Гаяна")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Guyana",
+            "pl" to "Gujana",
+            "ua" to "Гаяна",
+            "cn" to "圭亚那",
+            "de" to "Guyana",
+            "es" to "Guyana",
+            "fr" to "Guyane",
+            "ja" to "ガイアナ",
+            "kr" to "가이아나",
+            "pt" to "Guiana"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Haiti",
         prefix = "+509",
         flag = R.drawable.ht,
@@ -1127,12 +1879,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "HT",
-        translatedNames = listOf(
-            Pair("en", "Haiti"),
-            Pair("pl", "Haiti"),
-            Pair("ua", "Гаїті")
+        visualFormatter = "## ## ####",
+        translatedNames = mapOf(
+            "en" to "Haiti",
+            "pl" to "Haiti",
+            "ua" to "Гаїті",
+            "cn" to "海地",
+            "de" to "Haiti",
+            "es" to "Haiti",
+            "fr" to "Haïti",
+            "ja" to "ハイチ",
+            "kr" to "아이티",
+            "pt" to "Haiti"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Honduras",
         prefix = "+504",
         flag = R.drawable.hn,
@@ -1140,25 +1901,43 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "HN",
-        translatedNames = listOf(
-            Pair("en", "Honduras"),
-            Pair("pl", "Honduras"),
-            Pair("ua", "Гондурас")
+        visualFormatter = "#### ####",
+        translatedNames = mapOf(
+            "en" to "Honduras",
+            "pl" to "Honduras",
+            "ua" to "Гондурас",
+            "cn" to "洪都拉斯",
+            "de" to "Honduras",
+            "es" to "Honduras",
+            "fr" to "Honduras",
+            "ja" to "ホンジュラス",
+            "kr" to "온두라스",
+            "pt" to "Honduras"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Hong Kong",
         prefix = "+852",
         flag = R.drawable.hk,
         flagEmoji = "🇭🇰",
         minPhoneLength = 8,
-        maxPhoneLength = 9,
+        maxPhoneLength = 8,
         countryCode = "HK",
-        translatedNames = listOf(
-            Pair("en", "Hong Kong"),
-            Pair("pl", "Hongkong"),
-            Pair("ua", "Гонконг")
+        visualFormatter = "#### ####",
+        translatedNames = mapOf(
+            "en" to "Hong Kong",
+            "pl" to "Hongkong",
+            "ua" to "Гонконг",
+            "cn" to "中国香港",
+            "de" to "Hong Kong",
+            "es" to "Hong Kong",
+            "fr" to "Hong Kong",
+            "ja" to "香港",
+            "kr" to "홍콩",
+            "pt" to "Hong Kong"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Hungary",
         prefix = "+36",
         flag = R.drawable.hu,
@@ -1166,12 +1945,21 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "HU",
-        translatedNames = listOf(
-            Pair("en", "Hungary"),
-            Pair("pl", "Węgry"),
-            Pair("ua", "Угорщина")
+        visualFormatter = "### ### ###",
+        translatedNames = mapOf(
+            "en" to "Hungary",
+            "pl" to "Węgry",
+            "ua" to "Угорщина",
+            "cn" to "匈牙利",
+            "de" to "Ungarn",
+            "es" to "Hungría",
+            "fr" to "Hongrie",
+            "ja" to "ハンガリー",
+            "kr" to "헝가리",
+            "pt" to "Hungria"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Iceland",
         prefix = "+354",
         flag = R.drawable.`is`,
@@ -1179,12 +1967,21 @@ val countries = listOf(
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "IS",
-        translatedNames = listOf(
-            Pair("en", "Iceland"),
-            Pair("pl", "Islandia"),
-            Pair("ua", "Ісландія")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Iceland",
+            "pl" to "Islandia",
+            "ua" to "Ісландія",
+            "cn" to "冰岛",
+            "de" to "Island",
+            "es" to "Islandia",
+            "fr" to "Islande",
+            "ja" to "アイスランド",
+            "kr" to "아이슬란드",
+            "pt" to "Islândia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "India",
         prefix = "+91",
         flag = R.drawable.`in`,
@@ -1192,38 +1989,65 @@ val countries = listOf(
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "IN",
-        translatedNames = listOf(
-            Pair("en", "India"),
-            Pair("pl", "Indie"),
-            Pair("ua", "Індія")
+        visualFormatter = "#### ### ###",
+        translatedNames = mapOf(
+            "en" to "India",
+            "pl" to "Indie",
+            "ua" to "Індія",
+            "cn" to "印度",
+            "de" to "Indien",
+            "es" to "India",
+            "fr" to "Inde",
+            "ja" to "インド",
+            "kr" to "인도",
+            "pt" to "Índia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Indonesia",
         prefix = "+62",
         flag = R.drawable.id,
         flagEmoji = "🇮🇩",
-        minPhoneLength = 10,
+        minPhoneLength = 11,
         maxPhoneLength = 11,
         countryCode = "ID",
-        translatedNames = listOf(
-            Pair("en", "Indonesia"),
-            Pair("pl", "Indonezja"),
-            Pair("ua", "Індонезія")
+        visualFormatter = "## ### ## ###",
+        translatedNames = mapOf(
+            "en" to "Indonesia",
+            "pl" to "Indonezja",
+            "ua" to "Індонезія",
+            "cn" to "印度尼西亚",
+            "de" to "Indonesien",
+            "es" to "Indonesia",
+            "fr" to "Indonésie",
+            "ja" to "インドネシア",
+            "kr" to "인도네시아",
+            "pt" to "Indonésia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Iran",
         prefix = "+98",
         flag = R.drawable.ir,
         flagEmoji = "🇮🇷",
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
+        minPhoneLength = 11,
+        maxPhoneLength = 11,
         countryCode = "IR",
-        translatedNames = listOf(
-            Pair("en", "Iran"),
-            Pair("pl", "Iran"),
-            Pair("ua", "Іран")
+        visualFormatter = "### ### ####",
+        translatedNames = mapOf(
+            "en" to "Iran",
+            "pl" to "Iran",
+            "ua" to "Іран",
+            "cn" to "伊朗",
+            "de" to "Iran",
+            "es" to "Iran",
+            "fr" to "Iran",
+            "ja" to "イラン・イスラム共和国",
+            "kr" to "이란",
+            "pt" to "Irão"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Iraq",
         prefix = "+964",
         flag = R.drawable.iq,
@@ -1231,25 +2055,43 @@ val countries = listOf(
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "IQ",
-        translatedNames = listOf(
-            Pair("en", "Iraq"),
-            Pair("pl", "Irak"),
-            Pair("ua", "Ірак")
+        visualFormatter = "### ### ####",
+        translatedNames = mapOf(
+            "en" to "Iraq",
+            "pl" to "Irak",
+            "ua" to "Ірак",
+            "cn" to "伊拉克",
+            "de" to "Irak",
+            "es" to "Irak",
+            "fr" to "Irak",
+            "ja" to "イラク",
+            "kr" to "이라크",
+            "pt" to "Iraque"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Ireland",
         prefix = "+353",
         flag = R.drawable.ie,
         flagEmoji = "🇮🇪",
-        minPhoneLength = 7,
+        minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "IE",
-        translatedNames = listOf(
-            Pair("en", "Ireland"),
-            Pair("pl", "Irlandia"),
-            Pair("ua", "Ірландія")
+        visualFormatter = "### ### ###",
+        translatedNames = mapOf(
+            "en" to "Ireland",
+            "pl" to "Irlandia",
+            "ua" to "Ірландія",
+            "cn" to "爱尔兰",
+            "de" to "Irland",
+            "es" to "Irlanda",
+            "fr" to "Irlande",
+            "ja" to "アイルランド",
+            "kr" to "아일랜드",
+            "pt" to "Irlanda"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Israel",
         prefix = "+972",
         flag = R.drawable.il,
@@ -1257,12 +2099,21 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "IL",
-        translatedNames = listOf(
-            Pair("en", "Israel"),
-            Pair("pl", "Izrael"),
-            Pair("ua", "Ізраїль")
+        visualFormatter = "# ### ####",
+        translatedNames = mapOf(
+            "en" to "Israel",
+            "pl" to "Izrael",
+            "ua" to "Ізраїль",
+            "cn" to "以色列",
+            "de" to "Israel",
+            "es" to "Israel",
+            "fr" to "Israël",
+            "ja" to "イスラエル",
+            "kr" to "이스라엘",
+            "pt" to "Israel"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Italy",
         prefix = "+39",
         flag = R.drawable.it,
@@ -1270,51 +2121,87 @@ val countries = listOf(
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "IT",
-        translatedNames = listOf(
-            Pair("en", "Italy"),
-            Pair("pl", "Włochy"),
-            Pair("ua", "Італія")
+        visualFormatter = "### #### ###",
+        translatedNames = mapOf(
+            "en" to "Italy",
+            "pl" to "Włochy",
+            "ua" to "Італія",
+            "cn" to "意大利",
+            "de" to "Italien",
+            "es" to "Italia",
+            "fr" to "Italie",
+            "ja" to "イタリア",
+            "kr" to "이탈리아",
+            "pt" to "Itália"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Jamaica",
         prefix = "+1876",
         flag = R.drawable.jm,
         flagEmoji = "🇯🇲",
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
         countryCode = "JM",
-        translatedNames = listOf(
-            Pair("en", "Jamaica"),
-            Pair("pl", "Jamajka"),
-            Pair("ua", "Ямайка")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Jamaica",
+            "pl" to "Jamajka",
+            "ua" to "Ямайка",
+            "cn" to "牙买加",
+            "de" to "Jamaika",
+            "es" to "Jamaica",
+            "fr" to "Jamaïque",
+            "ja" to "ジャマイカ",
+            "kr" to "자메이카",
+            "pt" to "Jamaica"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Japan",
         prefix = "+81",
         flag = R.drawable.jp,
         flagEmoji = "🇯🇵",
-        minPhoneLength = 10,
-        maxPhoneLength = 11,
+        minPhoneLength = 5,
+        maxPhoneLength = 13,
         countryCode = "JP",
-        translatedNames = listOf(
-            Pair("en", "Japan"),
-            Pair("pl", "Japonia"),
-            Pair("ua", "Японія")
+        visualFormatter = "### ### ###",
+        translatedNames = mapOf(
+            "en" to "Japan",
+            "pl" to "Japonia",
+            "ua" to "Японія",
+            "cn" to "日本",
+            "de" to "Japan",
+            "es" to "Japón",
+            "fr" to "Japon",
+            "ja" to "日本",
+            "kr" to "일본",
+            "pt" to "Japão"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Jordan",
         prefix = "+962",
         flag = R.drawable.jo,
         flagEmoji = "🇯🇴",
-        minPhoneLength = 9,
+        minPhoneLength = 8,
         maxPhoneLength = 9,
         countryCode = "JO",
-        translatedNames = listOf(
-            Pair("en", "Jordan"),
-            Pair("pl", "Jordania"),
-            Pair("ua", "Йорданія")
+        visualFormatter = "# #### ####",
+        translatedNames = mapOf(
+            "en" to "Jordan",
+            "pl" to "Jordania",
+            "ua" to "Йорданія",
+            "cn" to "约旦",
+            "de" to "Jordanien",
+            "es" to "Jordania",
+            "fr" to "Jordanie",
+            "ja" to "ヨルダン",
+            "kr" to "요르단",
+            "pt" to "Jordânia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Kazakhstan",
         prefix = "+7",
         flag = R.drawable.kz,
@@ -1322,12 +2209,21 @@ val countries = listOf(
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "KZ",
-        translatedNames = listOf(
-            Pair("en", "Kazakhstan"),
-            Pair("pl", "Kazachstan"),
-            Pair("ua", "Казахстан")
+        visualFormatter = "## ### ## ##",
+        translatedNames = mapOf(
+            "en" to "Kazakhstan",
+            "pl" to "Kazachstan",
+            "ua" to "Казахстан",
+            "cn" to "哈萨克斯坦",
+            "de" to "Kasachstan",
+            "es" to "Kazajistán",
+            "fr" to "Kazakhstan",
+            "ja" to "カザフスタン",
+            "kr" to "카자흐스탄",
+            "pt" to "Cazaquistão"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Kenya",
         prefix = "+254",
         flag = R.drawable.ke,
@@ -1335,64 +2231,65 @@ val countries = listOf(
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "KE",
-        translatedNames = listOf(
-            Pair("en", "Kenya"),
-            Pair("pl", "Kenia"),
-            Pair("ua", "Кенія")
+        visualFormatter = "### ######",
+        translatedNames = mapOf(
+            "en" to "Kenya",
+            "pl" to "Kenia",
+            "ua" to "Кенія",
+            "cn" to "肯尼亚",
+            "de" to "Kenia",
+            "es" to "Kenia",
+            "fr" to "Kenya",
+            "ja" to "ケニア",
+            "kr" to "케냐",
+            "pt" to "Quénia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Kiribati",
         prefix = "+686",
         flag = R.drawable.ki,
         flagEmoji = "🇰🇮",
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
-        countryCode = "KI",
-        translatedNames = listOf(
-            Pair("en", "Kiribati"),
-            Pair("pl", "Kiribati"),
-            Pair("ua", "Кірибаті")
-        )
-    ),CountryCallingData(
-        name = "North Korea",
-        prefix = "+850",
-        flag = R.drawable.kp,
-        flagEmoji = "🇰🇵",
         minPhoneLength = 8,
         maxPhoneLength = 8,
-        countryCode = "KP",
-        translatedNames = listOf(
-            Pair("en", "North Korea"),
-            Pair("pl", "Korea Północna"),
-            Pair("ua", "Північна Корея")
+        countryCode = "KI",
+        visualFormatter = "## ###",
+        translatedNames = mapOf(
+            "en" to "Kiribati",
+            "pl" to "Kiribati",
+            "ua" to "Кірибаті",
+            "cn" to "基里巴斯",
+            "de" to "Kiribati",
+            "es" to "Kiribati",
+            "fr" to "Kiribati",
+            "ja" to "キリバス",
+            "kr" to "키리바시",
+            "pt" to "Quiribáti"
         )
-    ),CountryCallingData(
-        name = "South Korea",
-        prefix = "+82",
-        flag = R.drawable.kr,
-        flagEmoji = "🇰🇷",
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
-        countryCode = "KR",
-        translatedNames = listOf(
-            Pair("en", "South Korea"),
-            Pair("pl", "Korea Południowa"),
-            Pair("ua", "Південна Корея")
-        )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Kosovo",
         prefix = "+383",
         flag = R.drawable.xk,
         flagEmoji = "🇽🇰",
         minPhoneLength = 8,
-        maxPhoneLength = 9,
+        maxPhoneLength = 8,
         countryCode = "XK",
-        translatedNames = listOf(
-            Pair("en", "Kosovo"),
-            Pair("pl", "Kosowo"),
-            Pair("ua", "Косово")
+        visualFormatter = "",
+        translatedNames = mapOf(
+            "en" to "Kosovo",
+            "pl" to "Kosowo",
+            "ua" to "Косово",
+            "cn" to "科索沃",
+            "de" to "",
+            "es" to "",
+            "fr" to "",
+            "ja" to "",
+            "kr" to "코소보",
+            "pt" to ""
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Kuwait",
         prefix = "+965",
         flag = R.drawable.kw,
@@ -1400,12 +2297,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "KW",
-        translatedNames = listOf(
-            Pair("en", "Kuwait"),
-            Pair("pl", "Kuwejt"),
-            Pair("ua", "Кувейт")
+        visualFormatter = "#### ####",
+        translatedNames = mapOf(
+            "en" to "Kuwait",
+            "pl" to "Kuwejt",
+            "ua" to "Кувейт",
+            "cn" to "科威特",
+            "de" to "Kuwait",
+            "es" to "Kuwait",
+            "fr" to "Koweït",
+            "ja" to "クウェート",
+            "kr" to "쿠웨이트",
+            "pt" to "Kuwait"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Kyrgyzstan",
         prefix = "+996",
         flag = R.drawable.kg,
@@ -1413,25 +2319,43 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "KG",
-        translatedNames = listOf(
-            Pair("en", "Kyrgyzstan"),
-            Pair("pl", "Kirgistan"),
-            Pair("ua", "Киргизстан")
+        visualFormatter = "### ### ###",
+        translatedNames = mapOf(
+            "en" to "Kyrgyzstan",
+            "pl" to "Kirgistan",
+            "ua" to "Киргизстан",
+            "cn" to "吉尔吉斯斯坦",
+            "de" to "Kirgisistan",
+            "es" to "Kirguizistán",
+            "fr" to "Kirghizistan",
+            "ja" to "キルギス",
+            "kr" to "키르기스스탄",
+            "pt" to "Quirguizistão"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Laos",
         prefix = "+856",
         flag = R.drawable.la,
         flagEmoji = "🇱🇦",
         minPhoneLength = 8,
-        maxPhoneLength = 8,
+        maxPhoneLength = 9,
         countryCode = "LA",
-        translatedNames = listOf(
-            Pair("en", "Laos"),
-            Pair("pl", "Laos"),
-            Pair("ua", "Лаос")
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "Laos",
+            "pl" to "Laos",
+            "ua" to "Лаос",
+            "cn" to "寮人民民主共和国",
+            "de" to "Laos",
+            "es" to "Laos",
+            "fr" to "Laos",
+            "ja" to "ラオス人民民主共和国",
+            "kr" to "라오스",
+            "pt" to "Laos"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Latvia",
         prefix = "+371",
         flag = R.drawable.lv,
@@ -1439,25 +2363,43 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "LV",
-        translatedNames = listOf(
-            Pair("en", "Latvia"),
-            Pair("pl", "Łotwa"),
-            Pair("ua", "Латвія")
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "Latvia",
+            "pl" to "Łotwa",
+            "ua" to "Латвія",
+            "cn" to "拉脱维亚",
+            "de" to "Lettland",
+            "es" to "Letonia",
+            "fr" to "Lettonie",
+            "ja" to "ラトビア",
+            "kr" to "라트비아",
+            "pt" to "Letónia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Lebanon",
         prefix = "+961",
         flag = R.drawable.lb,
         flagEmoji = "🇱🇧",
-        minPhoneLength = 8,
+        minPhoneLength = 7,
         maxPhoneLength = 8,
         countryCode = "LB",
-        translatedNames = listOf(
-            Pair("en", "Lebanon"),
-            Pair("pl", "Liban"),
-            Pair("ua", "Ліван")
+        visualFormatter = "# ### ###",
+        translatedNames = mapOf(
+            "en" to "Lebanon",
+            "pl" to "Liban",
+            "ua" to "Ліван",
+            "cn" to "黎巴嫩",
+            "de" to "Libanon",
+            "es" to "Líbano",
+            "fr" to "Liban",
+            "ja" to "レバノン",
+            "kr" to "레바논",
+            "pt" to "Líbano"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Lesotho",
         prefix = "+266",
         flag = R.drawable.ls,
@@ -1465,51 +2407,87 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "LS",
-        translatedNames = listOf(
-            Pair("en", "Lesotho"),
-            Pair("pl", "Lesotho"),
-            Pair("ua", "Лесото")
+        visualFormatter = "# ### ####",
+        translatedNames = mapOf(
+            "en" to "Lesotho",
+            "pl" to "Lesotho",
+            "ua" to "Лесото",
+            "cn" to "莱索托",
+            "de" to "Lesotho",
+            "es" to "Lesotho",
+            "fr" to "Lesotho",
+            "ja" to "レソト",
+            "kr" to "레소토",
+            "pt" to "Lesoto"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Liberia",
         prefix = "+231",
         flag = R.drawable.lr,
         flagEmoji = "🇱🇷",
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
+        minPhoneLength = 8,
+        maxPhoneLength = 9,
         countryCode = "LR",
-        translatedNames = listOf(
-            Pair("en", "Liberia"),
-            Pair("pl", "Liberia"),
-            Pair("ua", "Ліберія")
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "Liberia",
+            "pl" to "Liberia",
+            "ua" to "Ліберія",
+            "cn" to "利比里亚",
+            "de" to "Liberia",
+            "es" to "Liberia",
+            "fr" to "Liberia",
+            "ja" to "リベリア",
+            "kr" to "라이베리아",
+            "pt" to "Libéria"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Libya",
         prefix = "+218",
         flag = R.drawable.ly,
         flagEmoji = "🇱🇾",
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
         countryCode = "LY",
-        translatedNames = listOf(
-            Pair("en", "Libya"),
-            Pair("pl", "Libia"),
-            Pair("ua", "Лівія")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Libya",
+            "pl" to "Libia",
+            "ua" to "Лівія",
+            "cn" to "利比亚",
+            "de" to "Libyen",
+            "es" to "Libia",
+            "fr" to "Libye",
+            "ja" to "リビア",
+            "kr" to "리비아",
+            "pt" to "Líbia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Liechtenstein",
         prefix = "+423",
         flag = R.drawable.li,
         flagEmoji = "🇱🇮",
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
         countryCode = "LI",
-        translatedNames = listOf(
-            Pair("en", "Liechtenstein"),
-            Pair("pl", "Liechtenstein"),
-            Pair("ua", "Ліхтенштейн")
+        visualFormatter = "### ### ####",
+        translatedNames = mapOf(
+            "en" to "Liechtenstein",
+            "pl" to "Liechtenstein",
+            "ua" to "Ліхтенштейн",
+            "cn" to "列支敦士登",
+            "de" to "Liechtenstein",
+            "es" to "Liechtenstein",
+            "fr" to "Liechtenstein",
+            "ja" to "リヒテンシュタイン",
+            "kr" to "리히텐슈타인",
+            "pt" to "Listenstaine"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Lithuania",
         prefix = "+370",
         flag = R.drawable.lt,
@@ -1517,12 +2495,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "LT",
-        translatedNames = listOf(
-            Pair("en", "Lithuania"),
-            Pair("pl", "Litwa"),
-            Pair("ua", "Литва")
+        visualFormatter = "### ## ###",
+        translatedNames = mapOf(
+            "en" to "Lithuania",
+            "pl" to "Litwa",
+            "ua" to "Литва",
+            "cn" to "立陶宛",
+            "de" to "Litauen",
+            "es" to "Lituania",
+            "fr" to "Lituanie",
+            "ja" to "リトアニア",
+            "kr" to "리투아니아",
+            "pt" to "Lituânia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Luxembourg",
         prefix = "+352",
         flag = R.drawable.lu,
@@ -1530,77 +2517,109 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "LU",
-        translatedNames = listOf(
-            Pair("en", "Luxembourg"),
-            Pair("pl", "Luksemburg"),
-            Pair("ua", "Люксембург")
+        visualFormatter = "### ### ###",
+        translatedNames = mapOf(
+            "en" to "Luxembourg",
+            "pl" to "Luksemburg",
+            "ua" to "Люксембург",
+            "cn" to "卢森堡",
+            "de" to "Luxemburg",
+            "es" to "Luxemburgo",
+            "fr" to "Luxembourg",
+            "ja" to "ルクセンブルク",
+            "kr" to "룩셈부르크",
+            "pt" to "Luxemburgo"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Macau",
         prefix = "+853",
         flag = R.drawable.mo,
         flagEmoji = "🇲🇴",
-        minPhoneLength = 7,
-        maxPhoneLength = 8,
-        countryCode = "MO",
-        translatedNames = listOf(
-            Pair("en", "Macau"),
-            Pair("pl", "Makau"),
-            Pair("ua", "Макао")
-        )
-    ),CountryCallingData(
-        name = "Macedonia",
-        prefix = "+389",
-        flag = R.drawable.mk,
-        flagEmoji = "🇲🇰",
         minPhoneLength = 8,
         maxPhoneLength = 8,
-        countryCode = "MK",
-        translatedNames = listOf(
-            Pair("en", "North Macedonia"),
-            Pair("pl", "Północna Macedonia"),
-            Pair("ua", "Північна Македонія")
+        countryCode = "MO",
+        visualFormatter = "#### ####",
+        translatedNames = mapOf(
+            "en" to "Macau",
+            "pl" to "Makau",
+            "ua" to "Макао",
+            "cn" to "中国澳门",
+            "de" to "Macao",
+            "es" to "Macao",
+            "fr" to "Macao",
+            "ja" to "マカオ",
+            "kr" to "마카오",
+            "pt" to "Macau"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Madagascar",
         prefix = "+261",
         flag = R.drawable.mg,
         flagEmoji = "🇲🇬",
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
         countryCode = "MG",
-        translatedNames = listOf(
-            Pair("en", "Madagascar"),
-            Pair("pl", "Madagaskar"),
-            Pair("ua", "Мадагаскар")
+        visualFormatter = "## ## #####",
+        translatedNames = mapOf(
+            "en" to "Madagascar",
+            "pl" to "Madagaskar",
+            "ua" to "Мадагаскар",
+            "cn" to "马达加斯加",
+            "de" to "Madagaskar",
+            "es" to "Madagascar",
+            "fr" to "Madagascar",
+            "ja" to "マダガスカル",
+            "kr" to "마다가스카르",
+            "pt" to "Madagáscar"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Malawi",
         prefix = "+265",
         flag = R.drawable.mw,
         flagEmoji = "🇲🇼",
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
+        minPhoneLength = 7,
+        maxPhoneLength = 9,
         countryCode = "MW",
-        translatedNames = listOf(
-            Pair("en", "Malawi"),
-            Pair("pl", "Malawi"),
-            Pair("ua", "Малаві")
+        visualFormatter = "# #### ####",
+        translatedNames = mapOf(
+            "en" to "Malawi",
+            "pl" to "Malawi",
+            "ua" to "Малаві",
+            "cn" to "马拉维",
+            "de" to "Malawi",
+            "es" to "Malawi",
+            "fr" to "Malawi",
+            "ja" to "マラウイ",
+            "kr" to "말라위",
+            "pt" to "Malávi"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Malaysia",
         prefix = "+60",
         flag = R.drawable.my,
         flagEmoji = "🇲🇾",
-        minPhoneLength = 9,
-        maxPhoneLength = 10,
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
         countryCode = "MY",
-        translatedNames = listOf(
-            Pair("en", "Malaysia"),
-            Pair("pl", "Malezja"),
-            Pair("ua", "Малайзія")
+        visualFormatter = "# ### ###",
+        translatedNames = mapOf(
+            "en" to "Malaysia",
+            "pl" to "Malezja",
+            "ua" to "Малайзія",
+            "cn" to "马来西亚",
+            "de" to "Malaysia",
+            "es" to "Malasia",
+            "fr" to "Malaisie",
+            "ja" to "マレーシア",
+            "kr" to "말레이시아",
+            "pt" to "Malásia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Maldives",
         prefix = "+960",
         flag = R.drawable.mv,
@@ -1608,12 +2627,21 @@ val countries = listOf(
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "MV",
-        translatedNames = listOf(
-            Pair("en", "Maldives"),
-            Pair("pl", "Malediwy"),
-            Pair("ua", "Мальдіви")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Maldives",
+            "pl" to "Malediwy",
+            "ua" to "Мальдіви",
+            "cn" to "马尔代夫",
+            "de" to "Malediven",
+            "es" to "Maldivas",
+            "fr" to "Maldives",
+            "ja" to "モルディブ",
+            "kr" to "몰디브",
+            "pt" to "Maldivas"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Mali",
         prefix = "+223",
         flag = R.drawable.ml,
@@ -1621,12 +2649,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "ML",
-        translatedNames = listOf(
-            Pair("en", "Mali"),
-            Pair("pl", "Mali"),
-            Pair("ua", "Малі")
+        visualFormatter = "## ## ####",
+        translatedNames = mapOf(
+            "en" to "Mali",
+            "pl" to "Mali",
+            "ua" to "Малі",
+            "cn" to "马里",
+            "de" to "Mali",
+            "es" to "Mali",
+            "fr" to "Mali",
+            "ja" to "マリ",
+            "kr" to "말리",
+            "pt" to "Mali"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Malta",
         prefix = "+356",
         flag = R.drawable.mt,
@@ -1634,12 +2671,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "MT",
-        translatedNames = listOf(
-            Pair("en", "Malta"),
-            Pair("pl", "Malta"),
-            Pair("ua", "Мальта")
+        visualFormatter = "#### ####",
+        translatedNames = mapOf(
+            "en" to "Malta",
+            "pl" to "Malta",
+            "ua" to "Мальта",
+            "cn" to "马耳他",
+            "de" to "Malta",
+            "es" to "Malta",
+            "fr" to "Malte",
+            "ja" to "マルタ",
+            "kr" to "몰타",
+            "pt" to "Malta"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Marshall Islands",
         prefix = "+692",
         flag = R.drawable.mh,
@@ -1647,12 +2693,21 @@ val countries = listOf(
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "MH",
-        translatedNames = listOf(
-            Pair("en", "Marshall Islands"),
-            Pair("pl", "Wyspy Marshalla"),
-            Pair("ua", "Маршаллові Острови")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Marshall Islands",
+            "pl" to "Wyspy Marshalla",
+            "ua" to "Маршаллові Острови",
+            "cn" to "马绍尔群岛",
+            "de" to "Marshallinseln",
+            "es" to "Islas Marshall",
+            "fr" to "Îles Marshall",
+            "ja" to "マーシャル諸島",
+            "kr" to "마셜 제도",
+            "pt" to "Ilhas Marshall"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Martinique",
         prefix = "+596",
         flag = R.drawable.mq,
@@ -1660,12 +2715,21 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "MQ",
-        translatedNames = listOf(
-            Pair("en", "Martinique"),
-            Pair("pl", "Martynika"),
-            Pair("ua", "Мартиніка")
+        visualFormatter = "### ## ## ##",
+        translatedNames = mapOf(
+            "en" to "Martinique",
+            "pl" to "Martynika",
+            "ua" to "Мартиніка",
+            "cn" to "马提尼克岛",
+            "de" to "Martinique",
+            "es" to "Martinica",
+            "fr" to "Martinique",
+            "ja" to "マルティニーク",
+            "kr" to "마르티니크",
+            "pt" to "Martinica"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Mauritania",
         prefix = "+222",
         flag = R.drawable.mr,
@@ -1673,12 +2737,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "MR",
-        translatedNames = listOf(
-            Pair("en", "Mauritania"),
-            Pair("pl", "Mauretania"),
-            Pair("ua", "Мавританія")
+        visualFormatter = "## ## ####",
+        translatedNames = mapOf(
+            "en" to "Mauritania",
+            "pl" to "Mauretania",
+            "ua" to "Мавританія",
+            "cn" to "毛里塔尼亚",
+            "de" to "Mauretanien",
+            "es" to "Mauritania",
+            "fr" to "Mauritanie",
+            "ja" to "モーリタニア",
+            "kr" to "모리타니",
+            "pt" to "Mauritânia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Mauritius",
         prefix = "+230",
         flag = R.drawable.mu,
@@ -1686,12 +2759,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "MU",
-        translatedNames = listOf(
-            Pair("en", "Mauritius"),
-            Pair("pl", "Mauritius"),
-            Pair("ua", "Маврикій")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Mauritius",
+            "pl" to "Mauritius",
+            "ua" to "Маврикій",
+            "cn" to "毛里求斯",
+            "de" to "Mauritius",
+            "es" to "Mauricio",
+            "fr" to "Île Maurice",
+            "ja" to "モーリシャス",
+            "kr" to "모리셔스",
+            "pt" to "Maurícia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Mexico",
         prefix = "+52",
         flag = R.drawable.mx,
@@ -1699,12 +2781,21 @@ val countries = listOf(
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "MX",
-        translatedNames = listOf(
-            Pair("en", "Mexico"),
-            Pair("pl", "Meksyk"),
-            Pair("ua", "Мексика")
+        visualFormatter = "## ## ####",
+        translatedNames = mapOf(
+            "en" to "Mexico",
+            "pl" to "Meksyk",
+            "ua" to "Мексика",
+            "cn" to "墨西哥",
+            "de" to "Mexiko",
+            "es" to "México",
+            "fr" to "Mexique",
+            "ja" to "メキシコ",
+            "kr" to "멕시코",
+            "pt" to "México"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Micronesia",
         prefix = "+691",
         flag = R.drawable.fm,
@@ -1712,12 +2803,21 @@ val countries = listOf(
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "FM",
-        translatedNames = listOf(
-            Pair("en", "Micronesia"),
-            Pair("pl", "Mikronezja"),
-            Pair("ua", "Мікронезія")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Micronesia",
+            "pl" to "Mikronezja",
+            "ua" to "Мікронезія",
+            "cn" to "密克罗尼西亚",
+            "de" to "Mikronesien",
+            "es" to "Micronesia",
+            "fr" to "Micronésie",
+            "ja" to "ミクロネシア連邦",
+            "kr" to "미크로네시아 연방",
+            "pt" to "Micronésia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Moldova",
         prefix = "+373",
         flag = R.drawable.md,
@@ -1725,12 +2825,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "MD",
-        translatedNames = listOf(
-            Pair("en", "Moldova"),
-            Pair("pl", "Mołdawia"),
-            Pair("ua", "Молдова")
+        visualFormatter = "#### ####",
+        translatedNames = mapOf(
+            "en" to "Moldova",
+            "pl" to "Mołdawia",
+            "ua" to "Молдова",
+            "cn" to "摩尔多瓦",
+            "de" to "Moldawie",
+            "es" to "Moldavia",
+            "fr" to "Moldavie",
+            "ja" to "モルドバ共和国",
+            "kr" to "몰도바",
+            "pt" to "Moldávia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Monaco",
         prefix = "+377",
         flag = R.drawable.mc,
@@ -1738,12 +2847,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "MC",
-        translatedNames = listOf(
-            Pair("en", "Monaco"),
-            Pair("pl", "Monako"),
-            Pair("ua", "Монако")
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "Monaco",
+            "pl" to "Monako",
+            "ua" to "Монако",
+            "cn" to "摩纳哥",
+            "de" to "Monaco",
+            "es" to "Mónaco",
+            "fr" to "Monaco",
+            "ja" to "モナコ",
+            "kr" to "모나코",
+            "pt" to "Mónaco"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Mongolia",
         prefix = "+976",
         flag = R.drawable.mn,
@@ -1751,12 +2869,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "MN",
-        translatedNames = listOf(
-            Pair("en", "Mongolia"),
-            Pair("pl", "Mongolia"),
-            Pair("ua", "Монголія")
+        visualFormatter = "## ## ####",
+        translatedNames = mapOf(
+            "en" to "Mongolia",
+            "pl" to "Mongolia",
+            "ua" to "Монголія",
+            "cn" to "蒙古",
+            "de" to "Mongolei",
+            "es" to "Mongolia",
+            "fr" to "Mongolie",
+            "ja" to "モンゴル",
+            "kr" to "몽골",
+            "pt" to "Mongólia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Montenegro",
         prefix = "+382",
         flag = R.drawable.me,
@@ -1764,25 +2891,43 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "ME",
-        translatedNames = listOf(
-            Pair("en", "Montenegro"),
-            Pair("pl", "Czarnogóra"),
-            Pair("ua", "Чорногорія")
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "Montenegro",
+            "pl" to "Czarnogóra",
+            "ua" to "Чорногорія",
+            "cn" to "黑山",
+            "de" to "Montenegro",
+            "es" to "Montenegro",
+            "fr" to "Monténégro",
+            "ja" to "モンテネグロ",
+            "kr" to "몬테네그로",
+            "pt" to "Montenegro"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Montserrat",
         prefix = "+1664",
         flag = R.drawable.ms,
         flagEmoji = "🇲🇸",
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
         countryCode = "MS",
-        translatedNames = listOf(
-            Pair("en", "Montserrat"),
-            Pair("pl", "Montserat"),
-            Pair("ua", "Монтсеррат")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Montserrat",
+            "pl" to "Montserat",
+            "ua" to "Монтсеррат",
+            "cn" to "蒙特塞拉特",
+            "de" to "Montserrat",
+            "es" to "Montserrat",
+            "fr" to "Montserrat",
+            "ja" to "モントセラト",
+            "kr" to "몬트세랫",
+            "pt" to "Monserrate"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Morocco",
         prefix = "+212",
         flag = R.drawable.ma,
@@ -1790,64 +2935,109 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "MA",
-        translatedNames = listOf(
-            Pair("en", "Morocco"),
-            Pair("pl", "Maroko"),
-            Pair("ua", "Марокко")
+        visualFormatter = "## #### ###",
+        translatedNames = mapOf(
+            "en" to "Morocco",
+            "pl" to "Maroko",
+            "ua" to "Марокко",
+            "cn" to "摩洛哥",
+            "de" to "Marokko",
+            "es" to "Marruecos",
+            "fr" to "Maroc",
+            "ja" to "モロッコ",
+            "kr" to "모로코",
+            "pt" to "Marrocos"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Mozambique",
         prefix = "+258",
         flag = R.drawable.mz,
         flagEmoji = "🇲🇿",
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
+        minPhoneLength = 12,
+        maxPhoneLength = 12,
         countryCode = "MZ",
-        translatedNames = listOf(
-            Pair("en", "Mozambique"),
-            Pair("pl", "Mozambik"),
-            Pair("ua", "Мозамбік")
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "Mozambique",
+            "pl" to "Mozambik",
+            "ua" to "Мозамбік",
+            "cn" to "莫桑比克",
+            "de" to "Mosambik",
+            "es" to "Mozambique",
+            "fr" to "Mozambique",
+            "ja" to "モザンビーク",
+            "kr" to "모잠비크",
+            "pt" to "Moçambique"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Myanmar",
         prefix = "+95",
         flag = R.drawable.mm,
         flagEmoji = "🇲🇲",
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
+        minPhoneLength = 0,
+        maxPhoneLength = 0,
         countryCode = "MM",
-        translatedNames = listOf(
-            Pair("en", "Myanmar"),
-            Pair("pl", "Mjanma"),
-            Pair("ua", "М'янма")
+        visualFormatter = "### ###",
+        translatedNames = mapOf(
+            "en" to "Myanmar",
+            "pl" to "Mjanma",
+            "ua" to "М'янма",
+            "cn" to "缅甸",
+            "de" to "Myanmar",
+            "es" to "Myanmar",
+            "fr" to "Myanmar",
+            "ja" to "ミャンマー",
+            "kr" to "미얀마",
+            "pt" to "Myanmar"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Namibia",
         prefix = "+264",
         flag = R.drawable.na,
         flagEmoji = "🇳🇦",
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
         countryCode = "NA",
-        translatedNames = listOf(
-            Pair("en", "Namibia"),
-            Pair("pl", "Namibia"),
-            Pair("ua", "Намібія")
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "Namibia",
+            "pl" to "Namibia",
+            "ua" to "Намібія",
+            "cn" to "纳米比亚",
+            "de" to "Namibia",
+            "es" to "Namibia",
+            "fr" to "Namibie",
+            "ja" to "ナミビア",
+            "kr" to "나미비아",
+            "pt" to "Namíbia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Nauru",
         prefix = "+674",
         flag = R.drawable.nr,
         flagEmoji = "🇳🇷",
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
         countryCode = "NR",
-        translatedNames = listOf(
-            Pair("en", "Nauru"),
-            Pair("pl", "Nauru"),
-            Pair("ua", "Науру")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Nauru",
+            "pl" to "Nauru",
+            "ua" to "Науру",
+            "cn" to "瑙鲁",
+            "de" to "Nauru",
+            "es" to "Nauru",
+            "fr" to "Nauru",
+            "ja" to "ナウル",
+            "kr" to "나우루",
+            "pt" to "Nauru"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Nepal",
         prefix = "+977",
         flag = R.drawable.np,
@@ -1855,12 +3045,21 @@ val countries = listOf(
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "NP",
-        translatedNames = listOf(
-            Pair("en", "Nepal"),
-            Pair("pl", "Nepal"),
-            Pair("ua", "Непал")
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "Nepal",
+            "pl" to "Nepal",
+            "ua" to "Непал",
+            "cn" to "尼泊尔",
+            "de" to "Népal",
+            "es" to "Nepal",
+            "fr" to "Népal",
+            "ja" to "ネパール",
+            "kr" to "네팔",
+            "pt" to "Nepal"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Netherlands",
         prefix = "+31",
         flag = R.drawable.nl,
@@ -1868,12 +3067,21 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "NL",
-        translatedNames = listOf(
-            Pair("en", "Netherlands"),
-            Pair("pl", "Holandia"),
-            Pair("ua", "Нідерланди")
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "Netherlands",
+            "pl" to "Holandia",
+            "ua" to "Нідерланди",
+            "cn" to "荷兰",
+            "de" to "Niederlande",
+            "es" to "Países Bajos",
+            "fr" to "Pays-Bas",
+            "ja" to "オランダ",
+            "kr" to "네덜란드 ",
+            "pt" to "Países Baixos"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "New Caledonia",
         prefix = "+687",
         flag = R.drawable.nc,
@@ -1881,12 +3089,21 @@ val countries = listOf(
         minPhoneLength = 6,
         maxPhoneLength = 6,
         countryCode = "NC",
-        translatedNames = listOf(
-            Pair("en", "New Caledonia"),
-            Pair("pl", "Nowa Kaledonia"),
-            Pair("ua", "Нова Каледонія")
+        visualFormatter = "## ####",
+        translatedNames = mapOf(
+            "en" to "New Caledonia",
+            "pl" to "Nowa Kaledonia",
+            "ua" to "Нова Каледонія",
+            "cn" to "新喀里多尼亚",
+            "de" to "Neukaledonien",
+            "es" to "Nueva Caledonia",
+            "fr" to "Nouvelle-Calédonie",
+            "ja" to "ニューカレドニア",
+            "kr" to "누벨칼레도니",
+            "pt" to "Nova Caledónia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "New Zealand",
         prefix = "+64",
         flag = R.drawable.nz,
@@ -1894,12 +3111,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 9,
         countryCode = "NZ",
-        translatedNames = listOf(
-            Pair("en", "New Zealand"),
-            Pair("pl", "Nowa Zelandia"),
-            Pair("ua", "Нова Зеландія")
+        visualFormatter = "### ### ####",
+        translatedNames = mapOf(
+            "en" to "New Zealand",
+            "pl" to "Nowa Zelandia",
+            "ua" to "Нова Зеландія",
+            "cn" to "新西兰",
+            "de" to "Neuseeland",
+            "es" to "Nueva Zelanda",
+            "fr" to "Nouvelle-Zélande",
+            "ja" to "ニュージーランド",
+            "kr" to "뉴질랜드",
+            "pt" to "Nova Zelândia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Nicaragua",
         prefix = "+505",
         flag = R.drawable.ni,
@@ -1907,12 +3133,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "NI",
-        translatedNames = listOf(
-            Pair("en", "Nicaragua"),
-            Pair("pl", "Nikaragua"),
-            Pair("ua", "Нікарагуа")
+        visualFormatter = "#### ####",
+        translatedNames = mapOf(
+            "en" to "Nicaragua",
+            "pl" to "Nikaragua",
+            "ua" to "Нікарагуа",
+            "cn" to "尼加拉瓜",
+            "de" to "Nicaragua",
+            "es" to "Nicaragua",
+            "fr" to "Nicaragua",
+            "ja" to "ニカラグア",
+            "kr" to "니카라과",
+            "pt" to "Nicarágua"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Niger",
         prefix = "+227",
         flag = R.drawable.ne,
@@ -1920,25 +3155,87 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "NE",
-        translatedNames = listOf(
-            Pair("en", "Niger"),
-            Pair("pl", "Niger"),
-            Pair("ua", "Нігер")
+        visualFormatter = "## ## ####",
+        translatedNames = mapOf(
+            "en" to "Niger",
+            "pl" to "Niger",
+            "ua" to "Нігер",
+            "cn" to "尼日尔",
+            "de" to "Niger",
+            "es" to "Níger",
+            "fr" to "Niger",
+            "ja" to "ニジェール",
+            "kr" to "니제르",
+            "pt" to "Níger"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Nigeria",
         prefix = "+234",
         flag = R.drawable.ng,
         flagEmoji = "🇳🇬",
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
         countryCode = "NG",
-        translatedNames = listOf(
-            Pair("en", "Nigeria"),
-            Pair("pl", "Nigeria"),
-            Pair("ua", "Нігерія")
+        visualFormatter = "### ### ####",
+        translatedNames = mapOf(
+            "en" to "Nigeria",
+            "pl" to "Nigeria",
+            "ua" to "Нігерія",
+            "cn" to "尼日利亚",
+            "de" to "Nigeria",
+            "es" to "Nigeria",
+            "fr" to "Nigéria",
+            "ja" to "ナイジェリア",
+            "kr" to "나이지리아",
+            "pt" to "Nigéria"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
+        name = "North Korea",
+        prefix = "+850",
+        flag = R.drawable.kp,
+        flagEmoji = "🇰🇵",
+        minPhoneLength = 4,
+        maxPhoneLength = 13,
+        countryCode = "KP",
+        visualFormatter = "#### #############",
+        translatedNames = mapOf(
+            "en" to "North Korea",
+            "pl" to "Korea Północna",
+            "ua" to "Північна Корея",
+            "cn" to "朝鲜",
+            "de" to "Nordkorea",
+            "es" to "Corea del Norte",
+            "fr" to "Corée du Nord",
+            "ja" to "朝鮮民主主義人民共和国",
+            "kr" to "조선민주주의인민공화국",
+            "pt" to "Coreia do Norte"
+        )
+    ),
+    CountryCallingData(
+        name = "Macedonia",
+        prefix = "+389",
+        flag = R.drawable.mk,
+        flagEmoji = "🇲🇰",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "MK",
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "North Macedonia",
+            "pl" to "Północna Macedonia",
+            "ua" to "Північна Македонія",
+            "cn" to "北馬其頓",
+            "de" to "Nordmazedonien",
+            "es" to "Macedonia del Norte",
+            "fr" to "Macédoine du Nord",
+            "ja" to "北マケドニア",
+            "kr" to "북마케도니아",
+            "pt" to "Macedónia do Norte"
+        )
+    ),
+    CountryCallingData(
         name = "Norway",
         prefix = "+47",
         flag = R.drawable.no,
@@ -1946,12 +3243,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "NO",
-        translatedNames = listOf(
-            Pair("en", "Norway"),
-            Pair("pl", "Norwegia"),
-            Pair("ua", "Норвегія")
+        visualFormatter = "### ## ###",
+        translatedNames = mapOf(
+            "en" to "Norway",
+            "pl" to "Norwegia",
+            "ua" to "Норвегія",
+            "cn" to "挪威",
+            "de" to "Norwegen",
+            "es" to "Noruega",
+            "fr" to "Norvège",
+            "ja" to "ノルウェー",
+            "kr" to "노르웨이",
+            "pt" to "Noruega"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Oman",
         prefix = "+968",
         flag = R.drawable.om,
@@ -1959,12 +3265,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "OM",
-        translatedNames = listOf(
-            Pair("en", "Oman"),
-            Pair("pl", "Oman"),
-            Pair("ua", "Оман")
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "Oman",
+            "pl" to "Oman",
+            "ua" to "Оман",
+            "cn" to "阿曼",
+            "de" to "Oman",
+            "es" to "Omán",
+            "fr" to "Oman",
+            "ja" to "オマーン",
+            "kr" to "오만",
+            "pt" to "Omã"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Pakistan",
         prefix = "+92",
         flag = R.drawable.pk,
@@ -1972,12 +3287,21 @@ val countries = listOf(
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "PK",
-        translatedNames = listOf(
-            Pair("en", "Pakistan"),
-            Pair("pl", "Pakistan"),
-            Pair("ua", "Пакистан")
+        visualFormatter = "### ### ####",
+        translatedNames = mapOf(
+            "en" to "Pakistan",
+            "pl" to "Pakistan",
+            "ua" to "Пакистан",
+            "cn" to "巴基斯坦",
+            "de" to "Pakistan",
+            "es" to "Pakistán",
+            "fr" to "Pakistan",
+            "ja" to "パキスタン",
+            "kr" to "파키스탄",
+            "pt" to "Paquistão"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Palau",
         prefix = "+680",
         flag = R.drawable.pw,
@@ -1985,12 +3309,21 @@ val countries = listOf(
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "PW",
-        translatedNames = listOf(
-            Pair("en", "Palau"),
-            Pair("pl", "Palau"),
-            Pair("ua", "Палау")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Palau",
+            "pl" to "Palau",
+            "ua" to "Палау",
+            "cn" to "帕劳",
+            "de" to "Palau",
+            "es" to "Palau",
+            "fr" to "Palaos",
+            "ja" to "パラオ",
+            "kr" to "팔라우",
+            "pt" to "Palau"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Palestine",
         prefix = "+970",
         flag = R.drawable.ps,
@@ -1998,38 +3331,65 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "PS",
-        translatedNames = listOf(
-            Pair("en", "Palestine"),
-            Pair("pl", "Palestyna"),
-            Pair("ua", "Палестина")
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "Palestine",
+            "pl" to "Palestyna",
+            "ua" to "Палестина",
+            "cn" to "巴勒斯坦",
+            "de" to "Palästina",
+            "es" to "Palestina",
+            "fr" to "Palestine",
+            "ja" to "パレスチナ",
+            "kr" to "팔레스타인 영토",
+            "pt" to "Palestina"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Panama",
         prefix = "+507",
         flag = R.drawable.pa,
         flagEmoji = "🇵🇦",
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
         countryCode = "PA",
-        translatedNames = listOf(
-            Pair("en", "Panama"),
-            Pair("pl", "Panama"),
-            Pair("ua", "Панама")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Panama",
+            "pl" to "Panama",
+            "ua" to "Панама",
+            "cn" to "巴拿马",
+            "de" to "Panama",
+            "es" to "Panamá",
+            "fr" to "Panama",
+            "ja" to "パナマ",
+            "kr" to "파나마",
+            "pt" to "Panamá"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Papua New Guinea",
         prefix = "+675",
         flag = R.drawable.pg,
         flagEmoji = "🇵🇬",
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
         countryCode = "PG",
-        translatedNames = listOf(
-            Pair("en", "Papua New Guinea"),
-            Pair("pl", "Papua-Nowa Gwinea"),
-            Pair("ua", "Папуа-Нова Гвінея")
+        visualFormatter = "### ## ###",
+        translatedNames = mapOf(
+            "en" to "Papua New Guinea",
+            "pl" to "Papua-Nowa Gwinea",
+            "ua" to "Папуа-Нова Гвінея",
+            "cn" to "巴布亚新几内亚",
+            "de" to "Papua-Neuguinea",
+            "es" to "Papúa Nueva Guinea",
+            "fr" to "Papouasie-Nouvelle-Guinée",
+            "ja" to "パプアニューギニア",
+            "kr" to "파푸아뉴기니",
+            "pt" to "Papua Nova Guiné"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Paraguay",
         prefix = "+595",
         flag = R.drawable.py,
@@ -2037,12 +3397,21 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "PY",
-        translatedNames = listOf(
-            Pair("en", "Paraguay"),
-            Pair("pl", "Paragwaj"),
-            Pair("ua", "Парагвай")
+        visualFormatter = "### ### ###",
+        translatedNames = mapOf(
+            "en" to "Paraguay",
+            "pl" to "Paragwaj",
+            "ua" to "Парагвай",
+            "cn" to "巴拉圭",
+            "de" to "Paraguay",
+            "es" to "Paraguay",
+            "fr" to "Paraguay",
+            "ja" to "パラグアイ",
+            "kr" to "파라과이",
+            "pt" to "Paraguai"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Peru",
         prefix = "+51",
         flag = R.drawable.pe,
@@ -2050,12 +3419,21 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "PE",
-        translatedNames = listOf(
-            Pair("en", "Peru"),
-            Pair("pl", "Peru"),
-            Pair("ua", "Перу")
+        visualFormatter = "### ### ###",
+        translatedNames = mapOf(
+            "en" to "Peru",
+            "pl" to "Peru",
+            "ua" to "Перу",
+            "cn" to "秘鲁",
+            "de" to "Peru",
+            "es" to "Perú",
+            "fr" to "Pérou",
+            "ja" to "ペルー",
+            "kr" to "페루",
+            "pt" to "Peru"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Philippines",
         prefix = "+63",
         flag = R.drawable.ph,
@@ -2063,12 +3441,21 @@ val countries = listOf(
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "PH",
-        translatedNames = listOf(
-            Pair("en", "Philippines"),
-            Pair("pl", "Filipiny"),
-            Pair("ua", "Філіппіни")
+        visualFormatter = "### ### ####",
+        translatedNames = mapOf(
+            "en" to "Philippines",
+            "pl" to "Filipiny",
+            "ua" to "Філіппіни",
+            "cn" to "菲律宾",
+            "de" to "Philippinen",
+            "es" to "Filipinas",
+            "fr" to "Philippines",
+            "ja" to "フィリピン",
+            "kr" to "필리핀",
+            "pt" to "Filipinas"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Poland",
         prefix = "+48",
         flag = R.drawable.pl,
@@ -2076,12 +3463,21 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "PL",
-        translatedNames = listOf(
-            Pair("en", "Poland"),
-            Pair("pl", "Polska"),
-            Pair("ua", "Польща")
+        visualFormatter = "### ### ###",
+        translatedNames = mapOf(
+            "en" to "Poland",
+            "pl" to "Polska",
+            "ua" to "Польща",
+            "cn" to "波兰",
+            "de" to "Polen",
+            "es" to "Polonia",
+            "fr" to "Pologne",
+            "ja" to "ポーランド",
+            "kr" to "폴란드",
+            "pt" to "Polónia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Portugal",
         prefix = "+351",
         flag = R.drawable.pt,
@@ -2089,25 +3485,43 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "PT",
-        translatedNames = listOf(
-            Pair("en", "Portugal"),
-            Pair("pl", "Portugalia"),
-            Pair("ua", "Португалія")
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "Portugal",
+            "pl" to "Portugalia",
+            "ua" to "Португалія",
+            "cn" to "葡萄牙",
+            "de" to "Portugal",
+            "es" to "Portugal",
+            "fr" to "Portugal",
+            "ja" to "ポルトガル",
+            "kr" to "포르투갈",
+            "pt" to "Portugal"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Puerto Rico",
         prefix = "+1939",
         flag = R.drawable.pr,
         flagEmoji = "🇵🇷",
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
         countryCode = "PR",
-        translatedNames = listOf(
-            Pair("en", "Puerto Rico"),
-            Pair("pl", "Portoryko"),
-            Pair("ua", "Пуерто-Рико")
+        visualFormatter = "",
+        translatedNames = mapOf(
+            "en" to "Puerto Rico",
+            "pl" to "Portoryko",
+            "ua" to "Пуерто-Рико",
+            "cn" to "波多黎各",
+            "de" to "Puerto Rico",
+            "es" to "Puerto Rico",
+            "fr" to "Porto Rico",
+            "ja" to "プエルトリコ",
+            "kr" to "푸에르토리코",
+            "pt" to "Porto Rico"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Qatar",
         prefix = "+974",
         flag = R.drawable.qa,
@@ -2115,12 +3529,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "QA",
-        translatedNames = listOf(
-            Pair("en", "Qatar"),
-            Pair("pl", "Katar"),
-            Pair("ua", "Катар")
+        visualFormatter = "#### ####",
+        translatedNames = mapOf(
+            "en" to "Qatar",
+            "pl" to "Katar",
+            "ua" to "Катар",
+            "cn" to "卡塔尔",
+            "de" to "Katar",
+            "es" to "Catar",
+            "fr" to "Qatar",
+            "ja" to "カタール",
+            "kr" to "카타르",
+            "pt" to "Catar"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Romania",
         prefix = "+40",
         flag = R.drawable.ro,
@@ -2128,12 +3551,21 @@ val countries = listOf(
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "RO",
-        translatedNames = listOf(
-            Pair("en", "Romania"),
-            Pair("pl", "Rumunia"),
-            Pair("ua", "Румунія")
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "Romania",
+            "pl" to "Rumunia",
+            "ua" to "Румунія",
+            "cn" to "罗马尼亚",
+            "de" to "Rumänien",
+            "es" to "Rumania",
+            "fr" to "Roumanie",
+            "ja" to "ルーマニア",
+            "kr" to "루마니아",
+            "pt" to "Roménia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Russia",
         prefix = "+7",
         flag = R.drawable.ru,
@@ -2141,12 +3573,21 @@ val countries = listOf(
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "RU",
-        translatedNames = listOf(
-            Pair("en", "Russia"),
-            Pair("pl", "Rosja"),
-            Pair("ua", "Росія")
+        visualFormatter = "### ### ## ##",
+        translatedNames = mapOf(
+            "en" to "Russia",
+            "pl" to "Rosja",
+            "ua" to "Росія",
+            "cn" to "俄罗斯联邦",
+            "de" to "Russland",
+            "es" to "Rusia",
+            "fr" to "Russie",
+            "ja" to "ロシア連邦",
+            "kr" to "러시아",
+            "pt" to "Rússia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Rwanda",
         prefix = "+250",
         flag = R.drawable.rw,
@@ -2154,25 +3595,43 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "RW",
-        translatedNames = listOf(
-            Pair("en", "Rwanda"),
-            Pair("pl", "Rwanda"),
-            Pair("ua", "Руанда")
+        visualFormatter = "### ### ###",
+        translatedNames = mapOf(
+            "en" to "Rwanda",
+            "pl" to "Rwanda",
+            "ua" to "Руанда",
+            "cn" to "卢旺达",
+            "de" to "Ruanda",
+            "es" to "Ruanda",
+            "fr" to "Rwanda",
+            "ja" to "ルワンダ",
+            "kr" to "르완다",
+            "pt" to "Ruanda"
         )
-    ),CountryCallingData(
-        name = "Saint Kitts & Nevis",
+    ),
+    CountryCallingData(
+        name = "Saint Kitts and Nevis",
         prefix = "+1869",
         flag = R.drawable.kn,
         flagEmoji = "🇰🇳",
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
         countryCode = "KN",
-        translatedNames = listOf(
-            Pair("en", "Saint Kitts and Nevis"),
-            Pair("pl", "Saint Kitts i Nevis"),
-            Pair("ua", "Сент-Кітс і Невіс")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Saint Kitts and Nevis",
+            "pl" to "Saint Kitts i Nevis",
+            "ua" to "Сент-Кітс і Невіс",
+            "cn" to "圣基茨和尼维斯",
+            "de" to "St. Kitts und Nevis",
+            "es" to "San Cristóbal y Nieves",
+            "fr" to "Saint-Christophe-et-Niévès",
+            "ja" to "セントクリストファー・ネイビス",
+            "kr" to "세인트키츠 네비스",
+            "pt" to "São Cristóvão e Neves"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Saint Lucia",
         prefix = "+1758",
         flag = R.drawable.lc,
@@ -2180,64 +3639,109 @@ val countries = listOf(
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "LC",
-        translatedNames = listOf(
-            Pair("en", "Saint Lucia"),
-            Pair("pl", "Saint Lucia"),
-            Pair("ua", "Сент-Люсія")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Saint Lucia",
+            "pl" to "Saint Lucia",
+            "ua" to "Сент-Люсія",
+            "cn" to "圣卢西亚",
+            "de" to "Saint Lucia",
+            "es" to "Santa Lucía",
+            "fr" to "Saint-Lucie",
+            "ja" to "セントルシア",
+            "kr" to "세인트루시아",
+            "pt" to "Santa Lúcia"
         )
-    ),CountryCallingData(
-        name = "Saint Vincent & the Grenadines",
+    ),
+    CountryCallingData(
+        name = "Saint Vincent and the Grenadines",
         prefix = "+1784",
         flag = R.drawable.vc,
         flagEmoji = "🇻🇨",
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "VC",
-        translatedNames = listOf(
-            Pair("en", "Saint Vincent and the Grenadines"),
-            Pair("pl", "Saint Vincent i Grenadyny"),
-            Pair("ua", "Сент-Вінсент і Гренадини")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Saint Vincent and the Grenadines",
+            "pl" to "Saint Vincent i Grenadyny",
+            "ua" to "Сент-Вінсент і Гренадини",
+            "cn" to "圣文森特和格林纳丁斯",
+            "de" to "Saint Vincent und die Grenadinen",
+            "es" to "San Vicente y Granadinas",
+            "fr" to "Saint-Vincent-et-les-Grenadines",
+            "ja" to "セントビンセントおよびグレナディーン諸島",
+            "kr" to "세인트빈센트 그레나딘",
+            "pt" to "São Vicente e Granadinas"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Samoa",
         prefix = "+685",
         flag = R.drawable.ws,
         flagEmoji = "🇼🇸",
-        minPhoneLength = 7,
+        minPhoneLength = 5,
         maxPhoneLength = 7,
         countryCode = "WS",
-        translatedNames = listOf(
-            Pair("en", "Samoa"),
-            Pair("pl", "Samoa"),
-            Pair("ua", "Самоа")
+        visualFormatter = "## ####",
+        translatedNames = mapOf(
+            "en" to "Samoa",
+            "pl" to "Samoa",
+            "ua" to "Самоа",
+            "cn" to "萨摩亚",
+            "de" to "Samoa",
+            "es" to "Samoa",
+            "fr" to "Samoa",
+            "ja" to "サモア",
+            "kr" to "사모아",
+            "pt" to "Samoa"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "San Marino",
         prefix = "+378",
         flag = R.drawable.sm,
         flagEmoji = "🇸🇲",
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
         countryCode = "SM",
-        translatedNames = listOf(
-            Pair("en", "San Marino"),
-            Pair("pl", "San Marino"),
-            Pair("ua", "Сан-Марино")
+        visualFormatter = "#### ######",
+        translatedNames = mapOf(
+            "en" to "San Marino",
+            "pl" to "San Marino",
+            "ua" to "Сан-Марино",
+            "cn" to "圣马力诺",
+            "de" to "San Marino",
+            "es" to "San Marino",
+            "fr" to "Saint-Marin",
+            "ja" to "サンマリノ",
+            "kr" to "산마리노",
+            "pt" to "São Marinho"
         )
-    ),CountryCallingData(
-        name = "Sao Tome & Principe",
+    ),
+    CountryCallingData(
+        name = "Sao Tome and Principe",
         prefix = "+239",
         flag = R.drawable.st,
         flagEmoji = "🇸🇹",
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "ST",
-        translatedNames = listOf(
-            Pair("en", "Sao Tome and Principe"),
-            Pair("pl", "Wyspy Świętego Tomasza i Książęca"),
-            Pair("ua", "Сент-Томе і Принсіпі")
+        visualFormatter = "## #####",
+        translatedNames = mapOf(
+            "en" to "Sao Tome and Principe",
+            "pl" to "Wyspy Świętego Tomasza i Książęca",
+            "ua" to "Сент-Томе і Принсіпі",
+            "cn" to "圣多美和普林西比",
+            "de" to "São Tomé und Príncipe",
+            "es" to "Santo Tomé y Príncipe",
+            "fr" to "Sao Tomé-et-Principe",
+            "ja" to "サントメ・プリンシペ",
+            "kr" to "상투메 프린시페",
+            "pt" to "São Tomé e Príncipe"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Saudi Arabia",
         prefix = "+966",
         flag = R.drawable.sa,
@@ -2245,12 +3749,21 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "SA",
-        translatedNames = listOf(
-            Pair("en", "Saudi Arabia"),
-            Pair("pl", "Arabia Saudyjska"),
-            Pair("ua", "Саудівська Аравія")
+        visualFormatter = "# ### ####",
+        translatedNames = mapOf(
+            "en" to "Saudi Arabia",
+            "pl" to "Arabia Saudyjska",
+            "ua" to "Саудівська Аравія",
+            "cn" to "沙特阿拉伯",
+            "de" to "Saudi-Arabien",
+            "es" to "Arabia Saudí",
+            "fr" to "Arabie Saoudite",
+            "ja" to "サウジアラビア",
+            "kr" to "사우디아라비아",
+            "pt" to "Arábia Saudita"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Senegal",
         prefix = "+221",
         flag = R.drawable.sn,
@@ -2258,12 +3771,21 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "SN",
-        translatedNames = listOf(
-            Pair("en", "Senegal"),
-            Pair("pl", "Senegal"),
-            Pair("ua", "Сенегал")
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "Senegal",
+            "pl" to "Senegal",
+            "ua" to "Сенегал",
+            "cn" to "塞内加尔",
+            "de" to "Senegal",
+            "es" to "Senegal",
+            "fr" to "Sénégal",
+            "ja" to "セネガル",
+            "kr" to "세네갈",
+            "pt" to "Senegal"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Serbia",
         prefix = "+381",
         flag = R.drawable.rs,
@@ -2271,12 +3793,21 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "RS",
-        translatedNames = listOf(
-            Pair("en", "Serbia"),
-            Pair("pl", "Serbia"),
-            Pair("ua", "Сербія")
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "Serbia",
+            "pl" to "Serbia",
+            "ua" to "Сербія",
+            "cn" to "塞尔维亚",
+            "de" to "Serbien",
+            "es" to "Serbia",
+            "fr" to "Serbie",
+            "ja" to "セルビア",
+            "kr" to "세르비아",
+            "pt" to "Sérvia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Seychelles",
         prefix = "+248",
         flag = R.drawable.sc,
@@ -2284,12 +3815,21 @@ val countries = listOf(
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "SC",
-        translatedNames = listOf(
-            Pair("en", "Seychelles"),
-            Pair("pl", "Seszele"),
-            Pair("ua", "Сейшельські Острови")
+        visualFormatter = "# ### ###",
+        translatedNames = mapOf(
+            "en" to "Seychelles",
+            "pl" to "Seszele",
+            "ua" to "Сейшельські Острови",
+            "cn" to "塞舌尔",
+            "de" to "Seychellen",
+            "es" to "Seychelles",
+            "fr" to "Seychelles",
+            "ja" to "セーシェル",
+            "kr" to "세이셸",
+            "pt" to "Seicheles"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Sierra Leone",
         prefix = "+232",
         flag = R.drawable.sl,
@@ -2297,12 +3837,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "SL",
-        translatedNames = listOf(
-            Pair("en", "Sierra Leone"),
-            Pair("pl", "Sierra Leone"),
-            Pair("ua", "Сьєрра-Леоне")
+        visualFormatter = "## ######",
+        translatedNames = mapOf(
+            "en" to "Sierra Leone",
+            "pl" to "Sierra Leone",
+            "ua" to "Сьєрра-Леоне",
+            "cn" to "塞拉利昂",
+            "de" to "Sierra Leone",
+            "es" to "Sierra Leone",
+            "fr" to "Sierra Leone",
+            "ja" to "シエラレオネ",
+            "kr" to "시에라리온",
+            "pt" to "Serra Leoa"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Singapore",
         prefix = "+65",
         flag = R.drawable.sg,
@@ -2310,38 +3859,65 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "SG",
-        translatedNames = listOf(
-            Pair("en", "Singapore"),
-            Pair("pl", "Singapur"),
-            Pair("ua", "Сінгапур")
+        visualFormatter = "#### ####",
+        translatedNames = mapOf(
+            "en" to "Singapore",
+            "pl" to "Singapur",
+            "ua" to "Сінгапур",
+            "cn" to "新加坡",
+            "de" to "Singapur",
+            "es" to "Singapur",
+            "fr" to "Singapour",
+            "ja" to "シンガポール",
+            "kr" to "싱가포르",
+            "pt" to "Singapura"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Slovakia",
         prefix = "+421",
         flag = R.drawable.sk,
         flagEmoji = "🇸🇰",
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
         countryCode = "SK",
-        translatedNames = listOf(
-            Pair("en", "Slovakia"),
-            Pair("pl", "Słowacja"),
-            Pair("ua", "Словаччина")
+        visualFormatter = "### ### ###",
+        translatedNames = mapOf(
+            "en" to "Slovakia",
+            "pl" to "Słowacja",
+            "ua" to "Словаччина",
+            "cn" to "斯洛伐克",
+            "de" to "Slowakei",
+            "es" to "República Eslovaca",
+            "fr" to "Slovaquie",
+            "ja" to "スロバキア",
+            "kr" to "슬로바키아",
+            "pt" to "Eslováquia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Slovenia",
         prefix = "+386",
         flag = R.drawable.si,
         flagEmoji = "🇸🇮",
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
         countryCode = "SI",
-        translatedNames = listOf(
-            Pair("en", "Slovenia"),
-            Pair("pl", "Słowenia"),
-            Pair("ua", "Словенія")
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "Slovenia",
+            "pl" to "Słowenia",
+            "ua" to "Словенія",
+            "cn" to "斯洛文尼亚",
+            "de" to "Slowenien",
+            "es" to "Eslovenia",
+            "fr" to "Slovénie",
+            "ja" to "スロベニア",
+            "kr" to "슬로베니아",
+            "pt" to "Eslovénia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Solomon Islands",
         prefix = "+677",
         flag = R.drawable.sb,
@@ -2349,25 +3925,43 @@ val countries = listOf(
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "SB",
-        translatedNames = listOf(
-            Pair("en", "Solomon Islands"),
-            Pair("pl", "Wyspy Salomona"),
-            Pair("ua", "Соломонові Острови")
+        visualFormatter = "#####",
+        translatedNames = mapOf(
+            "en" to "Solomon Islands",
+            "pl" to "Wyspy Salomona",
+            "ua" to "Соломонові Острови",
+            "cn" to "所罗门群岛",
+            "de" to "Salomonen",
+            "es" to "Islas Salomón",
+            "fr" to "Îles Salomon",
+            "ja" to "ソロモン諸島",
+            "kr" to "솔로몬 제도",
+            "pt" to "Ilhas Salomão"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Somalia",
         prefix = "+252",
         flag = R.drawable.so,
         flagEmoji = "🇸🇴",
-        minPhoneLength = 9,
+        minPhoneLength = 8,
         maxPhoneLength = 9,
         countryCode = "SO",
-        translatedNames = listOf(
-            Pair("en", "Somalia"),
-            Pair("pl", "Somalia"),
-            Pair("ua", "Сомалі")
+        visualFormatter = "# ### ###",
+        translatedNames = mapOf(
+            "en" to "Somalia",
+            "pl" to "Somalia",
+            "ua" to "Сомалі",
+            "cn" to "索马里",
+            "de" to "Somalia",
+            "es" to "Somalia",
+            "fr" to "Somalie",
+            "ja" to "ソマリア",
+            "kr" to "소말리아",
+            "pt" to "Somália"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "South Africa",
         prefix = "+27",
         flag = R.drawable.za,
@@ -2375,25 +3969,65 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "ZA",
-        translatedNames = listOf(
-            Pair("en", "South Africa"),
-            Pair("pl", "Południowa Afryka"),
-            Pair("ua", "Південноафриканська Республіка")
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "South Africa",
+            "pl" to "Południowa Afryka",
+            "ua" to "Південноафриканська Республіка",
+            "cn" to "南非",
+            "de" to "Republik Südafrika",
+            "es" to "República de Sudáfrica",
+            "fr" to "Afrique du Sud",
+            "ja" to "南アフリカ",
+            "kr" to "남아프리카 공화국",
+            "pt" to "República Sul-Africana"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
+        name = "South Korea",
+        prefix = "+82",
+        flag = R.drawable.kr,
+        flagEmoji = "🇰🇷",
+        minPhoneLength = 7,
+        maxPhoneLength = 8,
+        countryCode = "KR",
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "South Korea",
+            "pl" to "Korea Południowa",
+            "ua" to "Південна Корея",
+            "cn" to "韩国",
+            "de" to "Südkorea",
+            "es" to "Corea del Sur",
+            "fr" to "Corée du Sud",
+            "ja" to "大韓民国",
+            "kr" to "대한민국",
+            "pt" to "Coreia do Sul"
+        )
+    ),
+    CountryCallingData(
         name = "South Sudan",
         prefix = "+211",
         flag = R.drawable.ss,
         flagEmoji = "🇸🇸",
-        minPhoneLength = 17,
-        maxPhoneLength = 17,
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
         countryCode = "SS",
-        translatedNames = listOf(
-            Pair("en", "South Sudan"),
-            Pair("pl", "Sudan Południowy"),
-            Pair("ua", "Південний Судан")
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "South Sudan",
+            "pl" to "Sudan Południowy",
+            "ua" to "Південний Судан",
+            "cn" to "南苏丹",
+            "de" to "Südsudan",
+            "es" to "Sudán del Sur",
+            "fr" to "Soudan du Sud",
+            "ja" to "南スーダン",
+            "kr" to "남수단",
+            "pt" to "Sudão do Sul"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Spain",
         prefix = "+34",
         flag = R.drawable.es,
@@ -2401,64 +4035,131 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "ES",
-        translatedNames = listOf(
-            Pair("en", "Spain"),
-            Pair("pl", "Hiszpania"),
-            Pair("ua", "Іспанія")
+        visualFormatter = "### ### ###",
+        translatedNames = mapOf(
+            "en" to "Spain",
+            "pl" to "Hiszpania",
+            "ua" to "Іспанія",
+            "cn" to "西班牙",
+            "de" to "Spanien",
+            "es" to "España",
+            "fr" to "Espagne",
+            "ja" to "スペイン",
+            "kr" to "스페인",
+            "pt" to "Espanha"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Sri Lanka",
         prefix = "+94",
         flag = R.drawable.lk,
         flagEmoji = "🇱🇰",
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
         countryCode = "LK",
-        translatedNames = listOf(
-            Pair("en", "Sri Lanka"),
-            Pair("pl", "Sri Lanka"),
-            Pair("ua", "Шрі-Ланка")
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "Sri Lanka",
+            "pl" to "Sri Lanka",
+            "ua" to "Шрі-Ланка",
+            "cn" to "斯里兰卡",
+            "de" to "Sri Lanka",
+            "es" to "Sri Lanka",
+            "fr" to "Sri Lanka",
+            "ja" to "スリランカ",
+            "kr" to "스리랑카",
+            "pt" to "Sri Lanka"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Sudan",
         prefix = "+249",
         flag = R.drawable.sd,
         flagEmoji = "🇸🇩",
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
         countryCode = "SD",
-        translatedNames = listOf(
-            Pair("en", "Sudan"),
-            Pair("pl", "Sudan"),
-            Pair("ua", "Судан")
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "Sudan",
+            "pl" to "Sudan",
+            "ua" to "Судан",
+            "cn" to "苏丹",
+            "de" to "Sudan",
+            "es" to "Sudán",
+            "fr" to "Soudan",
+            "ja" to "スーダン",
+            "kr" to "수단",
+            "pt" to "Sudão"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Suriname",
         prefix = "+597",
         flag = R.drawable.sr,
         flagEmoji = "🇸🇷",
-        minPhoneLength = 7,
+        minPhoneLength = 6,
         maxPhoneLength = 7,
         countryCode = "SR",
-        translatedNames = listOf(
-            Pair("en", "Suriname"),
-            Pair("pl", "Surinam"),
-            Pair("ua", "Суринам")
+        visualFormatter = "### ###",
+        translatedNames = mapOf(
+            "en" to "Suriname",
+            "pl" to "Surinam",
+            "ua" to "Суринам",
+            "cn" to "苏里南",
+            "de" to "Suriname",
+            "es" to "Surinam",
+            "fr" to "Surinam",
+            "ja" to "スリナム",
+            "kr" to "수리남",
+            "pt" to "Suriname"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
+        name = "Eswatini",
+        prefix = "+268",
+        flag = R.drawable.sz,
+        flagEmoji = "🇸🇿",
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
+        countryCode = "SZ",
+        visualFormatter = "## ## ####",
+        translatedNames = mapOf(
+            "en" to "Eswatini",
+            "pl" to "Eswatini",
+            "ua" to "Есватіні",
+            "cn" to "斯威士兰",
+            "de" to "Swasiland",
+            "es" to "Suazilandia",
+            "fr" to "Swaziland",
+            "ja" to "スワジランド",
+            "kr" to "에스와티니",
+            "pt" to "Suazilândia"
+        )
+    ),
+    CountryCallingData(
         name = "Sweden",
         prefix = "+46",
         flag = R.drawable.se,
         flagEmoji = "🇸🇪",
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
         countryCode = "SE",
-        translatedNames = listOf(
-            Pair("en", "Sweden"),
-            Pair("pl", "Szwecja"),
-            Pair("ua", "Швеція")
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "Sweden",
+            "pl" to "Szwecja",
+            "ua" to "Швеція",
+            "cn" to "瑞典",
+            "de" to "Schweden",
+            "es" to "Suecia",
+            "fr" to "Suède",
+            "ja" to "スウェーデン",
+            "kr" to "스웨덴",
+            "pt" to "Suécia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Switzerland",
         prefix = "+41",
         flag = R.drawable.ch,
@@ -2466,38 +4167,65 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "CH",
-        translatedNames = listOf(
-            Pair("en", "Switzerland"),
-            Pair("pl", "Szwajcaria"),
-            Pair("ua", "Швейцарія")
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "Switzerland",
+            "pl" to "Szwajcaria",
+            "ua" to "Швейцарія",
+            "cn" to "瑞士",
+            "de" to "Schweiz",
+            "es" to "Suiza",
+            "fr" to "Suisse",
+            "ja" to "スイス",
+            "kr" to "스위스",
+            "pt" to "Suíça"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Syria",
         prefix = "+963",
         flag = R.drawable.sy,
         flagEmoji = "🇸🇾",
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
         countryCode = "SY",
-        translatedNames = listOf(
-            Pair("en", "Syria"),
-            Pair("pl", "Syria"),
-            Pair("ua", "Сирія")
+        visualFormatter = "## #### ###",
+        translatedNames = mapOf(
+            "en" to "Syria",
+            "pl" to "Syria",
+            "ua" to "Сирія",
+            "cn" to "叙利亚",
+            "de" to "Syrien",
+            "es" to "Siria",
+            "fr" to "Syrie",
+            "ja" to "シリア・アラブ共和国",
+            "kr" to "시리아",
+            "pt" to "Síria"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Taiwan",
         prefix = "+886",
         flag = R.drawable.tw,
         flagEmoji = "🇹🇼",
-        minPhoneLength = 8,
-        maxPhoneLength = 8,
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
         countryCode = "TW",
-        translatedNames = listOf(
-            Pair("en", "Taiwan"),
-            Pair("pl", "Tajwan"),
-            Pair("ua", "Тайвань")
+        visualFormatter = "#### ####",
+        translatedNames = mapOf(
+            "en" to "Taiwan",
+            "pl" to "Tajwan",
+            "ua" to "Тайвань",
+            "cn" to "中国台湾",
+            "de" to "Taiwan",
+            "es" to "Taiwán",
+            "fr" to "Taïwan",
+            "ja" to "台湾（中華民国）",
+            "kr" to "대만",
+            "pt" to "Taiwan"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Tajikistan",
         prefix = "+992",
         flag = R.drawable.tj,
@@ -2505,25 +4233,43 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "TJ",
-        translatedNames = listOf(
-            Pair("en", "Tajikistan"),
-            Pair("pl", "Tadżykistan"),
-            Pair("ua", "Таджикистан")
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "Tajikistan",
+            "pl" to "Tadżykistan",
+            "ua" to "Таджикистан",
+            "cn" to "塔吉克斯坦",
+            "de" to "Tadschikistan",
+            "es" to "Tayikistán",
+            "fr" to "Tadjikistan",
+            "ja" to "タジキスタン",
+            "kr" to "타지키스탄",
+            "pt" to "Tajiquistão"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Tanzania",
         prefix = "+255",
         flag = R.drawable.tz,
         flagEmoji = "🇹🇿",
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
         countryCode = "TZ",
-        translatedNames = listOf(
-            Pair("en", "Tanzania"),
-            Pair("pl", "Tanzania"),
-            Pair("ua", "Танзанія")
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "Tanzania",
+            "pl" to "Tanzania",
+            "ua" to "Танзанія",
+            "cn" to "坦桑尼亚",
+            "de" to "Tansania",
+            "es" to "Tanzania",
+            "fr" to "Tanzanie",
+            "ja" to "タンザニア",
+            "kr" to "탄자니아",
+            "pt" to "Tanzânia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Thailand",
         prefix = "+66",
         flag = R.drawable.th,
@@ -2531,25 +4277,43 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "TH",
-        translatedNames = listOf(
-            Pair("en", "Thailand"),
-            Pair("pl", "Tajlandia"),
-            Pair("ua", "Таїланд")
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "Thailand",
+            "pl" to "Tajlandia",
+            "ua" to "Таїланд",
+            "cn" to "泰国",
+            "de" to "Thailand",
+            "es" to "Tailandia",
+            "fr" to "Thaïlande",
+            "ja" to "タイ",
+            "kr" to "태국",
+            "pt" to "Tailândia"
         )
-    ),CountryCallingData(
-        name = "Timor-Leste",
-        prefix = "+670",
-        flag = R.drawable.tl,
-        flagEmoji = "🇹🇱",
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
-        countryCode = "TL",
-        translatedNames = listOf(
-            Pair("en", "Timor-Leste"),
-            Pair("pl", "Timor-Leste"),
-            Pair("ua", "Тімор-Лешті")
+    ),
+    CountryCallingData(
+        name = "Bahamas",
+        prefix = "+1242",
+        flag = R.drawable.bs,
+        flagEmoji = "🇧🇸",
+        minPhoneLength = 10,
+        maxPhoneLength = 10,
+        countryCode = "BS",
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Bahamas",
+            "pl" to "Bahamy",
+            "ua" to "Багамські Острови",
+            "cn" to "巴哈马",
+            "de" to "Bahamas",
+            "es" to "Bahamas",
+            "fr" to "Bahamas",
+            "ja" to "バハマ",
+            "kr" to "바하마",
+            "pt" to "Baamas"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Togo",
         prefix = "+228",
         flag = R.drawable.tg,
@@ -2557,38 +4321,65 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "TG",
-        translatedNames = listOf(
-            Pair("en", "Togo"),
-            Pair("pl", "Togo"),
-            Pair("ua", "Того")
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "Togo",
+            "pl" to "Togo",
+            "ua" to "Того",
+            "cn" to "多哥",
+            "de" to "Togo",
+            "es" to "Togo",
+            "fr" to "Togo",
+            "ja" to "トーゴ",
+            "kr" to "토고",
+            "pt" to "Togo"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Tonga",
         prefix = "+676",
         flag = R.drawable.to,
         flagEmoji = "🇹🇴",
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
+        minPhoneLength = 5,
+        maxPhoneLength = 5,
         countryCode = "TO",
-        translatedNames = listOf(
-            Pair("en", "Tonga"),
-            Pair("pl", "Tonga"),
-            Pair("ua", "Тонга")
+        visualFormatter = "#####",
+        translatedNames = mapOf(
+            "en" to "Tonga",
+            "pl" to "Tonga",
+            "ua" to "Тонга",
+            "cn" to "汤加",
+            "de" to "Tonga",
+            "es" to "Tonga",
+            "fr" to "Tonga",
+            "ja" to "トンガ",
+            "kr" to "통가",
+            "pt" to "Tonga"
         )
-    ),CountryCallingData(
-        name = "Trinidad & Tobago",
+    ),
+    CountryCallingData(
+        name = "Trinidad and Tobago",
         prefix = "+1868",
         flag = R.drawable.tt,
         flagEmoji = "🇹🇹",
         minPhoneLength = 7,
         maxPhoneLength = 7,
         countryCode = "TT",
-        translatedNames = listOf(
-            Pair("en", "Trinidad and Tobago"),
-            Pair("pl", "Trynidad i Tobago"),
-            Pair("ua", "Тринідад і Тобаго")
+        visualFormatter = "### ####",
+        translatedNames = mapOf(
+            "en" to "Trinidad and Tobago",
+            "pl" to "Trynidad i Tobago",
+            "ua" to "Тринідад і Тобаго",
+            "cn" to "特立尼达和多巴哥",
+            "de" to "Trinidad und Tobago",
+            "es" to "Trinidad y Tobago",
+            "fr" to "Trinité et Tobago",
+            "ja" to "トリニダード・トバゴ",
+            "kr" to "트리니다드 토바고",
+            "pt" to "Trindade e Tobago"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Tunisia",
         prefix = "+216",
         flag = R.drawable.tn,
@@ -2596,64 +4387,109 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "TN",
-        translatedNames = listOf(
-            Pair("en", "Tunisia"),
-            Pair("pl", "Tunezja"),
-            Pair("ua", "Туніс")
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "Tunisia",
+            "pl" to "Tunezja",
+            "ua" to "Туніс",
+            "cn" to "突尼斯",
+            "de" to "Tunesien",
+            "es" to "Túnez",
+            "fr" to "Tunisie",
+            "ja" to "チュニジア",
+            "kr" to "튀니지",
+            "pt" to "Tunísia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Turkey",
         prefix = "+90",
         flag = R.drawable.tr,
         flagEmoji = "🇹🇷",
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
+        minPhoneLength = 11,
+        maxPhoneLength = 11,
         countryCode = "TR",
-        translatedNames = listOf(
-            Pair("en", "Turkey"),
-            Pair("pl", "Turcja"),
-            Pair("ua", "Туреччина")
+        visualFormatter = "### ### ####",
+        translatedNames = mapOf(
+            "en" to "Turkey",
+            "pl" to "Turcja",
+            "ua" to "Туреччина",
+            "cn" to "土耳其",
+            "de" to "Türkei",
+            "es" to "Turquía",
+            "fr" to "Turquie",
+            "ja" to "トルコ",
+            "kr" to "터키",
+            "pt" to "Turquia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Turkmenistan",
         prefix = "+993",
         flag = R.drawable.tm,
         flagEmoji = "🇹🇲",
-        minPhoneLength = 9,
-        maxPhoneLength = 9,
+        minPhoneLength = 8,
+        maxPhoneLength = 8,
         countryCode = "TM",
-        translatedNames = listOf(
-            Pair("en", "Turkmenistan"),
-            Pair("pl", "Turkmenistan"),
-            Pair("ua", "Туркменістан")
+        visualFormatter = "# ### ####",
+        translatedNames = mapOf(
+            "en" to "Turkmenistan",
+            "pl" to "Turkmenistan",
+            "ua" to "Туркменістан",
+            "cn" to "土库曼斯坦",
+            "de" to "Turkmenistan",
+            "es" to "Turkmenistán",
+            "fr" to "Turkménistan",
+            "ja" to "トルクメニスタン",
+            "kr" to "투르크메니스탄",
+            "pt" to "Turquemenistão"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Tuvalu",
         prefix = "+688",
         flag = R.drawable.tv,
         flagEmoji = "🇹🇻",
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
+        minPhoneLength = 5,
+        maxPhoneLength = 5,
         countryCode = "TV",
-        translatedNames = listOf(
-            Pair("en", "Tuvalu"),
-            Pair("pl", "Tuvalu"),
-            Pair("ua", "Тувалу")
+        visualFormatter = "####",
+        translatedNames = mapOf(
+            "en" to "Tuvalu",
+            "pl" to "Tuvalu",
+            "ua" to "Тувалу",
+            "cn" to "图瓦卢",
+            "de" to "Tuvalu",
+            "es" to "Tuvalu",
+            "fr" to "Tuvalu",
+            "ja" to "ツバル",
+            "kr" to "투발루",
+            "pt" to "Tuvalu"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Uganda",
         prefix = "+256",
         flag = R.drawable.ug,
         flagEmoji = "🇺🇬",
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
         countryCode = "UG",
-        translatedNames = listOf(
-            Pair("en", "Uganda"),
-            Pair("pl", "Uganda"),
-            Pair("ua", "Уганда")
+        visualFormatter = "### ### ###",
+        translatedNames = mapOf(
+            "en" to "Uganda",
+            "pl" to "Uganda",
+            "ua" to "Уганда",
+            "cn" to "乌干达",
+            "de" to "Uganda",
+            "es" to "Uganda",
+            "fr" to "Uganda",
+            "ja" to "ウガンダ",
+            "kr" to "우간다",
+            "pt" to "Uganda"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Ukraine",
         prefix = "+380",
         flag = R.drawable.ua,
@@ -2661,12 +4497,21 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "UA",
-        translatedNames = listOf(
-            Pair("en", "Ukraine"),
-            Pair("pl", "Ukraina"),
-            Pair("ua", "Україна")
+        visualFormatter = "## ### ## ##",
+        translatedNames = mapOf(
+            "en" to "Ukraine",
+            "pl" to "Ukraina",
+            "ua" to "Україна",
+            "cn" to "乌克兰",
+            "de" to "Ukraine",
+            "es" to "Ucrania",
+            "fr" to "Ukraine",
+            "ja" to "ウクライナ",
+            "kr" to "우크라이나",
+            "pt" to "Ucrânia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "United Arab Emirates",
         prefix = "+971",
         flag = R.drawable.ae,
@@ -2674,12 +4519,21 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "AE",
-        translatedNames = listOf(
-            Pair("en", "United Arab Emirates"),
-            Pair("pl", "Zjednoczone Emiraty Arabskie"),
-            Pair("ua", "Об'єднані Арабські Емірати")
+        visualFormatter = "# ### ####",
+        translatedNames = mapOf(
+            "en" to "United Arab Emirates",
+            "pl" to "Zjednoczone Emiraty Arabskie",
+            "ua" to "Об'єднані Арабські Емірати",
+            "cn" to "阿拉伯联合酋长国",
+            "de" to "Vereinigte Arabische Emirate",
+            "es" to "Emiratos Árabes Unidos",
+            "fr" to "Émirats arabes unis",
+            "ja" to "アラブ首長国連邦",
+            "kr" to "아랍에미리트",
+            "pt" to "Emirados árabes Unidos"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "United Kingdom",
         prefix = "+44",
         flag = R.drawable.gb,
@@ -2687,12 +4541,21 @@ val countries = listOf(
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "GB",
-        translatedNames = listOf(
-            Pair("en", "United Kingdom"),
-            Pair("pl", "Wielka Brytania"),
-            Pair("ua", "Великобританія")
+        visualFormatter = "",
+        translatedNames = mapOf(
+            "en" to "United Kingdom",
+            "pl" to "Wielka Brytania",
+            "ua" to "Великобританія",
+            "cn" to "英国",
+            "de" to "Vereinigtes Königreich",
+            "es" to "Reino Unido",
+            "fr" to "Royaume-Uni",
+            "ja" to "イギリス",
+            "kr" to "영국",
+            "pt" to "Reino Unido"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "USA",
         prefix = "+1",
         flag = R.drawable.us,
@@ -2700,12 +4563,21 @@ val countries = listOf(
         minPhoneLength = 10,
         maxPhoneLength = 10,
         countryCode = "US",
-        translatedNames = listOf(
-            Pair("en", "United States"),
-            Pair("pl", "Stany Zjednoczone"),
-            Pair("ua", "Сполучені Штати")
+        visualFormatter = "### ### ####",
+        translatedNames = mapOf(
+            "en" to "United States",
+            "pl" to "Stany Zjednoczone",
+            "ua" to "Сполучені Штати",
+            "cn" to "美国",
+            "de" to "Vereinigte Staaten von Amerika",
+            "es" to "Estados Unidos",
+            "fr" to "États-Unis",
+            "ja" to "アメリカ合衆国",
+            "kr" to "미국",
+            "pt" to "Estados Unidos"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Uruguay",
         prefix = "+598",
         flag = R.drawable.uy,
@@ -2713,12 +4585,21 @@ val countries = listOf(
         minPhoneLength = 8,
         maxPhoneLength = 8,
         countryCode = "UY",
-        translatedNames = listOf(
-            Pair("en", "Uruguay"),
-            Pair("pl", "Urugwaj"),
-            Pair("ua", "Уругвай")
+        visualFormatter = "# ### ## ##",
+        translatedNames = mapOf(
+            "en" to "Uruguay",
+            "pl" to "Urugwaj",
+            "ua" to "Уругвай",
+            "cn" to "乌拉圭",
+            "de" to "Uruguay",
+            "es" to "Uruguay",
+            "fr" to "Uruguay",
+            "ja" to "ウルグアイ",
+            "kr" to "우루과이",
+            "pt" to "Uruguai"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Uzbekistan",
         prefix = "+998",
         flag = R.drawable.uz,
@@ -2726,38 +4607,65 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "UZ",
-        translatedNames = listOf(
-            Pair("en", "Uzbekistan"),
-            Pair("pl", "Uzbekistan"),
-            Pair("ua", "Узбекистан")
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "Uzbekistan",
+            "pl" to "Uzbekistan",
+            "ua" to "Узбекистан",
+            "cn" to "乌兹别克斯坦",
+            "de" to "Usbekistan",
+            "es" to "Uzbekistán",
+            "fr" to "Ouzbékistan",
+            "ja" to "ウズベキスタン",
+            "kr" to "우즈베키스탄",
+            "pt" to "Usbequistão"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Vanuatu",
         prefix = "+678",
         flag = R.drawable.vu,
         flagEmoji = "🇻🇺",
-        minPhoneLength = 7,
-        maxPhoneLength = 7,
+        minPhoneLength = 5,
+        maxPhoneLength = 5,
         countryCode = "VU",
-        translatedNames = listOf(
-            Pair("en", "Vanuatu"),
-            Pair("pl", "Vanuatu"),
-            Pair("ua", "Вануату")
+        visualFormatter = "#####",
+        translatedNames = mapOf(
+            "en" to "Vanuatu",
+            "pl" to "Vanuatu",
+            "ua" to "Вануату",
+            "cn" to "瓦努阿图",
+            "de" to "Vanuatu",
+            "es" to "Vanuatu",
+            "fr" to "Vanuatu",
+            "ja" to "バヌアツ",
+            "kr" to "바누아투",
+            "pt" to "Vanuatu"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Venezuela",
         prefix = "+58",
         flag = R.drawable.ve,
         flagEmoji = "🇻🇪",
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
+        minPhoneLength = 7,
+        maxPhoneLength = 7,
         countryCode = "VE",
-        translatedNames = listOf(
-            Pair("en", "Venezuela"),
-            Pair("pl", "Wenezuela"),
-            Pair("ua", "Венесуела")
+        visualFormatter = "### ### ####",
+        translatedNames = mapOf(
+            "en" to "Venezuela",
+            "pl" to "Wenezuela",
+            "ua" to "Венесуела",
+            "cn" to "委内瑞拉",
+            "de" to "Venezuela",
+            "es" to "Venezuela",
+            "fr" to "Venezuela",
+            "ja" to "ベネズエラ・ボリバル共和国",
+            "kr" to "베네수엘라",
+            "pt" to "Venezuela"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Vietnam",
         prefix = "+84",
         flag = R.drawable.vn,
@@ -2765,12 +4673,21 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "VN",
-        translatedNames = listOf(
-            Pair("en", "Vietnam"),
-            Pair("pl", "Wietnam"),
-            Pair("ua", "В'єтнам")
+        visualFormatter = "### #### ###",
+        translatedNames = mapOf(
+            "en" to "Vietnam",
+            "pl" to "Wietnam",
+            "ua" to "В'єтнам",
+            "cn" to "越南",
+            "de" to "Vietnam",
+            "es" to "Vietnam",
+            "fr" to "Viêt Nam",
+            "ja" to "ベトナム",
+            "kr" to "베트남",
+            "pt" to "Vietname"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Yemen",
         prefix = "+967",
         flag = R.drawable.ye,
@@ -2778,25 +4695,43 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "YE",
-        translatedNames = listOf(
-            Pair("en", "Yemen"),
-            Pair("pl", "Jemen"),
-            Pair("ua", "Ємен")
+        visualFormatter = "## ### ###",
+        translatedNames = mapOf(
+            "en" to "Yemen",
+            "pl" to "Jemen",
+            "ua" to "Ємен",
+            "cn" to "也门",
+            "de" to "Jemen",
+            "es" to "Yemen",
+            "fr" to "Yémen",
+            "ja" to "イエメン",
+            "kr" to "예멘",
+            "pt" to "Iémen"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Zambia",
         prefix = "+260",
         flag = R.drawable.zm,
         flagEmoji = "🇿🇲",
-        minPhoneLength = 10,
-        maxPhoneLength = 10,
+        minPhoneLength = 9,
+        maxPhoneLength = 9,
         countryCode = "ZM",
-        translatedNames = listOf(
-            Pair("en", "Zambia"),
-            Pair("pl", "Zambia"),
-            Pair("ua", "Замбія")
+        visualFormatter = "## ### ####",
+        translatedNames = mapOf(
+            "en" to "Zambia",
+            "pl" to "Zambia",
+            "ua" to "Замбія",
+            "cn" to "赞比亚",
+            "de" to "Sambia",
+            "es" to "Zambia",
+            "fr" to "Zambie",
+            "ja" to "ザンビア",
+            "kr" to "잠비아",
+            "pt" to "Zâmbia"
         )
-    ),CountryCallingData(
+    ),
+    CountryCallingData(
         name = "Zimbabwe",
         prefix = "+263",
         flag = R.drawable.zw,
@@ -2804,10 +4739,18 @@ val countries = listOf(
         minPhoneLength = 9,
         maxPhoneLength = 9,
         countryCode = "ZW",
-        translatedNames = listOf(
-            Pair("en", "Zimbabwe"),
-            Pair("pl", "Zimbabwe"),
-            Pair("ua", "Зімбабве")
+        visualFormatter = "# ######",
+        translatedNames = mapOf(
+            "en" to "Zimbabwe",
+            "pl" to "Zimbabwe",
+            "ua" to "Зімбабве",
+            "cn" to "津巴布韦",
+            "de" to "Simbabwe",
+            "es" to "Zimbabue",
+            "fr" to "Zimbabwe",
+            "ja" to "ジンバブエ",
+            "kr" to "짐바브웨",
+            "pt" to "Zimbabué"
         )
     ),
 )

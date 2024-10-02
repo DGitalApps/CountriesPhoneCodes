@@ -20,6 +20,7 @@ object CountryCallingUtil {
                 countryCode = countryPhoneData.countryCode,
                 minPhoneLength = countryPhoneData.minPhoneLength,
                 maxPhoneLength = countryPhoneData.maxPhoneLength,
+                visualFormatter = countryPhoneData.visualFormatter,
                 translatedNames = countryPhoneData.translatedNames)
         }.sortedBy { it.name }
     }
