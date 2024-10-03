@@ -39,8 +39,6 @@ List of countries with:
 ## License
 Licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
  ```
- Copyright (C) 2012-2022 ZXing authors, Journey Mobile
-
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
