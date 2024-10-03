@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/DGitalApps/CountriesPhoneCodes.svg)](https://jitpack.io/#DGitalApps/CountriesPhoneCodes)
+## CountriesPhoneCodes [![](https://jitpack.io/v/DGitalApps/CountriesPhoneCodes.svg)](https://jitpack.io/#DGitalApps/CountriesPhoneCodes)
 ## Introduction
 Helper to create own phone number prefix calling phone picker. Create for Android's apps.
 ## Use Library
