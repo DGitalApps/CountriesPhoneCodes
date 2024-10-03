@@ -17,7 +17,7 @@
     "countryCode": "AL",
     "flag": "🇦🇱",
     "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "minPhoneLength": 3,
     "name": "Albania",
     "prefix": "+355",
     "translatedNames": {
@@ -31,7 +31,7 @@
     "countryCode": "DZ",
     "flag": "🇩🇿",
     "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "minPhoneLength": 8,
     "name": "Algeria",
     "prefix": "+213",
     "translatedNames": {
@@ -58,7 +58,7 @@
   {
     "countryCode": "AD",
     "flag": "🇦🇩",
-    "maxPhoneLength": 6,
+    "maxPhoneLength": 9,
     "minPhoneLength": 6,
     "name": "Andorra",
     "prefix": "+376",
@@ -114,8 +114,8 @@
   {
     "countryCode": "AR",
     "flag": "🇦🇷",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 6,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
     "name": "Argentina",
     "prefix": "+54",
     "translatedNames": {
@@ -128,8 +128,8 @@
   {
     "countryCode": "AM",
     "flag": "🇦🇲",
-    "maxPhoneLength": 6,
-    "minPhoneLength": 6,
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
     "name": "Armenia",
     "prefix": "+374",
     "translatedNames": {
@@ -156,8 +156,8 @@
   {
     "countryCode": "AU",
     "flag": "🇦🇺",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 15,
+    "minPhoneLength": 5,
     "name": "Australia",
     "prefix": "+61",
     "translatedNames": {
@@ -170,8 +170,8 @@
   {
     "countryCode": "AT",
     "flag": "🇦🇹",
-    "maxPhoneLength": 11,
-    "minPhoneLength": 10,
+    "maxPhoneLength": 13,
+    "minPhoneLength": 4,
     "name": "Austria",
     "prefix": "+43",
     "translatedNames": {
@@ -185,7 +185,7 @@
     "countryCode": "AZ",
     "flag": "🇦🇿",
     "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "minPhoneLength": 8,
     "name": "Azerbaijan",
     "prefix": "+994",
     "translatedNames": {
@@ -213,7 +213,7 @@
     "countryCode": "BD",
     "flag": "🇧🇩",
     "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "minPhoneLength": 6,
     "name": "Bangladesh",
     "prefix": "+880",
     "translatedNames": {
@@ -240,7 +240,7 @@
   {
     "countryCode": "BY",
     "flag": "🇧🇾",
-    "maxPhoneLength": 9,
+    "maxPhoneLength": 10,
     "minPhoneLength": 9,
     "name": "Belarus",
     "prefix": "+375",
@@ -255,7 +255,7 @@
     "countryCode": "BE",
     "flag": "🇧🇪",
     "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "minPhoneLength": 8,
     "name": "Belgium",
     "prefix": "+32",
     "translatedNames": {
@@ -310,7 +310,7 @@
   {
     "countryCode": "BT",
     "flag": "🇧🇹",
-    "maxPhoneLength": 7,
+    "maxPhoneLength": 8,
     "minPhoneLength": 7,
     "name": "Bhutan",
     "prefix": "+975",
@@ -324,8 +324,8 @@
   {
     "countryCode": "BO",
     "flag": "🇧🇴",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
     "name": "Bolivia",
     "prefix": "+591",
     "translatedNames": {
@@ -352,7 +352,7 @@
   {
     "countryCode": "BW",
     "flag": "🇧🇼",
-    "maxPhoneLength": 7,
+    "maxPhoneLength": 8,
     "minPhoneLength": 7,
     "name": "Botswana",
     "prefix": "+267",
@@ -366,8 +366,8 @@
   {
     "countryCode": "BR",
     "flag": "🇧🇷",
-    "maxPhoneLength": 11,
-    "minPhoneLength": 11,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
     "name": "Brazil",
     "prefix": "+55",
     "translatedNames": {
@@ -409,7 +409,7 @@
     "countryCode": "BG",
     "flag": "🇧🇬",
     "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "minPhoneLength": 7,
     "name": "Bulgaria",
     "prefix": "+359",
     "translatedNames": {
@@ -450,8 +450,8 @@
   {
     "countryCode": "KH",
     "flag": "🇰🇭",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
     "name": "Cambodia",
     "prefix": "+855",
     "translatedNames": {
@@ -464,8 +464,8 @@
   {
     "countryCode": "CM",
     "flag": "🇨🇲",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
     "name": "Cameroon",
     "prefix": "+237",
     "translatedNames": {
@@ -534,7 +534,7 @@
   {
     "countryCode": "TD",
     "flag": "🇹🇩",
-    "maxPhoneLength": 6,
+    "maxPhoneLength": 8,
     "minPhoneLength": 6,
     "name": "Chad",
     "prefix": "+235",
@@ -549,7 +549,7 @@
     "countryCode": "CL",
     "flag": "🇨🇱",
     "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "minPhoneLength": 8,
     "name": "Chile",
     "prefix": "+56",
     "translatedNames": {
@@ -562,8 +562,8 @@
   {
     "countryCode": "CN",
     "flag": "🇨🇳",
-    "maxPhoneLength": 11,
-    "minPhoneLength": 11,
+    "maxPhoneLength": 12,
+    "minPhoneLength": 5,
     "name": "China",
     "prefix": "+86",
     "translatedNames": {
@@ -577,7 +577,7 @@
     "countryCode": "CO",
     "flag": "🇨🇴",
     "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "minPhoneLength": 8,
     "name": "Colombia",
     "prefix": "+57",
     "translatedNames": {
@@ -605,7 +605,7 @@
     "countryCode": "CG",
     "flag": "🇨🇬",
     "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "minPhoneLength": 5,
     "name": "Congo (Rep.)",
     "prefix": "+242",
     "translatedNames": {
@@ -613,7 +613,7 @@
       "pl": "Republika Konga",
       "ua": "Республіка Конго"
     },
-    "visualFormatter": "## ### ####"
+    "visualFormatter": "### ## ##"
   },
   {
     "countryCode": "CK",
@@ -660,8 +660,8 @@
   {
     "countryCode": "HR",
     "flag": "🇭🇷",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 12,
+    "minPhoneLength": 8,
     "name": "Croatia",
     "prefix": "+385",
     "translatedNames": {
@@ -675,7 +675,7 @@
     "countryCode": "CU",
     "flag": "🇨🇺",
     "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "minPhoneLength": 6,
     "name": "Cuba",
     "prefix": "+53",
     "translatedNames": {
@@ -688,7 +688,7 @@
   {
     "countryCode": "CY",
     "flag": "🇨🇾",
-    "maxPhoneLength": 8,
+    "maxPhoneLength": 11,
     "minPhoneLength": 8,
     "name": "Cyprus",
     "prefix": "+357",
@@ -702,8 +702,8 @@
   {
     "countryCode": "CZ",
     "flag": "🇨🇿",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 12,
+    "minPhoneLength": 4,
     "name": "Czech Republic",
     "prefix": "+420",
     "translatedNames": {
@@ -716,8 +716,8 @@
   {
     "countryCode": "CD",
     "flag": "🇨🇩",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 5,
     "name": "Congo (Dem. Rep.)",
     "prefix": "+243",
     "translatedNames": {
@@ -744,8 +744,8 @@
   {
     "countryCode": "DJ",
     "flag": "🇩🇯",
-    "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "maxPhoneLength": 6,
+    "minPhoneLength": 6,
     "name": "Djibouti",
     "prefix": "+253",
     "translatedNames": {
@@ -795,13 +795,13 @@
       "pl": "Timor-Leste",
       "ua": "Тімор-Лешті"
     },
-    "visualFormatter": "# #####"
+    "visualFormatter": "### ####"
   },
   {
     "countryCode": "EC",
     "flag": "🇪🇨",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
     "name": "Ecuador",
     "prefix": "+593",
     "translatedNames": {
@@ -870,8 +870,8 @@
   {
     "countryCode": "EE",
     "flag": "🇪🇪",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 7,
     "name": "Estonia",
     "prefix": "+372",
     "translatedNames": {
@@ -898,8 +898,8 @@
   {
     "countryCode": "FO",
     "flag": "🇫🇴",
-    "maxPhoneLength": 5,
-    "minPhoneLength": 5,
+    "maxPhoneLength": 6,
+    "minPhoneLength": 6,
     "name": "Faroe Islands",
     "prefix": "+298",
     "translatedNames": {
@@ -926,8 +926,8 @@
   {
     "countryCode": "FI",
     "flag": "🇫🇮",
-    "maxPhoneLength": 0,
-    "minPhoneLength": 0,
+    "maxPhoneLength": 12,
+    "minPhoneLength": 5,
     "name": "Finland",
     "prefix": "+358",
     "translatedNames": {
@@ -968,8 +968,8 @@
   {
     "countryCode": "PF",
     "flag": "🇵🇫",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 6,
+    "minPhoneLength": 6,
     "name": "French Polynesia",
     "prefix": "+689",
     "translatedNames": {
@@ -983,7 +983,7 @@
     "countryCode": "GA",
     "flag": "🇬🇦",
     "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "minPhoneLength": 6,
     "name": "Gabon",
     "prefix": "+241",
     "translatedNames": {
@@ -1024,8 +1024,8 @@
   {
     "countryCode": "DE",
     "flag": "🇩🇪",
-    "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "maxPhoneLength": 13,
+    "minPhoneLength": 6,
     "name": "Germany",
     "prefix": "+49",
     "translatedNames": {
@@ -1039,7 +1039,7 @@
     "countryCode": "GH",
     "flag": "🇬🇭",
     "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "minPhoneLength": 5,
     "name": "Ghana",
     "prefix": "+233",
     "translatedNames": {
@@ -1117,7 +1117,7 @@
       "pl": "Gwadelupa",
       "ua": "Гваделупа"
     },
-    "visualFormatter": ""
+    "visualFormatter": "#########"
   },
   {
     "countryCode": "GU",
@@ -1150,8 +1150,8 @@
   {
     "countryCode": "GN",
     "flag": "🇬🇳",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
     "name": "Guinea",
     "prefix": "+224",
     "translatedNames": {
@@ -1164,8 +1164,8 @@
   {
     "countryCode": "GW",
     "flag": "🇬🇼",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
     "name": "Guinea-Bissau",
     "prefix": "+245",
     "translatedNames": {
@@ -1220,7 +1220,7 @@
   {
     "countryCode": "HK",
     "flag": "🇭🇰",
-    "maxPhoneLength": 8,
+    "maxPhoneLength": 9,
     "minPhoneLength": 8,
     "name": "Hong Kong",
     "prefix": "+852",
@@ -1235,7 +1235,7 @@
     "countryCode": "HU",
     "flag": "🇭🇺",
     "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "minPhoneLength": 8,
     "name": "Hungary",
     "prefix": "+36",
     "translatedNames": {
@@ -1248,7 +1248,7 @@
   {
     "countryCode": "IS",
     "flag": "🇮🇸",
-    "maxPhoneLength": 7,
+    "maxPhoneLength": 9,
     "minPhoneLength": 7,
     "name": "Iceland",
     "prefix": "+354",
@@ -1276,8 +1276,8 @@
   {
     "countryCode": "ID",
     "flag": "🇮🇩",
-    "maxPhoneLength": 11,
-    "minPhoneLength": 11,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 5,
     "name": "Indonesia",
     "prefix": "+62",
     "translatedNames": {
@@ -1290,8 +1290,8 @@
   {
     "countryCode": "IR",
     "flag": "🇮🇷",
-    "maxPhoneLength": 11,
-    "minPhoneLength": 11,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 6,
     "name": "Iran",
     "prefix": "+98",
     "translatedNames": {
@@ -1305,7 +1305,7 @@
     "countryCode": "IQ",
     "flag": "🇮🇶",
     "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "minPhoneLength": 8,
     "name": "Iraq",
     "prefix": "+964",
     "translatedNames": {
@@ -1318,8 +1318,8 @@
   {
     "countryCode": "IE",
     "flag": "🇮🇪",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 7,
+    "minPhoneLength": 11,
     "name": "Ireland",
     "prefix": "+353",
     "translatedNames": {
@@ -1333,7 +1333,7 @@
     "countryCode": "IL",
     "flag": "🇮🇱",
     "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "minPhoneLength": 8,
     "name": "Israel",
     "prefix": "+972",
     "translatedNames": {
@@ -1346,7 +1346,7 @@
   {
     "countryCode": "IT",
     "flag": "🇮🇹",
-    "maxPhoneLength": 10,
+    "maxPhoneLength": 11,
     "minPhoneLength": 10,
     "name": "Italy",
     "prefix": "+39",
@@ -1389,7 +1389,7 @@
     "countryCode": "JO",
     "flag": "🇯🇴",
     "maxPhoneLength": 9,
-    "minPhoneLength": 8,
+    "minPhoneLength": 5,
     "name": "Jordan",
     "prefix": "+962",
     "translatedNames": {
@@ -1411,7 +1411,7 @@
       "pl": "Kazachstan",
       "ua": "Казахстан"
     },
-    "visualFormatter": "## ### ## ##"
+    "visualFormatter": "### ### ## ##"
   },
   {
     "countryCode": "KE",
@@ -1430,8 +1430,8 @@
   {
     "countryCode": "KI",
     "flag": "🇰🇮",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 5,
+    "minPhoneLength": 5,
     "name": "Kiribati",
     "prefix": "+686",
     "translatedNames": {
@@ -1444,8 +1444,8 @@
   {
     "countryCode": "XK",
     "flag": "🇽🇰",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 6,
     "name": "Kosovo",
     "prefix": "+383",
     "translatedNames": {
@@ -1453,7 +1453,7 @@
       "pl": "Kosowo",
       "ua": "Косово"
     },
-    "visualFormatter": ""
+    "visualFormatter": "### ### ###"
   },
   {
     "countryCode": "KW",
@@ -1556,8 +1556,8 @@
   {
     "countryCode": "LY",
     "flag": "🇱🇾",
-    "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 8,
     "name": "Libya",
     "prefix": "+218",
     "translatedNames": {
@@ -1565,12 +1565,12 @@
       "pl": "Libia",
       "ua": "Лівія"
     },
-    "visualFormatter": "### ####"
+    "visualFormatter": "## ### ####"
   },
   {
     "countryCode": "LI",
     "flag": "🇱🇮",
-    "maxPhoneLength": 7,
+    "maxPhoneLength": 9,
     "minPhoneLength": 7,
     "name": "Liechtenstein",
     "prefix": "+423",
@@ -1579,7 +1579,7 @@
       "pl": "Liechtenstein",
       "ua": "Ліхтенштейн"
     },
-    "visualFormatter": "### ### ####"
+    "visualFormatter": "### ## ##"
   },
   {
     "countryCode": "LT",
@@ -1626,8 +1626,8 @@
   {
     "countryCode": "MG",
     "flag": "🇲🇬",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 9,
     "name": "Madagascar",
     "prefix": "+261",
     "translatedNames": {
@@ -1752,8 +1752,8 @@
   {
     "countryCode": "MU",
     "flag": "🇲🇺",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 7,
+    "minPhoneLength": 7,
     "name": "Mauritius",
     "prefix": "+230",
     "translatedNames": {
@@ -1767,7 +1767,7 @@
     "countryCode": "MX",
     "flag": "🇲🇽",
     "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "minPhoneLength": 8,
     "name": "Mexico",
     "prefix": "+52",
     "translatedNames": {
@@ -1775,7 +1775,7 @@
       "pl": "Meksyk",
       "ua": "Мексика"
     },
-    "visualFormatter": "## ## ####"
+    "visualFormatter": "## #### ####"
   },
   {
     "countryCode": "FM",
@@ -1878,8 +1878,8 @@
   {
     "countryCode": "MZ",
     "flag": "🇲🇿",
-    "maxPhoneLength": 12,
-    "minPhoneLength": 12,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 8,
     "name": "Mozambique",
     "prefix": "+258",
     "translatedNames": {
@@ -1892,8 +1892,8 @@
   {
     "countryCode": "MM",
     "flag": "🇲🇲",
-    "maxPhoneLength": 0,
-    "minPhoneLength": 0,
+    "maxPhoneLength": 11,
+    "minPhoneLength": 8,
     "name": "Myanmar",
     "prefix": "+95",
     "translatedNames": {
@@ -1906,8 +1906,8 @@
   {
     "countryCode": "NA",
     "flag": "🇳🇦",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 6,
     "name": "Namibia",
     "prefix": "+264",
     "translatedNames": {
@@ -1934,8 +1934,8 @@
   {
     "countryCode": "NP",
     "flag": "🇳🇵",
-    "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 8,
     "name": "Nepal",
     "prefix": "+977",
     "translatedNames": {
@@ -1976,8 +1976,8 @@
   {
     "countryCode": "NZ",
     "flag": "🇳🇿",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 3,
     "name": "New Zealand",
     "prefix": "+64",
     "translatedNames": {
@@ -2018,8 +2018,8 @@
   {
     "countryCode": "NG",
     "flag": "🇳🇬",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 7,
     "name": "Nigeria",
     "prefix": "+234",
     "translatedNames": {
@@ -2032,7 +2032,7 @@
   {
     "countryCode": "KP",
     "flag": "🇰🇵",
-    "maxPhoneLength": 13,
+    "maxPhoneLength": 17,
     "minPhoneLength": 4,
     "name": "North Korea",
     "prefix": "+850",
@@ -2131,7 +2131,7 @@
     "countryCode": "PA",
     "flag": "🇵🇦",
     "maxPhoneLength": 8,
-    "minPhoneLength": 8,
+    "minPhoneLength": 7,
     "name": "Panama",
     "prefix": "+507",
     "translatedNames": {
@@ -2237,7 +2237,7 @@
       "pl": "Portoryko",
       "ua": "Пуерто-Рико"
     },
-    "visualFormatter": ""
+    "visualFormatter": "##########"
   },
   {
     "countryCode": "QA",
@@ -2256,8 +2256,8 @@
   {
     "countryCode": "RO",
     "flag": "🇷🇴",
-    "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
     "name": "Romania",
     "prefix": "+40",
     "translatedNames": {
@@ -2383,7 +2383,7 @@
     "countryCode": "SA",
     "flag": "🇸🇦",
     "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "minPhoneLength": 8,
     "name": "Saudi Arabia",
     "prefix": "+966",
     "translatedNames": {
@@ -2480,8 +2480,8 @@
   {
     "countryCode": "SI",
     "flag": "🇸🇮",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 8,
+    "minPhoneLength": 8,
     "name": "Slovenia",
     "prefix": "+386",
     "translatedNames": {
@@ -2494,8 +2494,8 @@
   {
     "countryCode": "SB",
     "flag": "🇸🇧",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 5,
+    "minPhoneLength": 5,
     "name": "Solomon Islands",
     "prefix": "+677",
     "translatedNames": {
@@ -2508,8 +2508,8 @@
   {
     "countryCode": "SO",
     "flag": "🇸🇴",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 8,
+    "maxPhoneLength": 8,
+    "minPhoneLength": 5,
     "name": "Somalia",
     "prefix": "+252",
     "translatedNames": {
@@ -2536,8 +2536,8 @@
   {
     "countryCode": "KR",
     "flag": "🇰🇷",
-    "maxPhoneLength": 8,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 11,
+    "minPhoneLength": 8,
     "name": "South Korea",
     "prefix": "+82",
     "translatedNames": {
@@ -2578,8 +2578,8 @@
   {
     "countryCode": "LK",
     "flag": "🇱🇰",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
     "name": "Sri Lanka",
     "prefix": "+94",
     "translatedNames": {
@@ -2592,8 +2592,8 @@
   {
     "countryCode": "SD",
     "flag": "🇸🇩",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
     "name": "Sudan",
     "prefix": "+249",
     "translatedNames": {
@@ -2634,7 +2634,7 @@
   {
     "countryCode": "SE",
     "flag": "🇸🇪",
-    "maxPhoneLength": 7,
+    "maxPhoneLength": 13,
     "minPhoneLength": 7,
     "name": "Sweden",
     "prefix": "+46",
@@ -2662,8 +2662,8 @@
   {
     "countryCode": "SY",
     "flag": "🇸🇾",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 8,
     "name": "Syria",
     "prefix": "+963",
     "translatedNames": {
@@ -2677,7 +2677,7 @@
     "countryCode": "TW",
     "flag": "🇹🇼",
     "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "minPhoneLength": 8,
     "name": "Taiwan",
     "prefix": "+886",
     "translatedNames": {
@@ -2704,8 +2704,8 @@
   {
     "countryCode": "TZ",
     "flag": "🇹🇿",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
     "name": "Tanzania",
     "prefix": "+255",
     "translatedNames": {
@@ -2719,7 +2719,7 @@
     "countryCode": "TH",
     "flag": "🇹🇭",
     "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "minPhoneLength": 8,
     "name": "Thailand",
     "prefix": "+66",
     "translatedNames": {
@@ -2802,8 +2802,8 @@
   {
     "countryCode": "TR",
     "flag": "🇹🇷",
-    "maxPhoneLength": 11,
-    "minPhoneLength": 11,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
     "name": "Turkey",
     "prefix": "+90",
     "translatedNames": {
@@ -2844,8 +2844,8 @@
   {
     "countryCode": "UG",
     "flag": "🇺🇬",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 9,
+    "minPhoneLength": 9,
     "name": "Uganda",
     "prefix": "+256",
     "translatedNames": {
@@ -2873,7 +2873,7 @@
     "countryCode": "AE",
     "flag": "🇦🇪",
     "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "minPhoneLength": 8,
     "name": "United Arab Emirates",
     "prefix": "+971",
     "translatedNames": {
@@ -2887,7 +2887,7 @@
     "countryCode": "GB",
     "flag": "🇬🇧",
     "maxPhoneLength": 10,
-    "minPhoneLength": 10,
+    "minPhoneLength": 7,
     "name": "United Kingdom",
     "prefix": "+44",
     "translatedNames": {
@@ -2895,7 +2895,7 @@
       "pl": "Wielka Brytania",
       "ua": "Великобританія"
     },
-    "visualFormatter": ""
+    "visualFormatter": "##########"
   },
   {
     "countryCode": "US",
@@ -2956,8 +2956,8 @@
   {
     "countryCode": "VE",
     "flag": "🇻🇪",
-    "maxPhoneLength": 7,
-    "minPhoneLength": 7,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 10,
     "name": "Venezuela",
     "prefix": "+58",
     "translatedNames": {
@@ -2970,8 +2970,8 @@
   {
     "countryCode": "VN",
     "flag": "🇻🇳",
-    "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "maxPhoneLength": 10,
+    "minPhoneLength": 7,
     "name": "Vietnam",
     "prefix": "+84",
     "translatedNames": {
@@ -2985,7 +2985,7 @@
     "countryCode": "YE",
     "flag": "🇾🇪",
     "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "minPhoneLength": 6,
     "name": "Yemen",
     "prefix": "+967",
     "translatedNames": {
@@ -3013,7 +3013,7 @@
     "countryCode": "ZW",
     "flag": "🇿🇼",
     "maxPhoneLength": 9,
-    "minPhoneLength": 9,
+    "minPhoneLength": 5,
     "name": "Zimbabwe",
     "prefix": "+263",
     "translatedNames": {

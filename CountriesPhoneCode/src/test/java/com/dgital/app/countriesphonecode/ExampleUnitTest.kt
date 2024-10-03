@@ -86,4 +86,35 @@ class ExampleUnitTest {
         assertEquals("Poland", countriesEN.find { it.countryCode ==  CountriesTranslations.PL.countryCode.uppercase()}?.name)
         assertEquals("Pologne", countriesFR.find { it.countryCode ==  CountriesTranslations.PL.countryCode.uppercase()}?.name)
     }
+
+    @Test
+    fun `Check get country and with translation`() {
+        val poland = CountryCallingUtil.getCountryData("pl")
+        val poland2 = CountryCallingUtil.getCountryData("PL")
+        val poland3 = CountryCallingUtil.getCountryData("Pl")
+
+        val polandTranslated = CountryCallingUtil.getCountryData("pl", true)
+        val polandTranslated2 = CountryCallingUtil.getCountryData("PL", true)
+        val polandTranslated3 = CountryCallingUtil.getCountryData("Pl", true)
+
+        val polandTranslatedDE = CountryCallingUtil.getCountryData("pl", true, "de")
+
+        assertEquals("Poland", poland?.name)
+        assertEquals("Poland", poland2?.name)
+        assertEquals("Poland", poland3?.name)
+
+        assertEquals("Polska", polandTranslated?.name)
+        assertEquals("Polska", polandTranslated2?.name)
+        assertEquals("Polska", polandTranslated3?.name)
+
+        assertEquals("Polen", polandTranslatedDE?.name)
+    }
+
+    @Test
+    fun `Check if null returned for missing country`() {
+        val unexistingCountry = CountryCallingUtil.getCountryData("XX")
+
+        assertEquals(null, unexistingCountry?.name)
+        assertEquals(null, unexistingCountry)
+    }
 }
