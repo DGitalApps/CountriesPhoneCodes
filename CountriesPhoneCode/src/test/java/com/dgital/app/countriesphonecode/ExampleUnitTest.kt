@@ -93,6 +93,9 @@ class ExampleUnitTest {
         val poland2 = CountryCallingUtil.getCountryData("PL")
         val poland3 = CountryCallingUtil.getCountryData("Pl")
 
+        val xd = CountryCallingUtil.getAllPhones()
+            .map { it.countryCode to it.name }
+
         val polandTranslated = CountryCallingUtil.getCountryData("pl", true)
         val polandTranslated2 = CountryCallingUtil.getCountryData("PL", true)
         val polandTranslated3 = CountryCallingUtil.getCountryData("Pl", true)
@@ -116,5 +119,13 @@ class ExampleUnitTest {
 
         assertEquals(null, unexistingCountry?.name)
         assertEquals(null, unexistingCountry)
+    }
+
+    @Test
+    fun `Check if CountryCodeIso2 works`() {
+        val polandObject = CountryCallingUtil.getCountryData(code = CountryCodeIso2.Poland.iso2)
+
+        assertEquals("Poland", polandObject?.getNameInProperLanguage("pl"))
+        assertEquals("Polska", polandObject?.getNameInProperLanguage(CountryCodeIso2.Poland.iso2))
     }
 }
