@@ -14,6 +14,8 @@ In app Module:
  ```kts
     val countriesData = CountryCallingUtil.getAllPhones() // get all data
     val countriesDataTrasnlated = CountryCallingUtil.getTranslated("pl") //get all data in polish language (country name)
+
+    val poland = CountryCallingUtil.getCountryData("pl") //Retrieves contry data if exist by passed country code in ISO2 format
   ```
 ## Functionalities
 List of countries with:
